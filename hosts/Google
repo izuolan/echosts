@@ -1,0 +1,1079 @@
+#https://github.com/catbb49294929/samecho_hosts
+#Hosts更新QQ群:162157583|资源分享
+
+
+# Google.com
+216.58.221.51 connectivitycheck.android.com
+216.58.221.51 myaccount.google.com
+216.58.221.51 checkout.google.com
+203.208.49.190 ssl.google-analytics.com
+216.58.221.51 accounts.gstatic.com
+64.233.189.211 proxy.googlezip.net
+64.233.189.211 compress.googlezip.net
+64.233.189.211 check.googlezip.net
+64.233.189.211 proxy-dev.googlezip.net
+2001:4860:4860::8888 google-public-dns-a.google.com
+2001:4860:4860::8844 google-public-dns-b.google.com
+216.58.221.51 google.com
+216.58.221.51 www.google.com
+216.58.221.51 admin.google.com
+216.58.221.51 accounts.google.com #accounts.l.google.com
+216.58.221.51 bpui0.google.com #www3.l.google.com
+216.58.221.51 clients1.google.com #clients.l.google.com
+216.58.221.51 clients2.google.com #clients.l.google.com
+216.58.221.51 clients3.google.com #clients.l.google.com
+216.58.221.51 clients4.google.com #clients.l.google.com
+216.58.221.51 clients5.google.com #clients.l.google.com
+216.58.221.51 clients6.google.com #clients.l.google.com
+216.58.221.51 encrypted.google.com #www3.l.google.com
+216.58.221.51 encrypted-tbn0.google.com #encrypted-tbn.l.google.com
+216.58.221.51 encrypted-tbn1.google.com #encrypted-tbn.l.google.com
+216.58.221.51 encrypted-tbn2.google.com #encrypted-tbn.l.google.com
+216.58.221.51 encrypted-tbn3.google.com #encrypted-tbn.l.google.com
+216.58.221.51 goto.google.com #www3.l.google.com
+216.58.221.51 gxc.google.com #www3.l.google.com
+216.58.221.51 history.google.com #history.l.google.com
+216.58.221.51 investor.google.com #www3.l.google.com
+2607:f8b0:4007:804::1005 ipv6.google.com #ipv6.l.google.com
+216.58.221.51 jmt0.google.com #www3.l.google.com
+216.58.221.51 linkhelp.clients.google.com #clients.l.google.com
+216.58.221.51 upload.clients.google.com #clients.l.google.com
+216.58.221.51 m.google.com #mobile.l.google.com
+216.58.221.51 mobile.google.com #mobile.l.google.com
+216.58.221.51 pki.google.com #www3.l.google.com
+216.58.221.51 services.google.com #www3.l.google.com
+216.58.221.51 suggestqueries.google.com #suggestqueries.l.google.com
+216.58.221.51 support.google.com #www3.l.google.com
+216.58.221.51 upload.google.com #large-uploads.l.google.com
+216.58.221.51 client-channel.google.com
+216.58.221.51 *.client-channel.google.com
+216.58.221.51 0.client-channel.google.com
+216.58.221.51 1.client-channel.google.com
+216.58.221.51 2.client-channel.google.com
+#216.58.221.51 googletagmanager.com
+#203.208.48.158 www.googletagmanager.com
+# 谷歌香港
+216.58.221.51 google.com.hk
+216.58.221.51 www.google.com.hk
+216.58.221.51 accounts.google.com.hk #accounts-cctld.l.google.com
+216.58.221.51 clients1.google.com.hk #clients-cctld.l.google.com
+#2404:6800:4008:c00::63 desktop.google.com.hk #desktop.l.google.com
+216.58.221.51 m.google.com.hk #mobile.l.google.com
+216.58.221.51 gxc.google.com.hk #www3.l.google.com
+216.58.221.51 id.google.com.hk #id.l.google.com
+2607:f8b0:4007:804::1005 ipv6.google.com.hk #ipv6.l.google.com
+216.58.221.51 mobile.google.com.hk #www.google.com
+216.58.221.51 picasaweb.google.com.hk #picasaweb.l.google.com
+www.googlechinawebmaster.com www.googlechinawebmaster.com
+# 谷歌中国
+216.58.221.51 g.cn
+216.58.221.51 google.cn
+216.58.221.51 www.google.cn
+2607:f8b0:4007:804::1005 ipv6.google.cn #ipv6.l.google.com
+216.58.221.51 m.google.cn #www.google.cn
+216.58.221.51 news.google.cn #www.google.cn
+216.58.221.51 video.google.cn #www.google.cn
+216.58.221.51 music.googleusercontent.cn #music-china.l.google.com
+216.58.221.51 www.265.com #265.com
+216.58.221.51 265.com
+# Google 台湾
+216.58.221.51 www.google.com.tw
+216.58.221.51 clients1.google.com.tw #clients-cctld.l.google.com
+216.58.221.51 picasaweb.google.com.tw #picasaweb.l.google.com
+# Google 日本
+216.58.221.51 www.google.co.jp
+2607:f8b0:4007:804::1005 ipv6.google.co.jp #ipv6.l.google.com
+# 其他
+64.233.184.141 402.appspot.com
+216.58.221.51 accounts.google.co.jp
+216.58.221.51 www.google.ae
+216.58.221.51 www.google.com.ar
+216.58.221.51 www.google.at
+216.58.221.51 www.google.com.au
+216.58.221.51 www.google.be
+216.58.221.51 www.google.com.br
+216.58.221.51 www.google.ca
+216.58.221.51 www.google.ch
+216.58.221.51 www.google.fi
+216.58.221.51 www.google.fr
+216.58.221.51 www.google.de
+216.58.221.51 www.google.com.gr
+216.58.221.51 www.google.co.il
+216.58.221.51 www.google.co.in
+216.58.221.51 www.google.it
+216.58.221.51 www.google.co.kr
+216.58.221.51 www.google.lt
+216.58.221.51 www.google.lv
+216.58.221.51 www.google.com.ly
+216.58.221.51 www.google.com.my
+216.58.221.51 www.google.nl
+216.58.221.51 www.google.co.nz
+216.58.221.51 www.google.com.pe
+216.58.221.51 www.google.com.ph
+216.58.221.51 www.google.com.pk
+216.58.221.51 www.google.pl
+216.58.221.51 www.google.pt
+216.58.221.51 www.google.ro
+216.58.221.51 www.google.com.ru
+216.58.221.51 www.google.com.sg
+216.58.221.51 www.google.com.tr
+216.58.221.51 www.google.com.ua
+216.58.221.51 www.google.co.uk
+216.58.221.51 www.google.co.ve
+216.58.221.51 www.google.com.vn
+216.58.221.51 www.google.co.za
+# Google Apps 企业应用套件
+216.58.221.51 apps.google.com #www3.l.google.com
+216.58.221.51 ghs.google.com #ghs.l.google.com
+216.58.221.51 ghs46.google.com #ghs46.l.google.com
+# Mashups/App Engine GAE
+216.58.221.51 googlemashups.com
+216.58.221.51 www.googlemashups.com #www2.l.google.com
+216.58.221.51 *.googlemashups.com #www2.l.google.com
+216.58.221.51 appengine.google.com #www3.l.google.com
+64.233.184.141 appspot.com
+64.233.184.141 *.appspot.com #appspot.l.google.com
+64.233.184.141 www.appspot.com
+64.233.184.141 betaspike.appspot.com
+64.233.184.141 chrometophone.appspot.com
+64.233.184.141 codereview.appspot.com
+64.233.184.141 evolutionofweb.appspot.com
+64.233.184.141 feedly-beta.appspot.com
+64.233.184.141 googcloudlabs.appspot.com
+64.233.184.141 googlesharedspaces.appspot.com
+64.233.184.141 gv-gadget.appspot.com
+64.233.184.141 haiticrisis.appspot.com
+64.233.184.141 i18napis.appspot.com
+64.233.184.141 moderator.appspot.com
+64.233.184.141 newsfeed-dot-latest-dot-rovio-ad-engine.appspot.com
+64.233.184.141 productideas.appspot.com
+64.233.184.141 project-slingshot-gp.appspot.com
+64.233.184.141 r3269-dot-latest-dot-project-slingshot-gp.appspot.com
+64.233.184.141 storegadgetwizard.appspot.com
+64.233.184.141 welcome-cros.appspot.com
+64.233.184.141 yt-debates.appspot.com
+# Answers/Guru/WenDa 问答社区（国际版已停止运营）
+216.58.221.51 answers.google.com #www3.l.google.com
+#2404:6800:4008:c00::62 guru.google.com
+216.58.221.51 guru.google.co.th #www2.l.google.com
+216.58.221.51 wenda.google.com.hk #www3.l.google.com
+# Blog 博客搜索
+216.58.221.51 blogsearch.google.com #www2.l.google.com
+216.58.221.51 blogsearch.google.com.hk #www2.l.google.com
+216.58.221.51 blogsearch.google.com.tw #www2.l.google.com
+216.58.221.51 blogsearch.google.cn #www.google.cn
+# Blogger 博客服务
+64.233.160.191 www.blogger.com #blogger.l.google.com
+64.233.160.191 blogger.com
+64.233.160.191 blogger.google.com #blogger.l.google.com
+64.233.160.191 www2.blogger.com #blogger.l.google.com
+64.233.160.191 www.blogblog.com #blogger.l.google.com
+64.233.160.191 www1.blogblog.com #blogger.l.google.com
+64.233.160.191 www2.blogblog.com #blogger.l.google.com
+64.233.160.191 beta.blogger.com #blogger.l.google.com
+64.233.160.191 buttons.blogger.com #blogger.l.google.com
+64.233.160.191 buzz.blogger.com #blogger.l.google.com
+64.233.160.191 draft.blogger.com #blogger.l.google.com
+64.233.160.191 status.blogger.com #blogger.l.google.com
+64.233.160.191 help.blogger.com #www2.l.google.com
+64.233.160.191 photos1.blogger.com #photos1.l.google.com
+64.233.160.191 bp0.blogger.com #bloggerphotos.l.google.com
+64.233.160.191 bp1.blogger.com #bloggerphotos.l.google.com
+64.233.160.191 bp2.blogger.com #bloggerphotos.l.google.com
+64.233.160.191 bp3.blogger.com #bloggerphotos.l.google.com
+216.58.221.33 img.blogblog.com #blogspot.l.googleusercontent.com
+216.58.221.33 img1.blogblog.com #blogger.l.google.com
+216.58.221.33 img2.blogblog.com #blogger.l.google.com
+64.233.189.121 www.textcube.com #ghs.l.google.com
+# Blogspot 博客服务
+64.233.160.191 www.blogspot.com #blogger.l.google.com
+64.233.160.191 blogspot.com
+216.58.221.33 blogsofnote.blogspot.com #blogspot.l.googleusercontent.com
+216.58.221.33 knownissues.blogspot.com #blogspot.l.googleusercontent.com
+216.58.221.33 1.bp.blogspot.com #photos-ugc.l.googleusercontent.com
+216.58.221.33 2.bp.blogspot.com #photos-ugc.l.googleusercontent.com
+216.58.221.33 3.bp.blogspot.com #photos-ugc.l.googleusercontent.com
+216.58.221.33 4.bp.blogspot.com #photos-ugc.l.googleusercontent.com
+216.58.221.33 bloggertemplatespreview.blogspot.com #blogspot.l.googleusercontent.com
+# Google 官方博客群
+216.58.221.33 *.blogspot.com #blogspot.l.googleusercontent.com
+216.58.221.33 adwordsapi.blogspot.com
+216.58.221.33 adsense-zhs.blogspot.com
+216.58.221.33 android-developers.blogspot.com
+216.58.221.33 apacdeveloper.blogspot.com
+216.58.221.33 booksearch.blogspot.com
+216.58.221.33 chrome.blogspot.com
+216.58.221.33 doubleclickpublishersapi.blogspot.com
+216.58.221.33 emeadev.blogspot.com
+216.58.221.33 gearsblog.blogspot.com
+216.58.221.33 google-code-featured.blogspot.com
+216.58.221.33 google-entertainment-it.blogspot.com
+216.58.221.33 google-opensource.blogspot.com
+216.58.221.33 googleajaxsearchapi.blogspot.com
+216.58.221.33 googleappengine.blogspot.com
+216.58.221.33 googleappsdeveloper.blogspot.com
+216.58.221.33 googleblog.blogspot.com
+216.58.221.33 googlecheckout.blogspot.com
+216.58.221.33 googlecheckoutapi.blogspot.com
+216.58.221.33 googlechinablog.blogspot.com
+216.58.221.33 googlechromereleases.blogspot.com
+216.58.221.33 googlecode.blogspot.com
+216.58.221.33 googlecustomsearch.blogspot.com
+216.58.221.33 googleenterprise.blogspot.com
+216.58.221.33 googlegeodevelopers.blogspot.com
+216.58.221.33 googlemashupeditor.blogspot.com
+216.58.221.33 googlemobile.blogspot.com
+216.58.221.33 googleplusplatform.blogspot.com
+216.58.221.33 googleresearch.blogspot.com
+216.58.221.33 googletalk.blogspot.com
+216.58.221.33 googlewebmaster-cn.blogspot.com
+216.58.221.33 googlewebmastercentral.blogspot.com
+216.58.221.33 googlewebtoolkit.blogspot.com
+216.58.221.33 golangblog.blogspot.com
+216.58.221.33 gmailblog.blogspot.com
+216.58.221.33 igoogledeveloper.blogspot.com
+216.58.221.33 webmproject.blogspot.com
+216.58.221.33 youtube-global.blogspot.com
+# Books 图书
+216.58.221.51 books.google.cn #www.google.cn
+216.58.221.51 books.google.com #www3.l.google.com
+216.58.221.51 books.google.com.hk #www3.l.google.com
+216.58.221.51 bks0.books.google.com #www3.l.google.com
+216.58.221.51 bks1.books.google.com
+216.58.221.51 bks2.books.google.com
+216.58.221.51 bks3.books.google.com
+216.58.221.51 bks4.books.google.com
+216.58.221.51 bks5.books.google.com
+216.58.221.51 bks6.books.google.com
+216.58.221.51 bks7.books.google.com
+216.58.221.51 bks8.books.google.com
+216.58.221.51 bks9.books.google.com
+216.58.221.51 bks10.books.google.com
+216.58.221.51 bks0.books.google.com.hk
+216.58.221.51 bks1.books.google.com.hk
+216.58.221.51 bks2.books.google.com.hk
+216.58.221.51 bks3.books.google.com.hk
+216.58.221.51 bks4.books.google.com.hk
+216.58.221.51 bks5.books.google.com.hk
+216.58.221.51 bks6.books.google.com.hk
+216.58.221.51 bks7.books.google.com.hk
+216.58.221.51 bks8.books.google.com.hk
+216.58.221.51 bks9.books.google.com.hk
+216.58.221.51 bks10.books.google.com.hk
+216.58.221.51 buzz.google.com #www3.l.google.com
+# Calendar 日历
+216.58.221.51 calendar.google.com #www3.l.google.com
+# Checkout 买家
+#2404:6800:4008:c00::73 checkout.google.com #checkout.l.google.com
+216.58.221.51 wallet.google.com
+# Chrome 谷歌浏览器
+216.58.221.51 www.chrome.com
+216.58.221.51 chrome.google.com #www3.l.google.com
+#2404:6800:4008:c00::66 browsersync.google.com #browsersync.l.google.com
+216.58.221.51 toolbarqueries.google.com #toolbarqueries.l.google.com
+216.58.221.51 toolbarqueries.google.com.hk #toolbarqueries.l.google.com
+216.58.221.51 toolbarqueries.clients.google.com #clients.l.google.com
+# Chromium Chromium 项目
+216.58.221.51 chromium.org
+#64.233.189.121 www.chromium.org #ghs.l.google.com
+#64.233.189.121 dev.chromium.org #ghs.l.google.com
+#64.233.189.121 blog.chromium.org #ghs.l.google.com
+#2404:6800:4008:c00::62 build.chromium.org #planet.chromium.org
+#2404:6800:4008:c00::79 codereview.chromium.org #ghs.l.google.com
+# Chromium OS Chromium 操作系统
+64.233.160.121 goto.ext.google.com #ghs.l.google.com
+# Code 代码
+216.58.221.51 code.google.com #code.l.google.com
+64.233.186.82 *.googlecode.com #googlecode.l.googleusercontent.com
+64.233.186.82 chromium.googlecode.com #googlecode.l.googleusercontent.com
+64.233.186.82 closure-library.googlecode.com #googlecode.l.googleusercontent.com
+64.233.186.82 earth-api-samples.googlecode.com #googlecode.l.googleusercontent.com
+64.233.186.82 gmaps-samples-flash.googlecode.com #googlecode.l.googleusercontent.com
+64.233.186.82 googleappengine.googlecode.com #googlecode.l.googleusercontent.com
+64.233.186.82 google-code-feed-gadget.googlecode.com #googlecode.l.googleusercontent.com
+64.233.186.82 www.googlesource.com #googlecode.l.googleusercontent.com
+64.233.186.82 android.googlesource.com #googlecode.l.googleusercontent.com
+# Desktop 桌面
+#2404:6800:4008:c00::68 desktop.google.com #desktop.l.google.com
+# Directory 网页目录
+216.58.221.51 directory.google.com #www3.l.google.com
+216.58.221.51 dir.google.com #www3.l.google.com
+# Docs 文档
+216.58.221.33 googledrive.com
+216.58.221.51 docs.google.com
+216.58.221.51 drive.google.com
+216.58.221.51 docs0.google.com #www3.l.google.com
+216.58.221.51 docs1.google.com #www3.l.google.com
+216.58.221.51 docs2.google.com #www3.l.google.com
+216.58.221.51 docs3.google.com #www3.l.google.com
+216.58.221.51 docs4.google.com #www3.l.google.com
+216.58.221.51 docs5.google.com #www3.l.google.com
+216.58.221.51 docs6.google.com #www3.l.google.com
+216.58.221.51 docs7.google.com #www3.l.google.com
+216.58.221.51 docs8.google.com #www3.l.google.com
+216.58.221.51 docs9.google.com #www3.l.google.com
+216.58.221.51 writely.google.com #www3.l.google.com
+64.233.189.122 upload.docs.google.com #large-uploads.l.google.com
+64.233.189.122 upload.drive.google.com #large-uploads.l.google.com
+216.58.221.199 *.docs.google.com #browserchannel-docs.l.google.com
+216.58.221.199 *.drive.google.com #browserchannel-docs.l.google.com
+216.58.221.199 0.docs.google.com
+216.58.221.199 1.docs.google.com
+216.58.221.199 2.docs.google.com
+216.58.221.199 3.docs.google.com
+216.58.221.199 4.docs.google.com
+216.58.221.199 5.docs.google.com
+216.58.221.199 6.docs.google.com
+216.58.221.199 7.docs.google.com
+216.58.221.199 8.docs.google.com
+216.58.221.199 9.docs.google.com
+216.58.221.199 10.docs.google.com
+216.58.221.199 11.docs.google.com
+216.58.221.199 12.docs.google.com
+216.58.221.199 13.docs.google.com
+216.58.221.199 14.docs.google.com
+216.58.221.199 15.docs.google.com
+216.58.221.199 16.docs.google.com
+216.58.221.199 0.drive.google.com
+216.58.221.199 1.drive.google.com
+216.58.221.199 2.drive.google.com
+216.58.221.199 3.drive.google.com
+216.58.221.199 4.drive.google.com
+216.58.221.199 5.drive.google.com
+216.58.221.199 6.drive.google.com
+216.58.221.199 7.drive.google.com
+216.58.221.199 8.drive.google.com
+216.58.221.199 9.drive.google.com
+216.58.221.199 10.drive.google.com
+216.58.221.199 11.drive.google.com
+216.58.221.199 12.drive.google.com
+216.58.221.199 13.drive.google.com
+216.58.221.199 14.drive.google.com
+216.58.221.199 15.drive.google.com
+216.58.221.199 16.drive.google.com
+216.58.221.51 spreadsheet.google.com #spreadsheets.l.google.com
+216.58.221.51 spreadsheets.google.com #spreadsheets.l.google.com
+216.58.221.51 spreadsheets0.google.com #www3.l.google.com
+216.58.221.51 spreadsheets1.google.com #www3.l.google.com
+216.58.221.51 spreadsheets2.google.com #www3.l.google.com
+216.58.221.51 spreadsheets3.google.com #www3.l.google.com
+216.58.221.51 spreadsheets4.google.com #www3.l.google.com
+216.58.221.51 spreadsheets5.google.com #www3.l.google.com
+216.58.221.51 spreadsheets6.google.com #www3.l.google.com
+216.58.221.51 spreadsheets7.google.com #www3.l.google.com
+216.58.221.51 spreadsheets8.google.com #www3.l.google.com
+216.58.221.51 spreadsheets9.google.com #www3.l.google.com
+# Domains 域名
+216.58.221.51 domains.google.com
+# Download 下载
+216.58.221.51 dl.google.com #dl.l.google.com
+216.58.221.51 dl-ssl.google.com #dl-ssl.l.google.com
+# Google Earth 地球
+216.58.221.51 earth.google.com #www3.l.google.com
+216.58.221.51 auth.keyhole.com #www3.l.google.com
+216.58.221.51 geoauth.google.com #www3.l.google.com
+# Finance 财经
+216.58.221.51 finance.google.com #www3.l.google.com
+# Fusion RSS 聚合指南
+216.58.221.51 fusion.google.com #www2.l.google.com
+# Gmail 邮箱
+216.58.221.51 mail.google.com #googlemail.l.google.com
+216.58.221.199 chatenabled.mail.google.com #b.googlemail.l.google.com
+216.58.221.199 filetransferenabled.mail.google.com #b.googlemail.l.google.com
+#2404:6800:4008:c00::62 talk.gmail.com #Gmail中Gtalk聊天服务
+216.58.221.51 gmail.google.com #www3.l.google.com
+216.58.221.165 www.gmail.com #googlemail.l.google.com
+216.58.221.165 gmail.com
+216.58.221.165 m.gmail.com #googlemail.l.google.com
+216.58.221.165 m.googlemail.com #googlemail.l.google.com
+64.233.189.108 pop.gmail.com #gmail-pop.l.google.com
+64.233.189.108 pop.googlemail.com #googlemail-pop.l.google.com
+64.233.189.108 smtp.gmail.com #gmail-smtp-msa.l.google.com
+#2404:6800:4008:c00::62 smtp1.google.com
+#2404:6800:4008:c00::62 smtp2.google.com
+#2404:6800:4008:c00::62 smtp3.google.com
+#2404:6800:4008:c00::62 smtp-out.google.com
+#2404:6800:4008:c00::62 smtp-out3.google.com
+64.233.189.108 smtp.googlemail.com #googlemail-smtp.l.google.com
+64.233.189.108 imap.gmail.com #gmail-imap.l.google.com
+64.233.189.108 imap.googlemail.com #googlemail-imap.l.google.com
+# Group 论坛
+#2401:3800:c001::68 groups.google.cn
+216.58.221.51 groups.google.com #groups.l.google.com
+216.58.221.51 groups.google.com.hk #groups.l.google.com
+216.58.221.51 groups-beta.google.com #groups.l.google.com
+216.58.221.51 productforums.google.com #groups.l.google.com
+216.58.221.51 *.googlegroups.com #googlegroups.l.googleusercontent.com
+216.58.221.51 blob-s-docs.googlegroups.com #googlegroups.l.googleusercontent.com
+# Health 健康
+216.58.221.51 health.google.com #www3.l.google.com
+# Images 图片
+216.58.221.51 images.google.com #images.l.google.com
+216.58.221.51 images.google.com.hk #images.l.google.com
+216.58.221.51 tbn0.google.com #tbn.l.google.com
+216.58.221.51 tbn1.google.com #tbn.l.google.com
+216.58.221.51 tbn2.google.com #tbn.l.google.com
+216.58.221.51 tbn3.google.com #tbn.l.google.com
+#2404:6800:4008:c00::62 tbn4.google.com
+#2404:6800:4008:c00::62 tbn5.google.com
+#2404:6800:4008:c00::62 tbn6.google.com
+# Inbox
+216.58.221.51 inbox.google.com
+# Input Tools 输入法
+216.58.221.51 inputtools.google.com #www4.l.google.com
+# Knol 在线百科全书
+216.58.221.51 knol.google.com #www3.l.google.com
+# Labs 实验室
+216.58.221.51 labs.google.cn #www3.l.google.com
+216.58.221.51 labs.google.com #www3.l.google.com
+64.233.184.141 www.googlelabs.com
+64.233.184.141 browsersize.googlelabs.com
+64.233.184.141 bodybrowser.googlelabs.com
+64.233.184.141 citytours.googlelabs.com
+64.233.184.141 correlate.googlelabs.com
+64.233.184.141 datawiki.googlelabs.com
+64.233.184.141 earthengine.googlelabs.com
+64.233.184.141 fastflip.googlelabs.com
+64.233.184.141 followfinder.googlelabs.com
+64.233.184.141 guru.googlelabs.com
+64.233.184.141 image-swirl.googlelabs.com
+64.233.184.141 juliamap.googlelabs.com
+64.233.184.141 listen.googlelabs.com
+64.233.184.141 livingstories.googlelabs.com
+64.233.184.141 newstimeline.googlelabs.com
+64.233.184.141 ngrams.googlelabs.com
+64.233.184.141 pagespeed.googlelabs.com
+64.233.184.141 relatedlinks.googlelabs.com
+64.233.184.141 scribe.googlelabs.com
+64.233.184.141 scriptconv.googlelabs.com
+64.233.184.141 similar-images.googlelabs.com
+64.233.184.141 storegadget.googlelabs.com
+64.233.184.141 swiffy.googlelabs.com
+64.233.184.141 tables.googlelabs.com
+# Google Mars 火星地图
+216.58.221.51 mars.google.com #www3.l.google.com
+# Maps 地图
+216.58.221.51 maps.google.com
+216.58.221.51 maps.google.com.hk #maps-cctld.l.google.com
+216.58.221.51 maps.google.com.tw #maps-cctld.l.google.com
+216.58.221.51 local.google.com #maps.l.google.com
+216.58.221.51 ditu.google.com #maps.l.google.com
+216.58.221.51 maps-api-ssl.google.com #clients.l.google.com
+216.58.221.51 map.google.com #maps.google.com
+216.58.221.51 kh.google.com #keyhole.l.google.com
+216.58.221.51 khmdb.google.com #khmdb.l.google.com
+216.58.221.51 khm.google.com #khm.l.google.com
+216.58.221.51 khm0.google.com #khm.l.google.com
+216.58.221.51 khm1.google.com #khm.l.google.com
+216.58.221.51 khm2.google.com #khm.l.google.com
+216.58.221.51 khm3.google.com #khm.l.google.com
+#2404:6800:4008:c00::64 cbk0.google.com #cbk.l.google.com
+216.58.221.51 cbk1.google.com #cbk.l.google.com
+216.58.221.51 cbk2.google.com #cbk.l.google.com
+216.58.221.51 cbk3.google.com #cbk.l.google.com
+216.58.221.51 khms.google.com #khms.l.google.com
+216.58.221.51 khms0.google.com #khms.l.google.com
+216.58.221.51 khms1.google.com #khms.l.google.com
+216.58.221.51 khms2.google.com #khms.l.google.com
+216.58.221.51 khms3.google.com #khms.l.google.com
+216.58.221.51 cbks0.google.com #khms.l.google.com
+216.58.221.51 cbks1.google.com #khms.l.google.com
+216.58.221.51 cbks2.google.com #khms.l.google.com
+216.58.221.51 cbks3.google.com #khms.l.google.com
+216.58.221.51 mw1.google.com #mw-small.l.google.com
+216.58.221.51 mw2.google.com #mw-medium.l.google.com
+216.58.221.51 mt.google.com #mt.l.google.com
+216.58.221.51 mt0.google.com #mt.l.google.com
+216.58.221.51 mt1.google.com #mt.l.google.com
+216.58.221.51 mt2.google.com #mt.l.google.com
+216.58.221.51 mt3.google.com #mt.l.google.com
+216.58.221.51 gg.google.com
+216.58.221.51 gg.google.cn
+216.58.221.51 id.google.com #id.l.google.com
+216.58.221.51 id.google.cn #id.l.google.com
+216.58.221.51 ditu.google.cn
+216.58.221.51 mt.google.cn #ditu.google.cn
+216.58.221.51 mt0.google.cn
+216.58.221.51 mt1.google.cn
+216.58.221.51 mt2.google.cn
+216.58.221.51 mt3.google.cn
+216.58.221.51 mts.google.com #mts.l.google.com
+216.58.221.51 mts0.google.com #mts.l.google.com
+216.58.221.51 mts1.google.com #mts.l.google.com
+216.58.221.51 mts2.google.com #mts.l.google.com
+216.58.221.51 mts3.google.com #mts.l.google.com
+216.58.221.51 maps.gstatic.cn #www.gstatic.cn
+216.58.221.51 mobilemaps.clients.google.com #clients.l.google.com
+# Music Beta by Google 云音乐服务
+216.58.221.51 music.google.com #www3.l.google.com
+64.233.189.122 t.doc-0-0-sj.sj.googleusercontent.com #music-streaming.l.google.com
+216.58.221.33 music.googleusercontent.com #googlehosted.l.googleusercontent.com
+64.233.189.122 uploadsj.clients.google.com #large-uploads.l.google.com
+# News 资讯
+216.58.221.51 news.google.com #news.l.google.com
+216.58.221.51 news.google.com.hk #news-cctld.l.google.com
+216.58.221.51 news.google.com.tw #news-cctld.l.google.com
+# Pack 软件精选
+216.58.221.51 pack.google.com #www2.l.google.com
+216.58.221.51 cache.pack.google.com #redirector.c.pack.google.com
+216.58.221.51 pack.google.cn #www2.l.google.com
+# Photo/Picasa 照片/网络相册
+216.58.221.51 photos.google.com #picasaweb.l.google.com
+216.58.221.51 picasa.google.com #www2.l.google.com
+216.58.221.51 picasaweb.google.com #picasaweb.l.google.com
+216.58.221.51 lh2.google.com #lh2.l.google.com
+216.58.221.51 lh3.google.com #lh2.l.google.com
+216.58.221.51 lh4.google.com #lh2.l.google.com
+216.58.221.51 lh5.google.com #lh2.l.google.com
+216.58.221.51 lh6.google.com #lh2.l.google.com
+64.233.189.122 upload.photos.google.com #large-uploads.l.google.com
+# Profiles 个人主页
+216.58.221.51 profiles.google.com
+216.58.221.51 plusone.google.com #plus.l.google.com
+216.58.221.51 plus.google.com
+#2404:6800:4008:c00::8a plus.google.com.hk # URL 重定向
+216.58.221.51 plus.url.google.com #www3.l.google.com
+#2404:6800:4008:c00::8a plus.url.google.com.hk #实际上不存在的域名
+216.58.221.51 developers.google.com #www3.l.google.com
+216.58.221.51 cloud.google.com
+216.58.221.51 console.developers.google.com
+216.58.221.51 cloudssh.developers.google.com #www3.l.google.com
+216.58.221.51 source.developers.google.com
+# Reader 阅读器
+216.58.221.51 reader.google.com #www2.l.google.com
+# Research
+216.58.221.51 research.google.com #www3.l.google.com
+# SafeBrowing 安全检测服务
+216.58.221.51 sb.google.com #sb.l.google.com
+216.58.221.51 sb-ssl.google.com #sb-ssl.l.google.com
+216.58.221.51 safebrowsing.google.com #sb.l.google.com
+216.58.221.51 alt1-safebrowsing.google.com
+216.58.221.51 safebrowsing.clients.google.com #clients.l.google.com
+216.58.221.51 safebrowsing-cache.google.com #safebrowsing.cache.l.google.com
+# Sandbox 服务沙盒
+216.58.221.51 sandbox.google.com #sandbox.l.google.com
+# Scholar 学术搜索
+216.58.221.51 scholar.google.com
+216.58.221.51 scholar.google.com.hk
+216.58.221.51 scholar.google.com.tw
+216.58.221.51 scholar.google.cn #www.google.cn
+# Sites 协作平台
+216.58.221.51 sites.google.com #www3.l.google.com
+64.233.189.121 gsamplemaps.googlepages.com #ghs.googlehosted.com
+# SketchUp 3D 建模工具
+#2404:6800:4008:c00::66 sketchup.google.com
+# Google Talk/Chat 聊天
+64.233.189.188 talk.google.com #talk.l.google.com
+#2404:6800:4008:c00::62 default.talk.google.com
+216.58.221.51 talkgadget.google.com #talkgadget.l.google.com
+#2404:6800:4008:c00::62 rtmp0.google.com
+#2404:6800:4008:c00::62 users.talk.google.com
+64.233.189.188 mtalk.google.com #mobile-gtalk.l.google.com
+# Tools 工具
+216.58.221.51 tools.google.com #tools.l.google.com
+216.58.221.51 toolbar.google.com #tools.l.google.com
+216.58.221.51 toolbar.google.com.hk #tools.l.google.com
+# Translate 翻译
+216.58.221.51 translate.google.com #www3.l.google.com
+216.58.221.51 translate.google.com.hk
+216.58.221.51 translate.google.com.tw
+216.58.221.51 translate.google.cn #www.google.cn
+# Trends 趋势
+216.58.221.51 trends.google.com #www2.l.google.com
+216.58.221.51 www.gvt0.cn
+216.58.221.51 0.gvt0.cn #www.gvt0.cn
+216.58.221.51 1.gvt0.cn #www.gvt0.cn
+216.58.221.51 2.gvt0.cn #www.gvt0.cn
+216.58.221.51 3.gvt0.cn #www.gvt0.cn
+# Wave 波浪
+216.58.221.51 wave.google.com #www4.l.google.com
+#2404:6800:4008:c00::76 wave0.google.com
+216.58.221.51 wave1.google.com #www4.l.google.com
+216.58.221.51 googlewave.com
+# WiFi
+#2404:6800:4008:c00::7b wifi.google.com
+# iGoogle Modules iGoogle 小工具
+216.58.221.33 www-gmc-opensocial.googleusercontent.com
+2607:f8b0:4007:804::1011 gmodules.com
+216.58.221.33 www.gmodules.com #googlehosted.l.googleusercontent.com
+216.58.221.33 www.ig.gmodules.com #googlehosted.l.googleusercontent.com
+216.58.221.33 ig.gmodules.com #googlehosted.l.googleusercontent.com
+216.58.221.33 ads.gmodules.com #googlehosted.l.googleusercontent.com
+216.58.221.33 p.gmodules.com #googlehosted.l.googleusercontent.com
+216.58.221.33 1.ig.gmodules.com #googlehosted.l.googleusercontent.com
+216.58.221.33 2.ig.gmodules.com #googlehosted.l.googleusercontent.com
+216.58.221.33 3.ig.gmodules.com #googlehosted.l.googleusercontent.com
+216.58.221.33 4.ig.gmodules.com #googlehosted.l.googleusercontent.com
+216.58.221.33 5.ig.gmodules.com #googlehosted.l.googleusercontent.com
+216.58.221.33 6.ig.gmodules.com #googlehosted.l.googleusercontent.com
+216.58.221.33 maps.gmodules.com #googlehosted.l.googleusercontent.com
+216.58.221.33 img0.gmodules.com #googlehosted.l.googleusercontent.com
+216.58.221.33 img1.gmodules.com #googlehosted.l.googleusercontent.com
+216.58.221.33 img2.gmodules.com #googlehosted.l.googleusercontent.com
+216.58.221.33 img3.gmodules.com #googlehosted.l.googleusercontent.com
+216.58.221.33 skins.gmodules.com #googlehosted.l.googleusercontent.com
+216.58.221.51 friendconnect.gmodules.com #gadgets.l.googleusercontent.com
+216.58.221.51 0.blogger.gmodules.com #gadgets.l.googleusercontent.com
+216.58.221.51 partnerpage.google.com #www2.l.google.com
+216.58.221.33 *.ig.ig.gmodules.com #googlehosted.l.googleusercontent.com
+# GGPht Google 图片存储
+216.58.221.33 geo0.ggpht.com
+216.58.221.33 geo1.ggpht.com
+216.58.221.33 geo2.ggpht.com
+216.58.221.33 geo3.ggpht.com
+216.58.221.33 gm1.ggpht.com #photos-ugc.l.googleusercontent.com
+216.58.221.33 gm2.ggpht.com #photos-ugc.l.googleusercontent.com
+216.58.221.33 gm3.ggpht.com #photos-ugc.l.googleusercontent.com
+216.58.221.33 gm4.ggpht.com #photos-ugc.l.googleusercontent.com
+216.58.221.33 lh3.ggpht.com #photos-ugc.l.googleusercontent.com
+216.58.221.33 lh4.ggpht.com #photos-ugc.l.googleusercontent.com
+216.58.221.33 lh5.ggpht.com #photos-ugc.l.googleusercontent.com
+216.58.221.33 lh6.ggpht.com #photos-ugc.l.googleusercontent.com
+216.58.221.33 nt0.ggpht.com #photos-ugc.l.googleusercontent.com
+216.58.221.33 nt1.ggpht.com #photos-ugc.l.googleusercontent.com
+216.58.221.33 nt2.ggpht.com #photos-ugc.l.googleusercontent.com
+216.58.221.33 nt3.ggpht.com #photos-ugc.l.googleusercontent.com
+#2404:6800:4008:c00::62 nt4.ggpht.com
+#2404:6800:4008:c00::62 nt5.ggpht.com
+216.58.221.33 yt3.ggpht.com #photos-ugc.l.googleusercontent.com
+216.58.221.33 yt4.ggpht.com #photos-ugc.l.googleusercontent.com
+216.58.221.33 gp3.googleusercontent.com #photos-ugc.l.googleusercontent.com
+216.58.221.33 gp4.googleusercontent.com #photos-ugc.l.googleusercontent.com
+216.58.221.33 gp5.googleusercontent.com #photos-ugc.l.googleusercontent.com
+216.58.221.33 gp6.googleusercontent.com #photos-ugc.l.googleusercontent.com
+216.58.221.33 gp.googleusercontent.com #googlehosted.l.googleusercontent.com
+# GStatic Google 静态文件存储
+216.58.221.51 csi.gstatic.com
+216.58.221.51 fonts.gstatic.com
+216.58.221.51 maps.gstatic.com
+216.58.221.33 ssl.gstatic.com
+216.58.221.51 www.gstatic.com
+216.58.221.51 www.gstatic.cn
+216.58.221.51 encrypted-tbn0.gstatic.com
+216.58.221.51 encrypted-tbn1.gstatic.com
+216.58.221.51 encrypted-tbn2.gstatic.com
+216.58.221.51 encrypted-tbn3.gstatic.com
+216.58.221.51 g0.gstatic.com
+216.58.221.51 g1.gstatic.com
+216.58.221.51 g2.gstatic.com
+216.58.221.51 g3.gstatic.com
+216.58.221.51 mt0.gstatic.com
+216.58.221.51 mt1.gstatic.com
+216.58.221.51 mt2.gstatic.com
+216.58.221.51 mt3.gstatic.com
+216.58.221.51 mt4.gstatic.com
+216.58.221.51 mt5.gstatic.com
+216.58.221.51 mt6.gstatic.com
+216.58.221.51 mt7.gstatic.com
+216.58.221.51 t0.gstatic.com
+216.58.221.51 t1.gstatic.com
+216.58.221.51 t2.gstatic.com
+216.58.221.51 t3.gstatic.com
+# Google APIs 开发接口服务
+216.58.221.51 apis.google.com #plus.l.google.com
+216.58.221.51 chart.apis.google.com #clients.l.google.com
+216.58.220.202 mclients.googleapis.com
+216.58.220.202 googleapis.com
+216.58.220.202 www.googleapis.com #googleapis.l.google.com
+216.58.220.202 *.googleapis.com #googleapis.l.google.com
+216.58.220.202 ajax.googleapis.com #googleapis.l.google.com
+216.58.220.202 android.googleapis.com #googleapis.l.google.com
+216.58.220.202 bigcache.googleapis.com #googleapis.l.google.com
+216.58.220.202 chart.googleapis.com #googleapis.l.google.com
+216.58.220.202 content.googleapis.com #googleapis.l.google.com
+216.58.220.202 fonts.googleapis.com #googleapis.l.google.com
+216.58.220.202 maps.googleapis.com #googleapis.l.google.com
+216.58.220.202 play.googleapis.com #googleapis.l.google.com
+216.58.220.202 plus.googleapis.com #googleapis.l.google.com
+216.58.220.202 redirector-bigcache.googleapis.com #googleapis.l.google.com
+216.58.220.202 translate.googleapis.com #googleapis.l.google.com
+216.58.220.202 youtube.googleapis.com #googleapis.l.google.com
+#2404:6800:4008:c00::5f googleapis-ajax.google.com
+216.58.221.51 mt0.googleapis.com #mt.l.google.com
+216.58.221.51 mt1.googleapis.com #mt.l.google.com
+216.58.221.51 mt2.googleapis.com #mt.l.google.com
+216.58.221.51 mt3.googleapis.com #mt.l.google.com
+# Google Hosted 托管服务
+216.58.221.33 storage.googleapis.com #storage-ugc.l.googleusercontent.com
+216.58.221.33 commondatastorage.googleapis.com #storage-ugc.l.googleusercontent.com
+216.58.221.33 bucket.commondatastorage.googleapis.com #storage-ugc.l.googleusercontent.com
+216.58.221.33 chromium-browser-symbols.commondatastorage.googleapis.com #storage-ugc.l.googleusercontent.com
+216.58.221.33 c.commondatastorage.googleapis.com #storage.l.googleusercontent.com
+216.58.221.33 www.googlehosted.com #googlehosted.l.googleusercontent.com
+64.233.189.99 base.googlehosted.com #www2.l.google.com
+64.233.189.99 base0.googlehosted.com #www2.l.google.com
+64.233.189.99 base1.googlehosted.com #www2.l.google.com
+64.233.189.99 base2.googlehosted.com #www2.l.google.com
+64.233.189.99 base3.googlehosted.com #www2.l.google.com
+216.58.221.33 base4.googlehosted.com #googlehosted.l.googleusercontent.com
+216.58.221.33 base5.googlehosted.com #googlehosted.l.googleusercontent.com
+# Google其他服务
+# DoubleClick
+127.0.0.1 ad.doubleclick.net #dart.l.doubleclick.net
+127.0.0.1 ad-g.doubleclick.net dart.l.doubleclick.net
+127.0.0.1 ad-apac.doubleclick.net dart.l.doubleclick.net
+127.0.0.1 dart-apac.l.doubleclick.net
+127.0.0.1 dart.l.doubleclick.net
+127.0.0.1 n4061ad.hk.doubleclick.net dart.l.doubleclick.net
+127.0.0.1 fls.doubleclick.net dart.l.doubleclick.net
+127.0.0.1 feedads.g.doubleclick.net pagead.l.doubleclick.net
+127.0.0.1 pubads.g.doubleclick.net partnerad.l.doubleclick.net
+127.0.0.1 partnerad.l.doubleclick.net
+127.0.0.1 s0.2mdn.net s0-2mdn-net.l.google.com
+127.0.0.1 s1.2mdn.net s0-2mdn-net.l.google.com
+127.0.0.1 fls.uk.doubleclick.net dart.l.doubleclick.net
+127.0.0.1 *.au.doubleclick.net dart.l.doubleclick.net
+127.0.0.1 *.de.doubleclick.net dart.l.doubleclick.net
+127.0.0.1 *.uk.doubleclick.net dart.l.doubleclick.net
+127.0.0.1 *.fr.doubleclick.net dart.l.doubleclick.net
+127.0.0.1 *.jp.doubleclick.net dart.l.doubleclick.net
+127.0.0.1 googleads.g.doubleclick.net #pagead46.l.doubleclick.net
+127.0.0.1 www.googletagservices.com #pagead46.l.doubleclick.net
+127.0.0.1 static.googleadsserving.cn #pagead46.l.doubleclick.net
+# Analytics 分析
+203.208.37.30 www.google-analytics.com #www-google-analytics.l.google.com
+203.208.37.30e ssl.google-analytics.com #ssl-google-analytics.l.google.com
+#2404:6800:4008:c00::61 *.google-analytics.com
+203.208.37.30 service.urchin.com #www-google-analytics.l.google.com
+216.58.221.51 analytics.google.com #www3.l.google.com
+# Google Art Project
+216.58.221.51 www.googleartproject.com #www3.l.google.com
+64.233.184.141 art-project-media.appspot.com #appspot.l.google.com
+# FeedBurner
+216.58.221.51 feedburner.google.com #www3.l.google.com
+216.58.221.51 www.feedburner.com #www3.l.google.com
+216.58.221.51 feeds.feedburner.com #www4.l.google.com
+216.58.221.51 feeds2.feedburner.com #www4.l.google.com
+216.58.221.51 feedproxy.google.com #www4.l.google.com
+# The Go Programming Language Go 编程语言
+64.233.184.141 golang.org
+64.233.184.141 www.golang.org #golang.org
+64.233.184.141 blog.golang.org #golang.org
+64.233.184.141 play.golang.org #golang.org
+64.233.184.141 tip.golang.org #golang.org
+64.233.184.141 tour.golang.org #golang.org
+# Goo.gl Google短网址服务
+216.58.221.51 goo.gl
+216.58.221.51 g.co
+# html5rocks HTML5 推广专题网站
+216.58.221.51 www.html5rocks.com #ghs.l.google.com
+216.58.221.51 slides.html5rocks.com #ghs.l.google.com
+216.58.221.51 playground.html5rocks.com #ghs.l.google.com
+216.58.221.51 studio.html5rocks.com #ghs.l.google.com
+# Google.org Google 公益
+216.58.221.51 blog.google.org #ghs.l.google.com
+# Panoramio
+64.233.184.141 www.panoramio.com #appspot.l.google.com
+64.233.189.128 static.panoramio.com #storage.l.googleusercontent.com
+64.233.189.121 blog.panoramio.com #ghs.l.google.com
+# Recaptcha 验证码服务
+64.233.189.99 www.recaptcha.net #www.l.google.com
+64.233.189.99 api.recaptcha.net #www.l.google.com
+64.233.189.99 api-secure.recaptcha.net #www.l.google.com
+64.233.189.99 mailhide.recaptcha.net #www.l.google.com
+# Google Wave Federation Protocol · GWave 协议开源计划
+64.233.189.121 www.waveprotocol.org #ghs.l.google.com
+# The WebM Project WebM 开放多媒体项目
+64.233.189.99 webmproject.org
+64.233.189.99 www.webmproject.org #www3.l.google.com
+64.233.189.121 lists.webmproject.org #ghs.l.google.com
+64.233.189.121 blog.webmproject.org #ghs.l.google.com
+64.233.189.121 www.webm-ccl.org #ghs.l.google.com
+# Chrome 相关专题网站
+64.233.189.99 www.chromercise.com #www3.l.google.com
+64.233.189.121 www.chromeexperiments.com #ghs.l.google.com
+64.233.189.121 www.20thingsilearned.com #ghs.l.google.com
+# IPv6 专题
+#2404:6800:4008:c00::63 ipv6test.google.com #ipv6test.l.google.com
+#2404:6800:4008:c00::63 ipv4.google.com #ipv4.l.google.com
+216.58.220.202 ??????.ds.ipv6test.google.com #ds.ipv6test.l.google.com
+64.233.189.99 p2.*.*.??????.i2.ds.ipv6-exp.l.google.com
+64.233.189.151 chrome.googleechotest.com #chromeecho.l.google.com
+# 其他专题站
+64.233.189.121 www.creativelab5.com #ghs.google.com
+64.233.189.99 www.data-vocabulary.org #www3.l.google.com
+64.233.189.99 www.googleinsidesearch.com #www3.l.google.com
+64.233.189.121 www.teachparentstech.org #ghs.l.google.com
+216.58.221.51 www.agoogleaday.com #www4.l.google.com
+64.233.189.121 www.gosetsuden.jp #ghs.l.google.com
+64.233.189.121 www.thegooglepuzzle.com #ghs.l.google.com
+64.233.189.121 www.thegobridgeoglepuzzle.com #ghs.l.google.com
+64.233.184.141 www.thinkwithgoogle.com
+216.58.221.51 www.oneworldmanystories.com #www3.l.google.com
+64.233.189.121 www.googlezeitgeist.com #ghs.l.google.com
+216.58.221.51 www.googleinsidesearch.com #www3.l.google.com
+#2404:6800:4008:c00::79 www.emailintervention.com #ghs.l.google.com
+#2404:6800:4008:c00::79 www.dartlang.org #ghs.l.google.com
+#2404:6800:4008:c00::79 try.dartlang.org #ghs.l.google.com
+64.233.189.121 news.dartlang.org #ghs.l.google.com
+# AdWords/AdSense 广告服务
+#2404:6800:4008:c00::62 www.googlesyndication.com
+127.0.0.1 www.googleadservices.com #pagead.l.doubleclick.net
+#2404:6800:4008:c00::9a domains.googlesyndication.com #pagead.l.doubleclick.net
+127.0.0.1 pagead2.googlesyndication.com #pagead46.l.doubleclick.net
+216.58.221.51 adwords.google.com #adwords.l.google.com
+216.58.221.51 adwords.google.sk #adwords.l.google.com
+#2404:6800:4008:c00::9a partner.googleadservices.com #partnerad.l.doubleclick.net
+#2404:6800:4008:c00::62 pagead.google.com
+#2404:6800:4008:c00::9a pagead2.googleadservices.com #pagead.l.doubleclick.net
+64.233.189.99 buttons.googlesyndication.com #www.google.com
+127.0.0.1 tpc.googlesyndication.com #pagead-googlehosted.l.google.com
+# Android Google 移动操作系统
+216.58.221.51 www.android.com #www3.l.google.com
+64.233.189.99 android.com
+216.58.221.51 developer.android.com #www3.l.google.com
+216.58.221.51 source.android.com #www3.l.google.com
+216.58.221.51 market.android.com #android-market.l.google.com
+216.58.221.51 android.clients.google.com #android.l.google.com
+216.58.221.51 play.google.com #play.l.google.com
+# GoogleUserContent 用户自定义的Google服务 googlehosted.l.googleusercontent.com
+216.58.221.33 www.googleusercontent.com
+216.58.221.33 www-gmi-opensocial.googleusercontent.com
+216.58.221.33 androidmarket.googleusercontent.com
+216.58.221.33 blogger.googleusercontent.com
+216.58.221.33 blogspot.l.googleusercontent.com
+216.58.221.51 gadgets.l.googleusercontent.com
+216.58.221.33 googlehosted.l.googleusercontent.com
+64.233.160.82 googlecode.l.googleusercontent.com
+64.233.184.137 googlegroups.l.googleusercontent.com
+216.58.221.33 photos-ugc.l.googleusercontent.com
+64.233.189.128 storage.l.googleusercontent.com
+216.58.221.33 storage-ugc.l.googleusercontent.com
+216.58.221.33 www-blogger-opensocial.googleusercontent.com
+216.58.221.33 books.googleusercontent.com
+216.58.221.33 ci1.googleusercontent.com
+216.58.221.33 ci2.googleusercontent.com
+216.58.221.33 ci3.googleusercontent.com
+216.58.221.33 ci4.googleusercontent.com
+216.58.221.33 ci5.googleusercontent.com
+216.58.221.33 ci6.googleusercontent.com
+216.58.221.33 clients1.googleusercontent.com
+216.58.221.33 clients2.googleusercontent.com
+216.58.221.33 clients4.googleusercontent.com
+216.58.221.33 clients5.googleusercontent.com
+216.58.221.33 clients6.googleusercontent.com
+216.58.221.33 code-opensocial.googleusercontent.com
+216.58.221.33 doc-00-1k-docs.googleusercontent.com
+216.58.221.33 doc-00-1o-docs.googleusercontent.com
+216.58.221.33 doc-04-1o-docs.googleusercontent.com
+216.58.221.33 doc-08-1o-docs.googleusercontent.com
+216.58.221.33 doc-0c-1o-docs.googleusercontent.com
+216.58.221.33 doc-0g-1o-docs.googleusercontent.com
+216.58.221.33 doc-0k-1o-docs.googleusercontent.com
+216.58.221.33 doc-0o-1o-docs.googleusercontent.com
+216.58.221.33 doc-0s-1o-docs.googleusercontent.com
+216.58.221.33 doc-10-1o-docs.googleusercontent.com
+216.58.221.33 doc-14-1o-docs.googleusercontent.com
+216.58.221.33 doc-10-2c-docs.googleusercontent.com
+216.58.221.33 doc-0k-38-docs.googleusercontent.com
+216.58.221.33 doc-14-48-docs.googleusercontent.com
+216.58.221.33 doc-00-6c-docs.googleusercontent.com
+216.58.221.33 doc-04-6c-docs.googleusercontent.com
+216.58.221.33 doc-08-6c-docs.googleusercontent.com
+216.58.221.33 doc-0c-6c-docs.googleusercontent.com
+216.58.221.33 doc-0g-6c-docs.googleusercontent.com
+216.58.221.33 doc-0k-6c-docs.googleusercontent.com
+216.58.221.33 doc-0o-6c-docs.googleusercontent.com
+216.58.221.33 doc-0s-6c-docs.googleusercontent.com
+216.58.221.33 doc-10-6c-docs.googleusercontent.com
+216.58.221.33 doc-14-6c-docs.googleusercontent.com
+216.58.221.33 doc-0o-74-docs.googleusercontent.com
+216.58.221.33 doc-14-74-docs.googleusercontent.com
+216.58.221.33 doc-00-7o-docs.googleusercontent.com
+216.58.221.33 doc-04-7o-docs.googleusercontent.com
+216.58.221.33 doc-08-7o-docs.googleusercontent.com
+216.58.221.33 doc-0c-7o-docs.googleusercontent.com
+216.58.221.33 doc-0g-7o-docs.googleusercontent.com
+216.58.221.33 doc-0k-7o-docs.googleusercontent.com
+216.58.221.33 doc-0o-7o-docs.googleusercontent.com
+216.58.221.33 doc-0s-7o-docs.googleusercontent.com
+216.58.221.33 doc-10-7o-docs.googleusercontent.com
+216.58.221.33 doc-14-7o-docs.googleusercontent.com
+216.58.221.33 doc-00-8k-docs.googleusercontent.com
+216.58.221.33 doc-04-8k-docs.googleusercontent.com
+216.58.221.33 doc-08-8k-docs.googleusercontent.com
+216.58.221.33 doc-0c-8k-docs.googleusercontent.com
+216.58.221.33 doc-0g-8k-docs.googleusercontent.com
+216.58.221.33 doc-0k-8k-docs.googleusercontent.com
+216.58.221.33 doc-0o-8k-docs.googleusercontent.com
+216.58.221.33 doc-0s-8k-docs.googleusercontent.com
+216.58.221.33 doc-10-8k-docs.googleusercontent.com
+216.58.221.33 doc-14-8k-docs.googleusercontent.com
+216.58.221.33 doc-00-9k-docs.googleusercontent.com
+216.58.221.33 doc-04-9k-docs.googleusercontent.com
+216.58.221.33 doc-08-9k-docs.googleusercontent.com
+216.58.221.33 doc-0c-9k-docs.googleusercontent.com
+216.58.221.33 doc-0g-9k-docs.googleusercontent.com
+216.58.221.33 doc-0k-9k-docs.googleusercontent.com
+216.58.221.33 doc-0o-9k-docs.googleusercontent.com
+216.58.221.33 doc-0s-9k-docs.googleusercontent.com
+216.58.221.33 doc-10-9k-docs.googleusercontent.com
+216.58.221.33 doc-14-9k-docs.googleusercontent.com
+216.58.221.33 doc-00-as-docs.googleusercontent.com
+216.58.221.33 doc-04-as-docs.googleusercontent.com
+216.58.221.33 doc-08-as-docs.googleusercontent.com
+216.58.221.33 doc-0c-as-docs.googleusercontent.com
+216.58.221.33 doc-0g-as-docs.googleusercontent.com
+216.58.221.33 doc-0k-as-docs.googleusercontent.com
+216.58.221.33 doc-0o-as-docs.googleusercontent.com
+216.58.221.33 doc-0s-as-docs.googleusercontent.com
+216.58.221.33 doc-10-as-docs.googleusercontent.com
+216.58.221.33 doc-14-as-docs.googleusercontent.com
+216.58.221.33 doc-00-bg-docs.googleusercontent.com
+216.58.221.33 doc-00-2g-3dwarehouse.googleusercontent.com
+216.58.221.33 doc-04-2g-3dwarehouse.googleusercontent.com
+216.58.221.33 doc-08-2g-3dwarehouse.googleusercontent.com
+216.58.221.33 doc-0c-2g-3dwarehouse.googleusercontent.com
+216.58.221.33 doc-0g-2g-3dwarehouse.googleusercontent.com
+216.58.221.33 doc-0k-2g-3dwarehouse.googleusercontent.com
+216.58.221.33 doc-0o-2g-3dwarehouse.googleusercontent.com
+216.58.221.33 doc-0s-2g-3dwarehouse.googleusercontent.com
+216.58.221.33 doc-10-2g-3dwarehouse.googleusercontent.com
+216.58.221.33 doc-14-2g-3dwarehouse.googleusercontent.com
+216.58.221.33 feedback.googleusercontent.com
+216.58.221.33 images1-esmobile-opensocial.googleusercontent.com
+216.58.221.33 images2-esmobile-opensocial.googleusercontent.com
+216.58.221.33 images3-esmobile-opensocial.googleusercontent.com
+216.58.221.33 images4-esmobile-opensocial.googleusercontent.com
+216.58.221.33 images5-esmobile-opensocial.googleusercontent.com
+216.58.221.33 images6-esmobile-opensocial.googleusercontent.com
+216.58.221.33 images7-esmobile-opensocial.googleusercontent.com
+216.58.221.33 images8-esmobile-opensocial.googleusercontent.com
+216.58.221.33 images9-esmobile-opensocial.googleusercontent.com
+216.58.221.33 images1-hangout-opensocial.googleusercontent.com
+216.58.221.33 images2-hangout-opensocial.googleusercontent.com
+216.58.221.33 images3-hangout-opensocial.googleusercontent.com
+216.58.221.33 images4-hangout-opensocial.googleusercontent.com
+216.58.221.33 images5-hangout-opensocial.googleusercontent.com
+216.58.221.33 images6-hangout-opensocial.googleusercontent.com
+216.58.221.33 images7-hangout-opensocial.googleusercontent.com
+216.58.221.33 images8-hangout-opensocial.googleusercontent.com
+216.58.221.33 images9-hangout-opensocial.googleusercontent.com
+216.58.221.33 images-docs-opensocial.googleusercontent.com
+216.58.221.33 images-oz-opensocial.googleusercontent.com
+216.58.221.33 images-lso-opensocial.googleusercontent.com
+216.58.221.33 images-blogger-opensocial.googleusercontent.com
+216.58.221.33 images-pos-opensocial.googleusercontent.com
+216.58.221.33 lh0.googleusercontent.com
+216.58.221.33 lh1.googleusercontent.com
+216.58.221.33 lh2.googleusercontent.com
+216.58.221.33 lh3.googleusercontent.com
+216.58.221.33 lh4.googleusercontent.com
+216.58.221.33 lh5.googleusercontent.com
+216.58.221.33 lh6.googleusercontent.com
+216.58.221.33 mail-attachment.googleusercontent.com
+216.58.221.33 music.googleusercontent.com
+216.58.221.33 music-onebox.googleusercontent.com
+216.58.221.33 newsstand.googleusercontent.com
+216.58.221.33 oauth.googleusercontent.com
+216.58.221.33 producer.googleusercontent.com
+216.58.221.33 reader.googleusercontent.com
+216.58.221.33 s1.googleusercontent.com
+216.58.221.33 s2.googleusercontent.com
+216.58.221.33 spreadsheets-opensocial.googleusercontent.com
+216.58.221.33 static.googleusercontent.com
+216.58.221.33 themes.googleusercontent.com
+216.58.221.33 translate.googleusercontent.com
+216.58.221.33 video.googleusercontent.com
+216.58.221.33 wave.googleusercontent.com
+216.58.221.33 webcache.googleusercontent.com
+216.58.221.33 ytimg.googleusercontent.com
+216.58.221.33 www-opensocial.googleusercontent.com
+216.58.221.33 www-gm-opensocial.googleusercontent.com
+216.58.221.33 www-opensocial-sandbox.googleusercontent.com
+216.58.221.33 www-fc-opensocial.googleusercontent.com
+216.58.221.33 *-a-fc-opensocial.googleusercontent.com
+216.58.221.33 4lam9a1ki27mb9p1h5q3furvvf58ss02-a-gm-opensocial.googleusercontent.com
+216.58.221.33 nl3atn8402ncgahndqn8rb6qi2ld2g5a-a-gm-opensocial.googleusercontent.com
+216.58.221.33 8fkcem1ves287v3g5lu9gep1j91p3kk1-a-fc-opensocial.googleusercontent.com
+216.58.221.33 r1rk9np7bpcsfoeekl0khkd2juj27q3o-a-fc-opensocial.googleusercontent.com
+216.58.221.33 www-focus-opensocial.googleusercontent.com
+216.58.221.33 images0-focus-opensocial.googleusercontent.com
+216.58.221.33 images1-focus-opensocial.googleusercontent.com
+216.58.221.33 images2-focus-opensocial.googleusercontent.com
+216.58.221.33 images3-focus-opensocial.googleusercontent.com
+216.58.221.33 images4-focus-opensocial.googleusercontent.com
+216.58.221.33 images5-focus-opensocial.googleusercontent.com
+216.58.221.33 images6-focus-opensocial.googleusercontent.com
+216.58.221.33 images7-focus-opensocial.googleusercontent.com
+216.58.221.33 images8-focus-opensocial.googleusercontent.com
+216.58.221.33 images9-focus-opensocial.googleusercontent.com
+216.58.221.33 images*-focus-opensocial.googleusercontent.com
+216.58.221.33 0-focus-opensocial.googleusercontent.com
+216.58.221.33 1-focus-opensocial.googleusercontent.com
+216.58.221.33 2-focus-opensocial.googleusercontent.com
+216.58.221.33 3-focus-opensocial.googleusercontent.com
+216.58.221.33 www-fusiontables-opensocial.googleusercontent.com
+216.58.221.33 www-kix-opensocial.googleusercontent.com
+216.58.221.33 www-onepick-opensocial.googleusercontent.com
+216.58.221.33 images-onepick-opensocial.googleusercontent.com
+216.58.221.33 www-open-opensocial.googleusercontent.com
+216.58.221.33 *-a-oz-opensocial.googleusercontent.com
+216.58.221.33 0-open-opensocial.googleusercontent.com
+216.58.221.33 1-open-opensocial.googleusercontent.com
+216.58.221.33 2-open-opensocial.googleusercontent.com
+216.58.221.33 3-open-opensocial.googleusercontent.com
+216.58.221.33 www-oz-opensocial.googleusercontent.com
+216.58.221.33 4fjvqid3r3oq66t548clrdj52df15coc-a-oz-opensocial.googleusercontent.com
+216.58.221.33 53rd6p0catml6vat6qra84rs0del836d-a-oz-opensocial.googleusercontent.com
+216.58.221.33 59cbv4l9s05pbaks9v77vc3mengeqors-a-oz-opensocial.googleusercontent.com
+216.58.221.33 8kubpeu8314p2efdd7jlv09an9i2ljdo-a-oz-opensocial.googleusercontent.com
+216.58.221.33 adstvca8k2ooaknjjmv89j22n9t676ve-a-oz-opensocial.googleusercontent.com
+216.58.221.33 bt26mravu2qpe56n8gnmjnpv2inl84bf-a-oz-opensocial.googleusercontent.com
+216.58.221.33 debh8vg7vd93bco3prdajidmm7dhql3f-a-oz-opensocial.googleusercontent.com
+216.58.221.33 hsco54a20sh11q9jkmb51ad2n3hmkmrg-a-oz-opensocial.googleusercontent.com
+216.58.221.33 i8brh95qor6r54nkl52hidj2ggcs4jgm-a-oz-opensocial.googleusercontent.com
+216.58.221.33 k6v18tjr24doa89b55o3na41kn4v73eb-a-oz-opensocial.googleusercontent.com
+216.58.221.33 ob7f2qc0i50kbjnc81vkhgmb5hsv7a8l-a-oz-opensocial.googleusercontent.com
+216.58.221.33 qhie5b8u979rnch1q0hqbrmbkn9estf7-a-oz-opensocial.googleusercontent.com
+216.58.221.33 r70rmsn4s0rhk6cehcbbcbfbs31pu0va-a-oz-opensocial.googleusercontent.com
+216.58.221.33 rbjhe237k979f79d87gmenp3gejfonu9-a-oz-opensocial.googleusercontent.com
+216.58.221.33 u807isd5egseeabjccgcns005p2miucq-a-oz-opensocial.googleusercontent.com
+216.58.221.33 upt14k1i2veesusrda9nfotcrbp9d7p5-a-oz-opensocial.googleusercontent.com
+216.58.221.33 4098j3r7bdqqvlggmhbnlu6u5i8d08jq-a-oz-opensocial.googleusercontent.com
+216.58.221.33 www-trixcopysheet-opensocial.googleusercontent.com
+216.58.221.33 www-wave-opensocial.googleusercontent.com
+216.58.221.33 wave-opensocial.googleusercontent.com
+216.58.221.33 0-wave-opensocial.googleusercontent.com
+216.58.221.33 1-wave-opensocial.googleusercontent.com
+216.58.221.33 2-wave-opensocial.googleusercontent.com
+216.58.221.33 3-wave-opensocial.googleusercontent.com
+216.58.221.33 4-wave-opensocial.googleusercontent.com
+216.58.221.33 5-wave-opensocial.googleusercontent.com
+216.58.221.33 6-wave-opensocial.googleusercontent.com
+216.58.221.33 7-wave-opensocial.googleusercontent.com
+216.58.221.33 8-wave-opensocial.googleusercontent.com
+216.58.221.33 9-wave-opensocial.googleusercontent.com
+216.58.221.33 10-wave-opensocial.googleusercontent.com
+216.58.221.33 11-wave-opensocial.googleusercontent.com
+216.58.221.33 12-wave-opensocial.googleusercontent.com
+216.58.221.33 13-wave-opensocial.googleusercontent.com
+216.58.221.33 14-wave-opensocial.googleusercontent.com
+216.58.221.33 15-wave-opensocial.googleusercontent.com
+216.58.221.33 16-wave-opensocial.googleusercontent.com
+216.58.221.33 17-wave-opensocial.googleusercontent.com
+216.58.221.33 18-wave-opensocial.googleusercontent.com
+216.58.221.33 19-wave-opensocial.googleusercontent.com
+216.58.221.33 20-wave-opensocial.googleusercontent.com
+216.58.221.33 21-wave-opensocial.googleusercontent.com
+216.58.221.33 22-wave-opensocial.googleusercontent.com
+216.58.221.33 23-wave-opensocial.googleusercontent.com
+216.58.221.33 24-wave-opensocial.googleusercontent.com
+216.58.221.33 25-wave-opensocial.googleusercontent.com
+216.58.221.33 26-wave-opensocial.googleusercontent.com
+216.58.221.33 27-wave-opensocial.googleusercontent.com
+216.58.221.33 28-wave-opensocial.googleusercontent.com
+216.58.221.33 29-wave-opensocial.googleusercontent.com
+216.58.221.33 30-wave-opensocial.googleusercontent.com
+216.58.221.33 31-wave-opensocial.googleusercontent.com
+216.58.221.33 32-wave-opensocial.googleusercontent.com
+216.58.221.33 33-wave-opensocial.googleusercontent.com
+216.58.221.33 34-wave-opensocial.googleusercontent.com
+216.58.221.33 35-wave-opensocial.googleusercontent.com
+216.58.221.33 36-wave-opensocial.googleusercontent.com
+216.58.221.33 37-wave-opensocial.googleusercontent.com
+216.58.221.33 38-wave-opensocial.googleusercontent.com
+216.58.221.33 39-wave-opensocial.googleusercontent.com
+216.58.221.33 40-wave-opensocial.googleusercontent.com
+
+

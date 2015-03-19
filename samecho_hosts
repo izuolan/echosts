@@ -1,0 +1,3527 @@
+#https://github.com/catbb49294929/samecho_hosts
+#Hosts更新QQ群:162157583|资源分享
+
+
+#Amazon S3
+54.231.65.26 s3.amazonaws.com
+54.231.232.217 s3-us-west-1.amazonaws.com
+54.231.164.72 s3-us-west-2.amazonaws.com
+54.231.225.9 s3-ap-northeast-1.amazonaws.com
+54.231.243.121 s3-ap-southeast-1.amazonaws.com
+54.231.252.28 s3-ap-southeast-2.amazonaws.com
+54.231.96.176	s3-1.amazonaws.com
+54.231.244.8	s3-2.amazonaws.com
+54.243.190.210	git-scm.com
+
+
+#https://github.com/catbb49294929/samecho_hosts
+#Hosts更新QQ群:162157583|资源分享
+
+
+#Box.com 
+74.112.184.90 box.com
+74.112.184.70 app.box.com
+
+
+#https://github.com/catbb49294929/samecho_hosts
+#Hosts更新QQ群:162157583|资源分享
+
+
+#Edgecast
+72.21.91.17 p4.zdassets.com
+68.232.35.38 cdn2.editmysite.com
+93.184.216.127 s.w.org
+72.21.91.8 gp1.wac.edgecastcdn.net
+93.184.216.73 ppcdn.500px.org
+93.184.216.73 assetcdn.500px.org
+93.184.216.73 prcdn.500px.org
+93.184.216.73 pacdn.500px.org
+93.184.215.223 cdn1.appleinsider.com 
+93.184.216.229 citylab.com 
+93.184.216.229 www.citylab.com 
+93.184.216.229 cdn.citylab.com
+72.21.91.54 www.thewire.com
+72.21.91.54 cdn.thewire.com
+117.18.237.191 use.typekit.net
+117.18.237.191 use.typekit.com
+117.18.237.191 p.typekit.net
+72.21.91.94 livepassdl.secure.conviva.com
+72.21.91.121 www.gravatar.com
+72.21.91.121 0.gravatar.com
+72.21.91.121 1.gravatar.com
+72.21.91.121 2.gravatar.com
+72.21.91.121 s.gravatar.com
+117.18.232.133 edgecastcdn.net
+117.18.232.133 wac.83A1.edgecastcdn.net
+117.18.232.133 www.edgecastcdn.net
+
+
+#Others
+68.232.45.109   df6a.https.cdn.softlayer.net
+111.13.66.27    weather.yahooapis.com
+58.220.10.61    bbs.anzhi.com
+101.226.200.228 www.v2ex.com
+68.232.44.127	soundcloud.com
+68.232.44.127	api.soundcloud.com
+68.232.44.127	api-v2.soundcloud.com
+68.232.44.127	pages.soundcloud.com
+68.232.45.96	ec-media.soundcloud.com
+72.21.81.96     ec-media.soundcloud.com
+178.249.139.140	developers.soundcloud.com
+68.232.44.96	a1.sndcdn.com
+68.232.44.96	a2.sndcdn.com
+68.232.44.96	a-v2.sndcdn.com
+68.232.44.96	i1.sndcdn.com
+68.232.44.96	i2.sndcdn.com
+68.232.44.96	i3.sndcdn.com
+68.232.44.96	i4.sndcdn.com
+68.232.44.96	wis.sndcdn.com
+203.77.190.0	soundcloud.hs.llnwd.net 
+203.77.191.0	soundcloud.hs.llnwd.net 
+111.119.3.1	soundcloud.hs.llnwd.net 
+111.119.3.129	soundcloud.hs.llnwd.net 
+208.111.179.129	soundcloud.hs.llnwd.net 
+208.111.179.1	soundcloud.hs.llnwd.net 
+95.140.224.128	soundcloud.hs.llnwd.net 
+95.140.236.128	soundcloud.hs.llnwd.net 
+66.228.50.217	blog.soundcloud.com
+54.241.38.163	help.soundcloud.com
+54.215.15.50	help.soundcloud.com
+66.6.42.22      status.soundcloud.com
+66.6.43.22      status.soundcloud.com
+68.232.44.127   eventlogger.soundcloud.com
+68.232.44.127   m.soundcloud.com
+199.16.157.80   pay.twitter.com
+68.232.44.127   api-partners.soundcloud.com
+61.220.62.167	pdl.vimeocdn.com
+
+
+#https://github.com/catbb49294929/samecho_hosts
+#Hosts更新QQ群:162157583|资源分享
+
+
+#Deviantart
+110.232.178.146 www.deviantart.com
+110.232.178.146 deviantart.com
+72.21.91.8 www.da-files.com
+110.232.178.146 browse.deviantart.com
+110.232.178.146 shop.deviantart.com
+110.232.178.146 about.deviantart.com
+110.232.178.146 groups.deviantart.com
+110.232.178.146 forum.deviantart.com
+110.232.178.146 chat.deviantart.com
+110.232.178.146 wallpaper.deviantart.com
+110.232.178.146 critiques.deviantart.com
+110.232.178.146 help.deviantart.com
+110.232.178.146 portfolio.deviantart.com
+110.232.178.146 smoothmoney.deviantart.com
+110.232.178.146 umbrella-cakey.deviantart.com
+110.232.178.146 xiaomi-miui.deviantart.com
+110.232.178.146 worldismine2.deviantart.com
+110.232.178.146 tchiro.deviantart.com
+110.232.178.146 ultimatedesktops.deviantart.com
+68.232.44.148 st.deviantart.net
+68.232.44.148 i.deviantart.net
+68.232.44.148 a.deviantart.net
+68.232.44.148 e.deviantart.net
+68.232.44.148 s.deviantart.net
+68.232.44.148 th00.deviantart.net
+68.232.44.148 th01.deviantart.net
+68.232.44.148 th02.deviantart.net
+68.232.44.148 th03.deviantart.net
+68.232.44.148 th04.deviantart.net
+68.232.44.148 th05.deviantart.net
+68.232.44.148 th06.deviantart.net
+68.232.44.148 th07.deviantart.net
+68.232.44.148 th08.deviantart.net
+68.232.44.148 th09.deviantart.net
+68.232.45.40 fc00.deviantart.net
+68.232.45.40 fc01.deviantart.net
+68.232.45.40 fc02.deviantart.net
+68.232.45.40 fc03.deviantart.net
+68.232.45.40 fc04.deviantart.net
+68.232.45.40 fc05.deviantart.net
+68.232.45.40 fc06.deviantart.net
+68.232.45.40 fc07.deviantart.net
+68.232.45.40 fc08.deviantart.net
+68.232.45.40 fc09.deviantart.net
+
+
+#https://github.com/catbb49294929/samecho_hosts
+#Hosts更新QQ群:162157583|资源分享
+
+
+#Dropbox
+108.160.162.31 dropbox.com
+108.160.162.31 www.dropbox.com
+108.160.162.31 api.dropbox.com
+108.160.162.31 api-notify.dropbox.com
+174.129.248.254 api-content.dropbox.com
+108.160.162.31 api-d.dropbox.com
+108.160.162.31 client-lb.dropbox.com
+108.160.162.31 block.dropbox.com
+108.160.162.31 d.dropbox.com
+23.21.90.96 dl.dropbox.com
+184.72.249.238 dl.dropboxusercontent.com
+54.230.148.32 cf.dropboxstatic.com
+23.23.246.32 dl-web.dropbox.com
+54.230.151.190 forums.dropbox.com
+108.160.162.31 notify1.dropbox.com
+108.160.162.31 notify2.dropbox.com
+108.160.162.31 notify3.dropbox.com
+108.160.162.31 notify4.dropbox.com
+108.160.162.31 notify5.dropbox.com
+108.160.162.31 notify6.dropbox.com
+108.160.162.31 notify7.dropbox.com
+108.160.162.31 notify8.dropbox.com
+108.160.162.31 notify9.dropbox.com
+108.160.162.31 client0.dropbox.com
+108.160.162.31 client1.dropbox.com
+108.160.162.31 client2.dropbox.com
+108.160.162.31 client3.dropbox.com
+108.160.162.31 client4.dropbox.com
+108.160.162.31 client5.dropbox.com
+108.160.162.31 client6.dropbox.com
+108.160.162.31 client7.dropbox.com
+108.160.162.31 client8.dropbox.com
+108.160.162.31 client9.dropbox.com
+108.160.162.31 client10.dropbox.com
+108.160.162.31 client11.dropbox.com
+108.160.162.31 client12.dropbox.com
+108.160.162.31 client13.dropbox.com
+108.160.162.31 client14.dropbox.com
+108.160.162.31 client15.dropbox.com
+108.160.162.31 client16.dropbox.com
+108.160.162.31 client17.dropbox.com
+108.160.162.31 client18.dropbox.com
+108.160.162.31 client19.dropbox.com
+108.160.162.31 client20.dropbox.com
+108.160.162.31 client21.dropbox.com
+108.160.162.31 client22.dropbox.com
+108.160.162.31 client23.dropbox.com
+108.160.162.31 client24.dropbox.com
+108.160.162.31 client25.dropbox.com
+108.160.162.31 client26.dropbox.com
+108.160.162.31 client27.dropbox.com
+108.160.162.31 client28.dropbox.com
+108.160.162.31 client29.dropbox.com
+108.160.162.31 client30.dropbox.com
+108.160.162.31 client31.dropbox.com
+108.160.162.31 client32.dropbox.com
+108.160.162.31 client33.dropbox.com
+108.160.162.31 client34.dropbox.com
+108.160.162.31 client35.dropbox.com
+108.160.162.31 client36.dropbox.com
+108.160.162.31 client37.dropbox.com
+108.160.162.31 client38.dropbox.com
+108.160.162.31 client39.dropbox.com
+108.160.162.31 client40.dropbox.com
+108.160.162.31 client41.dropbox.com
+108.160.162.31 client42.dropbox.com
+108.160.162.31 client43.dropbox.com
+108.160.162.31 client44.dropbox.com
+108.160.162.31 client45.dropbox.com
+108.160.162.31 client46.dropbox.com
+108.160.162.31 client47.dropbox.com
+108.160.162.31 client48.dropbox.com
+108.160.162.31 client49.dropbox.com
+108.160.162.31 client50.dropbox.com
+108.160.162.31 client51.dropbox.com
+108.160.162.31 client52.dropbox.com
+108.160.162.31 client53.dropbox.com
+108.160.162.31 client54.dropbox.com
+108.160.162.31 client55.dropbox.com
+108.160.162.31 client56.dropbox.com
+108.160.162.31 client57.dropbox.com
+108.160.162.31 client58.dropbox.com
+108.160.162.31 client59.dropbox.com
+108.160.162.31 client60.dropbox.com
+108.160.162.31 client61.dropbox.com
+108.160.162.31 client62.dropbox.com
+108.160.162.31 client63.dropbox.com
+108.160.162.31 client64.dropbox.com
+108.160.162.31 client65.dropbox.com
+108.160.162.31 client66.dropbox.com
+108.160.162.31 client67.dropbox.com
+108.160.162.31 client68.dropbox.com
+108.160.162.31 client69.dropbox.com
+108.160.162.31 client70.dropbox.com
+108.160.162.31 client71.dropbox.com
+108.160.162.31 client72.dropbox.com
+108.160.162.31 client73.dropbox.com
+108.160.162.31 client74.dropbox.com
+108.160.162.31 client75.dropbox.com
+108.160.162.31 client76.dropbox.com
+108.160.162.31 client77.dropbox.com
+108.160.162.31 client78.dropbox.com
+108.160.162.31 client79.dropbox.com
+108.160.162.31 client80.dropbox.com
+108.160.162.31 client81.dropbox.com
+108.160.162.31 client82.dropbox.com
+108.160.162.31 client83.dropbox.com
+108.160.162.31 client84.dropbox.com
+108.160.162.31 client85.dropbox.com
+108.160.162.31 client86.dropbox.com
+108.160.162.31 client87.dropbox.com
+108.160.162.31 client88.dropbox.com
+108.160.162.31 client89.dropbox.com
+108.160.162.31 client90.dropbox.com
+108.160.162.31 client91.dropbox.com
+108.160.162.31 client92.dropbox.com
+108.160.162.31 client93.dropbox.com
+108.160.162.31 client94.dropbox.com
+108.160.162.31 client95.dropbox.com
+108.160.162.31 client96.dropbox.com
+108.160.162.31 client97.dropbox.com
+108.160.162.31 client98.dropbox.com
+108.160.162.31 client99.dropbox.com
+204.236.220.7 dl-client1.dropbox.com
+204.236.220.9 dl-client2.dropbox.com
+204.236.220.10 dl-client3.dropbox.com
+204.236.220.12 dl-client4.dropbox.com
+204.236.220.13 dl-client5.dropbox.com
+204.236.220.21 dl-client6.dropbox.com
+204.236.220.23 dl-client7.dropbox.com
+204.236.220.25 dl-client8.dropbox.com
+204.236.220.31 dl-client9.dropbox.com
+204.236.220.33 dl-client10.dropbox.com
+204.236.220.38 dl-client11.dropbox.com
+204.236.220.43 dl-client12.dropbox.com
+204.236.220.45 dl-client13.dropbox.com
+204.236.220.46 dl-client14.dropbox.com
+204.236.220.47 dl-client15.dropbox.com
+204.236.220.53 dl-client16.dropbox.com
+204.236.220.58 dl-client17.dropbox.com
+204.236.220.62 dl-client18.dropbox.com
+204.236.220.69 dl-client19.dropbox.com
+204.236.220.71 dl-client20.dropbox.com
+204.236.220.75 dl-client21.dropbox.com
+204.236.220.76 dl-client22.dropbox.com
+204.236.220.79 dl-client23.dropbox.com
+204.236.220.81 dl-client24.dropbox.com
+204.236.220.82 dl-client25.dropbox.com
+204.236.220.83 dl-client26.dropbox.com
+204.236.220.84 dl-client27.dropbox.com
+204.236.220.91 dl-client28.dropbox.com
+204.236.220.93 dl-client29.dropbox.com
+204.236.220.101 dl-client30.dropbox.com
+204.236.220.102 dl-client31.dropbox.com
+204.236.220.106 dl-client32.dropbox.com
+174.129.27.56 dl-client33.dropbox.com
+174.129.27.81 dl-client34.dropbox.com
+174.129.27.124 dl-client35.dropbox.com
+174.129.27.126 dl-client36.dropbox.com
+174.129.27.136 dl-client37.dropbox.com
+174.129.27.138 dl-client38.dropbox.com
+174.129.27.145 dl-client39.dropbox.com
+174.129.27.146 dl-client40.dropbox.com
+174.129.27.150 dl-client41.dropbox.com
+174.129.27.155 dl-client42.dropbox.com
+184.73.211.227 dl-client43.dropbox.com
+184.73.211.228 dl-client44.dropbox.com
+184.73.211.230 dl-client45.dropbox.com
+184.73.211.233 dl-client46.dropbox.com
+184.73.211.235 dl-client47.dropbox.com
+184.73.211.238 dl-client48.dropbox.com
+184.73.211.240 dl-client49.dropbox.com
+184.73.211.241 dl-client50.dropbox.com
+184.72.255.160 dl-client51.dropbox.com
+184.72.255.163 dl-client52.dropbox.com
+184.72.255.170 dl-client53.dropbox.com
+184.72.255.187 dl-client54.dropbox.com
+23.21.250.123 dl-client55.dropbox.com
+184.72.255.202 dl-client56.dropbox.com
+184.72.255.204 dl-client57.dropbox.com
+184.72.255.206 dl-client58.dropbox.com
+184.72.255.211 dl-client59.dropbox.com
+184.72.255.214 dl-client60.dropbox.com
+174.129.195.72 dl-client61.dropbox.com
+174.129.195.73 dl-client62.dropbox.com
+174.129.195.76 dl-client63.dropbox.com
+174.129.195.79 dl-client64.dropbox.com
+174.129.195.82 dl-client65.dropbox.com
+174.129.195.84 dl-client66.dropbox.com
+174.129.195.85 dl-client67.dropbox.com
+174.129.195.86 dl-client68.dropbox.com
+174.129.195.91 dl-client69.dropbox.com
+174.129.195.93 dl-client70.dropbox.com
+174.129.195.97 dl-client71.dropbox.com
+174.129.195.106 dl-client72.dropbox.com
+174.129.195.114 dl-client73.dropbox.com
+174.129.195.117 dl-client74.dropbox.com
+174.129.195.122 dl-client75.dropbox.com
+174.129.195.125 dl-client76.dropbox.com
+174.129.195.141 dl-client77.dropbox.com
+174.129.195.148 dl-client78.dropbox.com
+174.129.195.171 dl-client79.dropbox.com
+54.235.249.106 dl-client80.dropbox.com
+174.129.195.208 dl-client81.dropbox.com
+174.129.195.220 dl-client82.dropbox.com
+174.129.195.250 dl-client83.dropbox.com
+174.129.196.55 dl-client84.dropbox.com
+174.129.196.64 dl-client85.dropbox.com
+174.129.196.102 dl-client86.dropbox.com
+174.129.196.114 dl-client87.dropbox.com
+174.129.196.117 dl-client88.dropbox.com
+174.129.196.119 dl-client89.dropbox.com
+174.129.196.147 dl-client90.dropbox.com
+50.16.206.56 dl-client91.dropbox.com
+50.16.206.64 dl-client92.dropbox.com
+50.16.206.67 dl-client93.dropbox.com
+50.16.206.72 dl-client94.dropbox.com
+50.16.208.80 dl-client95.dropbox.com
+50.16.208.108 dl-client96.dropbox.com
+50.16.209.69 dl-client97.dropbox.com
+50.16.209.169 dl-client98.dropbox.com
+50.16.209.174 dl-client99.dropbox.com
+50.16.209.203 dl-client100.dropbox.com
+50.16.209.251 dl-client101.dropbox.com
+50.16.210.25 dl-client102.dropbox.com
+50.16.210.219 dl-client103.dropbox.com
+50.16.210.253 dl-client104.dropbox.com
+50.16.211.82 dl-client105.dropbox.com
+50.16.211.104 dl-client106.dropbox.com
+50.16.212.22 dl-client107.dropbox.com
+50.16.212.62 dl-client108.dropbox.com
+50.16.212.92 dl-client109.dropbox.com
+50.16.212.102 dl-client110.dropbox.com
+50.16.212.107 dl-client111.dropbox.com
+50.16.212.127 dl-client112.dropbox.com
+50.16.212.159 dl-client113.dropbox.com
+50.16.212.188 dl-client114.dropbox.com
+50.16.213.47 dl-client115.dropbox.com
+50.16.213.90 dl-client116.dropbox.com
+50.16.213.132 dl-client117.dropbox.com
+50.16.213.145 dl-client118.dropbox.com
+50.16.213.173 dl-client119.dropbox.com
+50.16.213.229 dl-client120.dropbox.com
+50.17.245.85 dl-client121.dropbox.com
+50.17.245.160 dl-client122.dropbox.com
+50.17.246.54 dl-client123.dropbox.com
+50.19.116.109 dl-client124.dropbox.com
+50.17.243.112 dl-client125.dropbox.com
+50.17.245.88 dl-client126.dropbox.com
+50.19.116.108 dl-client127.dropbox.com
+50.19.116.100 dl-client128.dropbox.com
+50.17.243.153 dl-client129.dropbox.com
+50.17.244.156 dl-client130.dropbox.com
+50.17.246.216 dl-client131.dropbox.com
+50.19.116.136 dl-client132.dropbox.com
+50.17.244.152 dl-client133.dropbox.com
+50.17.244.151 dl-client134.dropbox.com
+50.19.116.112 dl-client135.dropbox.com
+50.19.116.110 dl-client136.dropbox.com
+50.19.116.130 dl-client137.dropbox.com
+50.19.116.134 dl-client138.dropbox.com
+50.17.245.215 dl-client139.dropbox.com
+50.17.246.43 dl-client140.dropbox.com
+54.221.244.207 dl-client141.dropbox.com
+50.17.244.125 dl-client142.dropbox.com
+50.17.243.104 dl-client143.dropbox.com
+50.19.116.106 dl-client144.dropbox.com
+50.17.244.5 dl-client145.dropbox.com
+50.19.116.126 dl-client146.dropbox.com
+50.19.116.104 dl-client147.dropbox.com
+50.19.116.107 dl-client148.dropbox.com
+50.17.244.22 dl-client149.dropbox.com
+50.17.243.204 dl-client150.dropbox.com
+50.19.116.103 dl-client151.dropbox.com
+50.19.116.124 dl-client152.dropbox.com
+50.17.245.185 dl-client153.dropbox.com
+50.17.243.189 dl-client154.dropbox.com
+50.17.246.187 dl-client155.dropbox.com
+50.17.243.240 dl-client156.dropbox.com
+50.17.245.50 dl-client157.dropbox.com
+50.17.248.55 dl-client158.dropbox.com
+54.235.119.187 dl-client159.dropbox.com
+50.17.246.19 dl-client160.dropbox.com
+50.19.98.28 dl-client161.dropbox.com
+50.17.185.247 dl-client162.dropbox.com
+174.129.203.236 dl-client163.dropbox.com
+174.129.203.252 dl-client164.dropbox.com
+50.19.116.0 dl-client165.dropbox.com
+54.243.127.47 dl-client166.dropbox.com
+50.19.96.36 dl-client167.dropbox.com
+174.129.205.197 dl-client168.dropbox.com
+174.129.205.248 dl-client169.dropbox.com
+174.129.206.49 dl-client170.dropbox.com
+174.129.206.165 dl-client171.dropbox.com
+174.129.206.171 dl-client172.dropbox.com
+174.129.207.120 dl-client173.dropbox.com
+174.129.208.145 dl-client174.dropbox.com
+174.129.207.115 dl-client175.dropbox.com
+50.17.241.80 dl-client176.dropbox.com
+75.101.147.127 dl-client177.dropbox.com
+174.129.209.113 dl-client178.dropbox.com
+174.129.210.32 dl-client179.dropbox.com
+50.19.117.25 dl-client180.dropbox.com
+174.129.210.91 dl-client181.dropbox.com
+174.129.211.231 dl-client182.dropbox.com
+174.129.207.220 dl-client183.dropbox.com
+174.129.217.12 dl-client184.dropbox.com
+174.129.217.27 dl-client185.dropbox.com
+50.19.85.241 dl-client186.dropbox.com
+174.129.217.43 dl-client187.dropbox.com
+174.129.217.75 dl-client188.dropbox.com
+174.129.217.76 dl-client189.dropbox.com
+174.129.217.88 dl-client190.dropbox.com
+174.129.218.106 dl-client191.dropbox.com
+50.19.109.187 dl-client192.dropbox.com
+50.16.202.92 dl-client193.dropbox.com
+174.129.220.12 dl-client194.dropbox.com
+174.129.221.92 dl-client195.dropbox.com
+174.129.221.206 dl-client196.dropbox.com
+174.129.223.84 dl-client197.dropbox.com
+174.129.223.168 dl-client198.dropbox.com
+174.129.224.20 dl-client199.dropbox.com
+174.129.224.56 dl-client200.dropbox.com
+174.129.224.61 dl-client201.dropbox.com
+174.129.224.157 dl-client202.dropbox.com
+174.129.224.212 dl-client203.dropbox.com
+174.129.225.228 dl-client204.dropbox.com
+174.129.226.125 dl-client205.dropbox.com
+174.129.218.253 dl-client206.dropbox.com
+174.129.219.102 dl-client207.dropbox.com
+174.129.219.115 dl-client208.dropbox.com
+174.129.220.33 dl-client209.dropbox.com
+174.129.221.187 dl-client210.dropbox.com
+174.129.222.36 dl-client211.dropbox.com
+54.227.250.123 dl-client212.dropbox.com
+174.129.224.19 dl-client213.dropbox.com
+174.129.224.33 dl-client214.dropbox.com
+174.129.224.36 dl-client215.dropbox.com
+174.129.224.81 dl-client216.dropbox.com
+174.129.224.182 dl-client217.dropbox.com
+174.129.225.227 dl-client218.dropbox.com
+174.129.226.5 dl-client219.dropbox.com
+174.129.226.235 dl-client220.dropbox.com
+184.73.239.52 dl-client221.dropbox.com
+50.16.219.143 dl-client222.dropbox.com
+50.16.230.238 dl-client223.dropbox.com
+50.16.237.240 dl-client224.dropbox.com
+50.16.241.181 dl-client225.dropbox.com
+50.16.241.210 dl-client226.dropbox.com
+50.16.251.235 dl-client227.dropbox.com
+50.17.181.53 dl-client228.dropbox.com
+50.17.189.96 dl-client229.dropbox.com
+50.17.192.75 dl-client230.dropbox.com
+50.17.196.141 dl-client231.dropbox.com
+50.17.200.55 dl-client232.dropbox.com
+50.17.200.64 dl-client233.dropbox.com
+107.20.230.108 dl-client234.dropbox.com
+50.17.202.201 dl-client235.dropbox.com
+204.236.217.8 dl-client236.dropbox.com
+50.17.202.233 dl-client237.dropbox.com
+50.17.203.84 dl-client238.dropbox.com
+50.17.211.68 dl-client239.dropbox.com
+107.20.204.45 dl-client240.dropbox.com
+107.20.205.127 dl-client241.dropbox.com
+107.20.206.144 dl-client242.dropbox.com
+107.20.207.156 dl-client243.dropbox.com
+50.16.207.125 dl-client244.dropbox.com
+50.16.231.95 dl-client245.dropbox.com
+50.16.232.215 dl-client246.dropbox.com
+50.17.196.244 dl-client247.dropbox.com
+50.17.208.192 dl-client248.dropbox.com
+50.17.211.16 dl-client249.dropbox.com
+50.17.214.32 dl-client250.dropbox.com
+50.19.99.27 dl-client251.dropbox.com
+50.17.218.24 dl-client252.dropbox.com
+50.19.105.113 dl-client253.dropbox.com
+50.19.110.94 dl-client254.dropbox.com
+50.19.111.215 dl-client255.dropbox.com
+50.19.116.245 dl-client256.dropbox.com
+50.19.124.18 dl-client257.dropbox.com
+50.19.113.250 dl-client258.dropbox.com
+50.19.122.179 dl-client259.dropbox.com
+50.19.210.59 dl-client260.dropbox.com
+107.22.245.24 dl-client261.dropbox.com
+107.22.245.27 dl-client262.dropbox.com
+107.22.245.36 dl-client263.dropbox.com
+107.22.245.41 dl-client264.dropbox.com
+107.22.245.55 dl-client265.dropbox.com
+107.22.245.60 dl-client266.dropbox.com
+107.22.245.66 dl-client267.dropbox.com
+107.22.245.73 dl-client268.dropbox.com
+107.22.245.91 dl-client269.dropbox.com
+107.22.245.108 dl-client270.dropbox.com
+107.22.245.117 dl-client271.dropbox.com
+107.22.245.133 dl-client272.dropbox.com
+107.22.245.136 dl-client273.dropbox.com
+107.22.245.149 dl-client274.dropbox.com
+107.22.245.156 dl-client275.dropbox.com
+107.22.245.157 dl-client276.dropbox.com
+107.20.173.124 dl-client277.dropbox.com
+107.22.245.164 dl-client278.dropbox.com
+107.22.245.174 dl-client279.dropbox.com
+107.22.245.176 dl-client280.dropbox.com
+107.22.245.57 dl-client281.dropbox.com
+107.22.245.61 dl-client282.dropbox.com
+107.22.245.69 dl-client283.dropbox.com
+107.22.245.146 dl-client284.dropbox.com
+107.22.245.84 dl-client285.dropbox.com
+107.22.245.105 dl-client286.dropbox.com
+107.22.245.113 dl-client287.dropbox.com
+107.22.245.53 dl-client288.dropbox.com
+107.22.245.142 dl-client289.dropbox.com
+107.22.245.145 dl-client290.dropbox.com
+107.22.245.31 dl-client291.dropbox.com
+107.22.245.63 dl-client292.dropbox.com
+107.22.245.71 dl-client293.dropbox.com
+107.22.245.80 dl-client294.dropbox.com
+107.22.245.101 dl-client295.dropbox.com
+107.22.245.109 dl-client296.dropbox.com
+107.22.245.128 dl-client297.dropbox.com
+107.22.245.192 dl-client298.dropbox.com
+107.22.245.137 dl-client299.dropbox.com
+107.22.245.143 dl-client300.dropbox.com
+107.22.163.108 dl-client301.dropbox.com
+107.22.176.118 dl-client302.dropbox.com
+107.22.176.240 dl-client303.dropbox.com
+50.19.212.142 dl-client304.dropbox.com
+50.19.214.91 dl-client305.dropbox.com
+50.19.215.2 dl-client306.dropbox.com
+50.19.215.65 dl-client307.dropbox.com
+107.22.193.90 dl-client308.dropbox.com
+50.19.215.184 dl-client309.dropbox.com
+50.19.216.90 dl-client310.dropbox.com
+184.73.168.78 dl-client311.dropbox.com
+184.73.169.100 dl-client312.dropbox.com
+50.19.217.68 dl-client313.dropbox.com
+54.243.140.188 dl-client314.dropbox.com
+50.19.85.205 dl-client315.dropbox.com
+107.22.178.61 dl-client316.dropbox.com
+50.19.213.248 dl-client317.dropbox.com
+50.19.214.150 dl-client318.dropbox.com
+184.73.166.146 dl-client319.dropbox.com
+107.22.193.17 dl-client320.dropbox.com
+184.73.167.43 dl-client321.dropbox.com
+50.19.216.12 dl-client322.dropbox.com
+54.235.119.171 dl-client323.dropbox.com
+184.73.169.60 dl-client324.dropbox.com
+50.19.216.229 dl-client325.dropbox.com
+50.19.217.159 dl-client326.dropbox.com
+50.19.219.55 dl-client327.dropbox.com
+50.19.219.103 dl-client328.dropbox.com
+50.19.219.151 dl-client329.dropbox.com
+107.22.193.138 dl-client330.dropbox.com
+107.22.190.238 dl-client331.dropbox.com
+50.19.214.57 dl-client332.dropbox.com
+107.22.170.83 dl-client333.dropbox.com
+50.19.215.26 dl-client334.dropbox.com
+184.73.167.31 dl-client335.dropbox.com
+107.22.193.22 dl-client336.dropbox.com
+184.73.167.170 dl-client337.dropbox.com
+50.19.215.237 dl-client338.dropbox.com
+50.19.84.238 dl-client339.dropbox.com
+50.19.89.149 dl-client341.dropbox.com
+50.19.217.70 dl-client342.dropbox.com
+50.19.218.209 dl-client343.dropbox.com
+107.22.178.95 dl-client344.dropbox.com
+50.19.219.123 dl-client345.dropbox.com
+50.19.211.249 dl-client346.dropbox.com
+50.19.214.76 dl-client347.dropbox.com
+50.19.215.32 dl-client348.dropbox.com
+184.73.167.16 dl-client349.dropbox.com
+107.22.193.30 dl-client350.dropbox.com
+184.73.168.63 dl-client351.dropbox.com
+50.19.216.88 dl-client352.dropbox.com
+50.19.83.49 dl-client353.dropbox.com
+184.73.169.72 dl-client354.dropbox.com
+50.19.217.39 dl-client355.dropbox.com
+50.19.218.160 dl-client356.dropbox.com
+50.19.219.69 dl-client357.dropbox.com
+107.22.170.112 dl-client358.dropbox.com
+107.22.193.100 dl-client359.dropbox.com
+107.22.194.190 dl-client360.dropbox.com
+107.21.237.23 dl-client361.dropbox.com
+107.20.233.66 dl-client362.dropbox.com
+184.73.236.170 dl-client363.dropbox.com
+50.16.205.135 dl-client364.dropbox.com
+107.22.184.90 dl-client365.dropbox.com
+50.16.213.70 dl-client366.dropbox.com
+50.16.224.160 dl-client367.dropbox.com
+50.16.217.149 dl-client368.dropbox.com
+50.16.218.122 dl-client369.dropbox.com
+107.21.230.218 dl-client370.dropbox.com
+107.21.96.195 dl-client371.dropbox.com
+50.16.204.57 dl-client372.dropbox.com
+50.16.206.60 dl-client373.dropbox.com
+50.16.212.218 dl-client374.dropbox.com
+50.16.216.36 dl-client375.dropbox.com
+50.16.216.89 dl-client376.dropbox.com
+50.16.218.33 dl-client377.dropbox.com
+50.16.218.186 dl-client378.dropbox.com
+107.21.230.219 dl-client379.dropbox.com
+50.16.221.130 dl-client380.dropbox.com
+184.73.167.91 dl-client381.dropbox.com
+50.16.204.220 dl-client382.dropbox.com
+50.16.205.154 dl-client383.dropbox.com
+50.16.212.248 dl-client384.dropbox.com
+50.16.225.86 dl-client385.dropbox.com
+50.16.214.25 dl-client386.dropbox.com
+50.16.216.202 dl-client387.dropbox.com
+50.16.218.45 dl-client388.dropbox.com
+107.21.230.214 dl-client389.dropbox.com
+107.21.230.221 dl-client390.dropbox.com
+184.73.218.228 dl-client391.dropbox.com
+50.16.205.20 dl-client392.dropbox.com
+50.16.208.49 dl-client393.dropbox.com
+50.16.213.69 dl-client394.dropbox.com
+50.16.216.85 dl-client395.dropbox.com
+50.16.217.157 dl-client396.dropbox.com
+107.22.192.79 dl-client397.dropbox.com
+107.21.230.213 dl-client398.dropbox.com
+50.16.221.73 dl-client399.dropbox.com
+50.16.222.220 dl-client400.dropbox.com
+107.21.228.70 dl-client401.dropbox.com
+107.20.133.211 dl-client402.dropbox.com
+50.16.221.34 dl-client403.dropbox.com
+50.16.226.243 dl-client404.dropbox.com
+50.16.226.164 dl-client405.dropbox.com
+50.16.227.51 dl-client406.dropbox.com
+50.16.229.100 dl-client407.dropbox.com
+54.243.149.200 dl-client408.dropbox.com
+107.22.223.83 dl-client409.dropbox.com
+50.16.230.32 dl-client410.dropbox.com
+50.16.230.193 dl-client411.dropbox.com
+107.22.184.237 dl-client412.dropbox.com
+107.22.212.93 dl-client413.dropbox.com
+50.16.230.76 dl-client414.dropbox.com
+50.16.221.156 dl-client415.dropbox.com
+50.16.232.250 dl-client416.dropbox.com
+50.16.233.54 dl-client417.dropbox.com
+50.16.232.209 dl-client418.dropbox.com
+50.16.234.13 dl-client419.dropbox.com
+50.16.238.141 dl-client420.dropbox.com
+23.21.219.248 dl-client421.dropbox.com
+23.21.219.18 dl-client422.dropbox.com
+23.21.220.16 dl-client423.dropbox.com
+23.21.220.19 dl-client424.dropbox.com
+23.21.220.38 dl-client425.dropbox.com
+23.21.220.51 dl-client426.dropbox.com
+23.21.220.60 dl-client427.dropbox.com
+23.21.220.65 dl-client428.dropbox.com
+23.21.220.72 dl-client429.dropbox.com
+23.21.220.84 dl-client430.dropbox.com
+23.21.220.94 dl-client431.dropbox.com
+23.21.220.108 dl-client432.dropbox.com
+23.21.220.126 dl-client433.dropbox.com
+23.21.220.142 dl-client434.dropbox.com
+23.21.220.162 dl-client435.dropbox.com
+23.21.219.16 dl-client436.dropbox.com
+23.21.219.124 dl-client437.dropbox.com
+23.21.220.188 dl-client438.dropbox.com
+54.235.87.227 dl-client439.dropbox.com
+23.21.220.207 dl-client440.dropbox.com
+23.21.220.219 dl-client441.dropbox.com
+23.21.220.236 dl-client442.dropbox.com
+23.21.220.240 dl-client443.dropbox.com
+23.21.220.241 dl-client444.dropbox.com
+23.21.219.21 dl-client445.dropbox.com
+23.21.198.87 dl-client446.dropbox.com
+23.21.219.56 dl-client447.dropbox.com
+23.21.220.32 dl-client448.dropbox.com
+23.21.220.41 dl-client449.dropbox.com
+23.21.220.59 dl-client450.dropbox.com
+23.21.220.62 dl-client451.dropbox.com
+23.21.220.70 dl-client452.dropbox.com
+23.21.220.80 dl-client453.dropbox.com
+23.21.220.89 dl-client454.dropbox.com
+23.21.220.48 dl-client455.dropbox.com
+23.21.220.111 dl-client456.dropbox.com
+23.21.220.128 dl-client457.dropbox.com
+54.221.244.210 dl-client458.dropbox.com
+23.21.220.152 dl-client459.dropbox.com
+23.21.220.36 dl-client460.dropbox.com
+23.21.219.144 dl-client461.dropbox.com
+23.21.220.186 dl-client462.dropbox.com
+23.21.220.197 dl-client463.dropbox.com
+23.21.220.17 dl-client464.dropbox.com
+23.21.220.224 dl-client465.dropbox.com
+23.21.220.239 dl-client466.dropbox.com
+23.21.220.148 dl-client467.dropbox.com
+23.21.220.242 dl-client468.dropbox.com
+23.21.219.65 dl-client469.dropbox.com
+23.21.219.22 dl-client470.dropbox.com
+23.21.220.20 dl-client471.dropbox.com
+23.21.220.23 dl-client472.dropbox.com
+23.21.220.39 dl-client473.dropbox.com
+23.21.220.44 dl-client474.dropbox.com
+23.21.220.61 dl-client475.dropbox.com
+23.21.220.69 dl-client476.dropbox.com
+23.21.220.78 dl-client477.dropbox.com
+23.21.220.87 dl-client478.dropbox.com
+23.21.220.103 dl-client479.dropbox.com
+23.21.220.117 dl-client480.dropbox.com
+23.21.220.133 dl-client481.dropbox.com
+23.21.220.143 dl-client482.dropbox.com
+23.21.220.150 dl-client483.dropbox.com
+23.21.220.123 dl-client484.dropbox.com
+23.21.219.105 dl-client485.dropbox.com
+23.21.220.183 dl-client486.dropbox.com
+23.21.220.190 dl-client487.dropbox.com
+23.21.220.199 dl-client488.dropbox.com
+23.21.219.69 dl-client489.dropbox.com
+23.21.219.50 dl-client490.dropbox.com
+23.21.219.156 dl-client491.dropbox.com
+23.21.220.25 dl-client492.dropbox.com
+23.21.220.43 dl-client493.dropbox.com
+23.21.220.55 dl-client494.dropbox.com
+23.21.220.63 dl-client495.dropbox.com
+23.21.220.71 dl-client496.dropbox.com
+23.21.220.81 dl-client497.dropbox.com
+23.21.220.92 dl-client498.dropbox.com
+23.21.220.105 dl-client499.dropbox.com
+23.21.220.122 dl-client500.dropbox.com
+23.21.220.140 dl-client501.dropbox.com
+23.21.220.146 dl-client502.dropbox.com
+23.21.220.167 dl-client503.dropbox.com
+23.21.220.170 dl-client504.dropbox.com
+23.23.247.228 dl-client505.dropbox.com
+23.23.217.249 dl-client506.dropbox.com
+23.23.215.154 dl-client507.dropbox.com
+23.23.220.163 dl-client508.dropbox.com
+23.23.216.15 dl-client509.dropbox.com
+23.23.219.184 dl-client510.dropbox.com
+23.23.217.150 dl-client511.dropbox.com
+23.23.218.119 dl-client512.dropbox.com
+23.23.221.2 dl-client513.dropbox.com
+23.23.220.101 dl-client514.dropbox.com
+23.23.220.122 dl-client515.dropbox.com
+23.23.221.3 dl-client516.dropbox.com
+23.23.221.128 dl-client517.dropbox.com
+23.23.221.134 dl-client518.dropbox.com
+23.23.221.213 dl-client519.dropbox.com
+23.23.221.247 dl-client520.dropbox.com
+23.23.221.255 dl-client521.dropbox.com
+23.23.221.242 dl-client522.dropbox.com
+23.23.221.220 dl-client523.dropbox.com
+23.23.222.77 dl-client524.dropbox.com
+23.23.222.43 dl-client525.dropbox.com
+23.23.223.2 dl-client526.dropbox.com
+23.23.223.48 dl-client527.dropbox.com
+23.23.222.138 dl-client528.dropbox.com
+23.23.222.147 dl-client529.dropbox.com
+23.23.223.57 dl-client530.dropbox.com
+23.23.223.67 dl-client531.dropbox.com
+54.235.99.142 dl-client532.dropbox.com
+54.221.244.208 dl-client533.dropbox.com
+23.23.223.85 dl-client534.dropbox.com
+23.23.223.77 dl-client535.dropbox.com
+23.23.223.124 dl-client536.dropbox.com
+23.23.211.184 dl-client537.dropbox.com
+23.23.223.132 dl-client538.dropbox.com
+23.23.223.95 dl-client539.dropbox.com
+23.23.223.138 dl-client540.dropbox.com
+23.23.224.47 dl-client541.dropbox.com
+23.23.223.139 dl-client542.dropbox.com
+23.23.223.184 dl-client543.dropbox.com
+23.23.224.191 dl-client544.dropbox.com
+23.23.223.208 dl-client545.dropbox.com
+23.23.225.12 dl-client546.dropbox.com
+23.23.220.8 dl-client547.dropbox.com
+23.23.225.68 dl-client548.dropbox.com
+23.23.225.81 dl-client549.dropbox.com
+23.23.225.98 dl-client550.dropbox.com
+23.23.225.246 dl-client551.dropbox.com
+23.23.226.24 dl-client552.dropbox.com
+23.23.226.40 dl-client553.dropbox.com
+23.23.226.41 dl-client554.dropbox.com
+23.23.226.62 dl-client555.dropbox.com
+23.23.226.136 dl-client556.dropbox.com
+23.23.226.103 dl-client557.dropbox.com
+23.23.226.190 dl-client558.dropbox.com
+23.23.226.202 dl-client559.dropbox.com
+23.23.226.244 dl-client560.dropbox.com
+23.23.227.82 dl-client561.dropbox.com
+23.23.226.102 dl-client562.dropbox.com
+23.23.227.100 dl-client563.dropbox.com
+23.23.227.126 dl-client564.dropbox.com
+23.23.228.51 dl-client565.dropbox.com
+23.23.228.84 dl-client566.dropbox.com
+23.23.228.200 dl-client567.dropbox.com
+23.23.228.150 dl-client568.dropbox.com
+23.23.229.29 dl-client569.dropbox.com
+23.23.228.221 dl-client570.dropbox.com
+23.23.228.176 dl-client571.dropbox.com
+23.23.228.249 dl-client572.dropbox.com
+23.23.229.3 dl-client573.dropbox.com
+23.23.228.250 dl-client574.dropbox.com
+23.23.229.12 dl-client575.dropbox.com
+23.23.232.12 dl-client576.dropbox.com
+23.23.229.53 dl-client577.dropbox.com
+23.23.229.96 dl-client578.dropbox.com
+23.23.229.101 dl-client579.dropbox.com
+23.23.229.149 dl-client580.dropbox.com
+23.23.229.157 dl-client581.dropbox.com
+23.23.229.137 dl-client582.dropbox.com
+23.23.229.156 dl-client583.dropbox.com
+23.23.229.155 dl-client584.dropbox.com
+23.23.229.187 dl-client585.dropbox.com
+23.23.229.188 dl-client586.dropbox.com
+23.23.189.205 dl-client587.dropbox.com
+23.23.232.97 dl-client588.dropbox.com
+23.23.193.246 dl-client589.dropbox.com
+23.23.198.57 dl-client590.dropbox.com
+23.23.200.227 dl-client591.dropbox.com
+23.23.216.40 dl-client592.dropbox.com
+23.23.204.80 dl-client593.dropbox.com
+23.23.208.120 dl-client594.dropbox.com
+23.23.211.130 dl-client595.dropbox.com
+54.227.248.29 dl-client596.dropbox.com
+23.23.229.205 dl-client597.dropbox.com
+23.23.231.156 dl-client598.dropbox.com
+23.23.204.0 dl-client599.dropbox.com
+50.17.237.157 dl-client600.dropbox.com
+50.19.126.47 dl-client601.dropbox.com
+23.21.235.158 dl-client602.dropbox.com
+50.19.125.179 dl-client603.dropbox.com
+50.19.115.230 dl-client604.dropbox.com
+50.19.124.29 dl-client605.dropbox.com
+50.16.222.253 dl-client606.dropbox.com
+50.19.124.77 dl-client607.dropbox.com
+50.17.235.246 dl-client608.dropbox.com
+50.19.125.105 dl-client609.dropbox.com
+50.19.125.84 dl-client610.dropbox.com
+50.16.224.138 dl-client611.dropbox.com
+23.21.47.249 dl-client612.dropbox.com
+50.16.224.169 dl-client613.dropbox.com
+50.16.227.37 dl-client614.dropbox.com
+50.16.224.172 dl-client615.dropbox.com
+50.16.226.251 dl-client616.dropbox.com
+50.16.227.222 dl-client617.dropbox.com
+23.21.45.104 dl-client618.dropbox.com
+50.16.229.91 dl-client619.dropbox.com
+23.21.46.215 dl-client620.dropbox.com
+54.243.127.200 dl-client621.dropbox.com
+23.23.231.125 dl-client622.dropbox.com
+23.23.235.101 dl-client623.dropbox.com
+23.23.247.82 dl-client624.dropbox.com
+23.23.247.238 dl-client625.dropbox.com
+23.23.249.59 dl-client626.dropbox.com
+23.23.123.182 dl-client627.dropbox.com
+23.23.123.203 dl-client628.dropbox.com
+23.23.124.28 dl-client629.dropbox.com
+23.23.124.27 dl-client630.dropbox.com
+23.23.125.96 dl-client631.dropbox.com
+107.20.139.233 dl-client632.dropbox.com
+107.20.138.223 dl-client633.dropbox.com
+23.23.127.94 dl-client634.dropbox.com
+107.20.145.171 dl-client635.dropbox.com
+107.20.173.181 dl-client636.dropbox.com
+107.20.164.31 dl-client637.dropbox.com
+107.21.239.24 dl-client638.dropbox.com
+23.21.175.206 dl-client639.dropbox.com
+50.19.122.14 dl-client640.dropbox.com
+75.101.128.99 dl-client641.dropbox.com
+75.101.130.48 dl-client642.dropbox.com
+75.101.130.75 dl-client643.dropbox.com
+75.101.130.141 dl-client644.dropbox.com
+23.23.127.229 dl-client645.dropbox.com
+107.20.241.168 dl-client646.dropbox.com
+23.21.48.22 dl-client647.dropbox.com
+107.21.254.112 dl-client649.dropbox.com
+107.21.254.18 dl-client650.dropbox.com
+107.21.254.170 dl-client651.dropbox.com
+107.21.254.242 dl-client652.dropbox.com
+107.21.254.247 dl-client653.dropbox.com
+107.21.107.122 dl-client654.dropbox.com
+107.21.108.33 dl-client655.dropbox.com
+107.21.112.255 dl-client656.dropbox.com
+23.21.250.223 dl-client657.dropbox.com
+50.16.229.218 dl-client658.dropbox.com
+50.16.230.57 dl-client659.dropbox.com
+50.16.230.234 dl-client660.dropbox.com
+50.16.230.237 dl-client661.dropbox.com
+50.16.231.2 dl-client662.dropbox.com
+50.16.231.91 dl-client663.dropbox.com
+184.73.253.91 dl-client664.dropbox.com
+184.73.251.60 dl-client665.dropbox.com
+50.17.199.182 dl-client666.dropbox.com
+50.17.208.131 dl-client667.dropbox.com
+50.17.210.95 dl-client668.dropbox.com
+50.17.210.166 dl-client669.dropbox.com
+50.17.213.183 dl-client670.dropbox.com
+50.17.217.94 dl-client671.dropbox.com
+50.17.217.238 dl-client672.dropbox.com
+75.101.130.204 dl-client673.dropbox.com
+75.101.130.214 dl-client674.dropbox.com
+54.235.120.101 dl-client675.dropbox.com
+204.236.235.228 dl-client676.dropbox.com
+204.236.236.37 dl-client677.dropbox.com
+23.21.212.60 dl-client678.dropbox.com
+23.21.216.235 dl-client679.dropbox.com
+23.21.216.208 dl-client680.dropbox.com
+23.21.216.246 dl-client681.dropbox.com
+23.21.227.222 dl-client682.dropbox.com
+23.21.227.236 dl-client683.dropbox.com
+23.21.245.225 dl-client684.dropbox.com
+23.23.76.100 dl-client685.dropbox.com
+107.20.173.236 dl-client686.dropbox.com
+107.20.188.186 dl-client687.dropbox.com
+107.20.249.211 dl-client688.dropbox.com
+107.21.113.16 dl-client689.dropbox.com
+107.21.126.167 dl-client690.dropbox.com
+23.21.245.226 dl-client691.dropbox.com
+23.21.245.250 dl-client692.dropbox.com
+23.21.246.7 dl-client693.dropbox.com
+184.73.255.1 dl-client694.dropbox.com
+184.73.255.73 dl-client695.dropbox.com
+50.17.230.205 dl-client696.dropbox.com
+23.21.48.107 dl-client697.dropbox.com
+75.101.130.249 dl-client698.dropbox.com
+75.101.131.90 dl-client699.dropbox.com
+75.101.131.163 dl-client700.dropbox.com
+75.101.131.201 dl-client701.dropbox.com
+75.101.131.225 dl-client702.dropbox.com
+107.22.179.162 dl-client703.dropbox.com
+107.22.182.6 dl-client704.dropbox.com
+50.17.222.1 dl-client705.dropbox.com
+50.17.209.5 dl-client706.dropbox.com
+50.17.222.103 dl-client707.dropbox.com
+50.17.222.204 dl-client708.dropbox.com
+50.17.223.168 dl-client709.dropbox.com
+107.21.113.167 dl-client710.dropbox.com
+107.21.114.194 dl-client711.dropbox.com
+23.21.48.148 dl-client712.dropbox.com
+23.21.48.149 dl-client713.dropbox.com
+23.21.48.181 dl-client714.dropbox.com
+23.21.48.201 dl-client715.dropbox.com
+107.21.116.46 dl-client716.dropbox.com
+107.21.116.49 dl-client717.dropbox.com
+107.21.116.40 dl-client718.dropbox.com
+107.21.116.50 dl-client719.dropbox.com
+107.21.116.55 dl-client720.dropbox.com
+23.23.230.123 dl-client721.dropbox.com
+23.21.48.211 dl-client722.dropbox.com
+23.21.49.252 dl-client723.dropbox.com
+107.21.122.226 dl-client724.dropbox.com
+107.21.123.124 dl-client725.dropbox.com
+107.21.125.205 dl-client726.dropbox.com
+107.21.126.2 dl-client727.dropbox.com
+107.22.190.190 dl-client728.dropbox.com
+107.22.196.76 dl-client729.dropbox.com
+50.19.216.76 dl-client730.dropbox.com
+50.19.217.115 dl-client731.dropbox.com
+50.19.218.118 dl-client732.dropbox.com
+50.16.232.114 dl-client733.dropbox.com
+50.16.233.0 dl-client734.dropbox.com
+50.16.233.66 dl-client735.dropbox.com
+50.16.233.30 dl-client736.dropbox.com
+50.16.233.167 dl-client737.dropbox.com
+23.21.66.247 dl-client738.dropbox.com
+50.17.223.173 dl-client739.dropbox.com
+50.17.224.17 dl-client740.dropbox.com
+50.17.225.67 dl-client741.dropbox.com
+50.17.226.27 dl-client742.dropbox.com
+50.17.226.173 dl-client743.dropbox.com
+107.20.163.53 dl-client744.dropbox.com
+107.22.197.31 dl-client745.dropbox.com
+107.22.224.140 dl-client746.dropbox.com
+107.22.233.117 dl-client747.dropbox.com
+107.22.233.237 dl-client748.dropbox.com
+174.129.222.190 dl-client749.dropbox.com
+174.129.18.76 dl-client750.dropbox.com
+107.22.238.106 dl-client751.dropbox.com
+107.22.252.230 dl-client752.dropbox.com
+174.129.26.151 dl-client753.dropbox.com
+107.22.253.114 dl-client754.dropbox.com
+174.129.26.115 dl-client755.dropbox.com
+174.129.225.236 dl-client756.dropbox.com
+174.129.205.142 dl-client757.dropbox.com
+174.129.16.189 dl-client758.dropbox.com
+174.129.207.48 dl-client759.dropbox.com
+174.129.15.254 dl-client760.dropbox.com
+174.129.208.130 dl-client761.dropbox.com
+174.129.9.158 dl-client762.dropbox.com
+107.22.238.151 dl-client763.dropbox.com
+174.129.221.32 dl-client764.dropbox.com
+174.129.193.119 dl-client765.dropbox.com
+54.221.244.212 dl-client766.dropbox.com
+174.129.193.117 dl-client767.dropbox.com
+174.129.201.83 dl-client768.dropbox.com
+174.129.9.109 dl-client769.dropbox.com
+174.129.221.203 dl-client770.dropbox.com
+174.129.25.52 dl-client771.dropbox.com
+107.22.238.152 dl-client772.dropbox.com
+107.22.242.42 dl-client773.dropbox.com
+107.22.238.96 dl-client774.dropbox.com
+107.22.234.83 dl-client775.dropbox.com
+107.22.242.45 dl-client776.dropbox.com
+174.129.202.98 dl-client777.dropbox.com
+107.22.240.204 dl-client778.dropbox.com
+184.73.193.246 dl-client779.dropbox.com
+23.23.135.34 dl-client780.dropbox.com
+23.21.228.175 dl-client781.dropbox.com
+23.21.202.53 dl-client782.dropbox.com
+23.21.153.95 dl-client783.dropbox.com
+23.21.239.186 dl-client784.dropbox.com
+23.21.192.94 dl-client785.dropbox.com
+23.23.106.42 dl-client786.dropbox.com
+23.21.150.221 dl-client787.dropbox.com
+23.21.72.243 dl-client788.dropbox.com
+23.21.198.107 dl-client789.dropbox.com
+23.21.82.46 dl-client790.dropbox.com
+23.21.234.127 dl-client791.dropbox.com
+23.21.94.102 dl-client792.dropbox.com
+23.23.106.135 dl-client793.dropbox.com
+23.23.107.59 dl-client794.dropbox.com
+23.21.195.196 dl-client795.dropbox.com
+23.21.244.156 dl-client796.dropbox.com
+23.23.107.43 dl-client797.dropbox.com
+23.23.107.8 dl-client798.dropbox.com
+23.21.232.236 dl-client799.dropbox.com
+23.23.107.82 dl-client800.dropbox.com
+23.21.96.47 dl-client801.dropbox.com
+23.21.138.183 dl-client802.dropbox.com
+23.21.61.240 dl-client803.dropbox.com
+23.21.165.241 dl-client804.dropbox.com
+23.21.192.16 dl-client805.dropbox.com
+23.23.107.117 dl-client806.dropbox.com
+23.23.108.238 dl-client807.dropbox.com
+23.23.107.68 dl-client808.dropbox.com
+23.21.232.25 dl-client809.dropbox.com
+23.21.85.21 dl-client810.dropbox.com
+23.23.107.90 dl-client811.dropbox.com
+23.21.167.130 dl-client812.dropbox.com
+23.23.107.175 dl-client813.dropbox.com
+23.23.107.172 dl-client814.dropbox.com
+23.21.227.147 dl-client815.dropbox.com
+23.21.82.99 dl-client816.dropbox.com
+23.21.252.5 dl-client817.dropbox.com
+23.21.100.216 dl-client818.dropbox.com
+23.21.241.26 dl-client819.dropbox.com
+23.23.107.103 dl-client820.dropbox.com
+23.21.189.34 dl-client821.dropbox.com
+23.21.190.242 dl-client822.dropbox.com
+23.21.192.13 dl-client823.dropbox.com
+23.23.107.88 dl-client824.dropbox.com
+23.21.48.59 dl-client825.dropbox.com
+23.21.221.101 dl-client826.dropbox.com
+23.23.107.186 dl-client827.dropbox.com
+174.129.20.125 dl-client828.dropbox.com
+23.23.108.50 dl-client829.dropbox.com
+23.21.245.131 dl-client830.dropbox.com
+23.21.250.140 dl-client831.dropbox.com
+23.23.109.198 dl-client832.dropbox.com
+23.21.253.204 dl-client833.dropbox.com
+23.23.108.134 dl-client834.dropbox.com
+23.21.82.226 dl-client835.dropbox.com
+23.21.97.147 dl-client836.dropbox.com
+174.129.9.236 dl-client837.dropbox.com
+23.23.108.109 dl-client838.dropbox.com
+23.23.108.122 dl-client839.dropbox.com
+23.23.108.93 dl-client840.dropbox.com
+23.23.108.82 dl-client841.dropbox.com
+23.21.71.191 dl-client842.dropbox.com
+23.21.88.7 dl-client843.dropbox.com
+23.21.97.252 dl-client844.dropbox.com
+23.23.127.204 dl-client845.dropbox.com
+23.21.169.53 dl-client846.dropbox.com
+23.23.108.166 dl-client847.dropbox.com
+23.21.233.69 dl-client848.dropbox.com
+23.23.110.137 dl-client849.dropbox.com
+23.21.54.159 dl-client850.dropbox.com
+23.21.192.25 dl-client851.dropbox.com
+23.21.241.20 dl-client852.dropbox.com
+23.21.158.148 dl-client853.dropbox.com
+23.21.191.239 dl-client854.dropbox.com
+23.21.229.124 dl-client855.dropbox.com
+174.129.196.174 dl-client856.dropbox.com
+23.21.72.6 dl-client857.dropbox.com
+23.21.218.210 dl-client858.dropbox.com
+23.21.47.206 dl-client859.dropbox.com
+23.23.108.247 dl-client860.dropbox.com
+23.21.203.16 dl-client861.dropbox.com
+23.23.109.0 dl-client862.dropbox.com
+23.21.240.93 dl-client863.dropbox.com
+23.23.108.64 dl-client864.dropbox.com
+23.21.69.194 dl-client865.dropbox.com
+23.23.108.209 dl-client866.dropbox.com
+23.21.206.155 dl-client867.dropbox.com
+23.21.152.163 dl-client868.dropbox.com
+23.21.228.69 dl-client869.dropbox.com
+23.23.111.92 dl-client870.dropbox.com
+23.21.229.243 dl-client871.dropbox.com
+23.21.66.206 dl-client872.dropbox.com
+23.21.54.174 dl-client873.dropbox.com
+23.23.109.63 dl-client874.dropbox.com
+23.21.188.238 dl-client875.dropbox.com
+23.23.109.84 dl-client876.dropbox.com
+23.21.225.132 dl-client877.dropbox.com
+23.21.207.120 dl-client878.dropbox.com
+23.21.97.150 dl-client879.dropbox.com
+23.21.169.31 dl-client880.dropbox.com
+23.23.110.196 dl-client881.dropbox.com
+23.21.168.90 dl-client882.dropbox.com
+23.21.67.181 dl-client883.dropbox.com
+23.23.110.26 dl-client884.dropbox.com
+23.21.228.116 dl-client885.dropbox.com
+23.23.110.49 dl-client886.dropbox.com
+23.21.247.252 dl-client887.dropbox.com
+23.21.188.217 dl-client888.dropbox.com
+23.21.203.64 dl-client889.dropbox.com
+23.21.238.43 dl-client890.dropbox.com
+23.23.111.7 dl-client891.dropbox.com
+23.23.110.98 dl-client892.dropbox.com
+23.23.111.16 dl-client893.dropbox.com
+23.21.150.100 dl-client894.dropbox.com
+107.21.104.151 dl-client895.dropbox.com
+54.83.35.43 dl-client896.dropbox.com
+23.21.244.202 dl-client897.dropbox.com
+23.21.50.241 dl-client898.dropbox.com
+23.21.56.87 dl-client899.dropbox.com
+23.23.110.59 dl-client900.dropbox.com
+23.21.236.80 dl-client901.dropbox.com
+23.21.208.17 dl-client902.dropbox.com
+23.21.69.213 dl-client903.dropbox.com
+23.21.172.114 dl-client904.dropbox.com
+23.21.64.137 dl-client905.dropbox.com
+23.21.160.186 dl-client906.dropbox.com
+23.23.110.185 dl-client907.dropbox.com
+23.21.153.146 dl-client908.dropbox.com
+23.21.243.175 dl-client909.dropbox.com
+23.21.82.212 dl-client910.dropbox.com
+23.21.201.224 dl-client911.dropbox.com
+23.21.188.104 dl-client912.dropbox.com
+23.21.88.154 dl-client913.dropbox.com
+23.23.111.202 dl-client914.dropbox.com
+23.23.111.171 dl-client915.dropbox.com
+23.21.189.22 dl-client916.dropbox.com
+23.21.230.87 dl-client917.dropbox.com
+23.23.111.213 dl-client918.dropbox.com
+23.21.181.70 dl-client919.dropbox.com
+184.73.217.2 dl-client920.dropbox.com
+23.21.197.227 dl-client921.dropbox.com
+23.21.243.93 dl-client922.dropbox.com
+23.21.157.107 dl-client923.dropbox.com
+23.23.111.236 dl-client924.dropbox.com
+23.23.111.185 dl-client925.dropbox.com
+23.21.44.36 dl-client926.dropbox.com
+23.23.111.244 dl-client927.dropbox.com
+23.23.112.11 dl-client928.dropbox.com
+23.21.243.156 dl-client929.dropbox.com
+23.21.54.47 dl-client930.dropbox.com
+23.23.111.245 dl-client931.dropbox.com
+23.21.198.187 dl-client932.dropbox.com
+23.21.206.222 dl-client934.dropbox.com
+23.23.112.30 dl-client935.dropbox.com
+23.23.112.51 dl-client936.dropbox.com
+23.21.87.183 dl-client937.dropbox.com
+23.21.82.57 dl-client938.dropbox.com
+23.21.225.158 dl-client939.dropbox.com
+54.235.219.214 dl-client940.dropbox.com
+23.21.193.135 dl-client941.dropbox.com
+23.21.231.0 dl-client942.dropbox.com
+23.21.201.181 dl-client943.dropbox.com
+23.21.192.92 dl-client944.dropbox.com
+54.243.175.155 dl-client945.dropbox.com
+23.21.207.48 dl-client946.dropbox.com
+50.16.184.5 dl-client947.dropbox.com
+50.16.187.40 dl-client948.dropbox.com
+23.21.210.250 dl-client949.dropbox.com
+23.21.220.136 dl-client950.dropbox.com
+23.21.243.206 dl-client951.dropbox.com
+50.16.186.33 dl-client952.dropbox.com
+23.21.170.214 dl-client953.dropbox.com
+50.16.184.177 dl-client954.dropbox.com
+23.21.239.169 dl-client955.dropbox.com
+23.21.193.24 dl-client956.dropbox.com
+184.73.209.39 dl-client957.dropbox.com
+50.16.187.233 dl-client958.dropbox.com
+50.16.187.241 dl-client959.dropbox.com
+23.21.247.209 dl-client960.dropbox.com
+23.21.203.156 dl-client961.dropbox.com
+23.21.201.218 dl-client962.dropbox.com
+23.21.232.74 dl-client963.dropbox.com
+23.21.223.218 dl-client964.dropbox.com
+50.16.185.43 dl-client965.dropbox.com
+23.21.239.158 dl-client966.dropbox.com
+23.21.188.84 dl-client967.dropbox.com
+50.16.191.2 dl-client968.dropbox.com
+50.16.190.117 dl-client969.dropbox.com
+23.21.162.243 dl-client970.dropbox.com
+23.21.54.166 dl-client971.dropbox.com
+50.16.188.64 dl-client972.dropbox.com
+23.23.127.57 dl-client973.dropbox.com
+50.16.187.229 dl-client974.dropbox.com
+50.16.186.25 dl-client975.dropbox.com
+23.21.194.4 dl-client976.dropbox.com
+23.21.91.121 dl-client977.dropbox.com
+23.21.218.103 dl-client978.dropbox.com
+23.21.42.165 dl-client979.dropbox.com
+23.21.177.190 dl-client980.dropbox.com
+54.221.232.23 dl-client981.dropbox.com
+54.221.232.44 dl-client982.dropbox.com
+54.221.230.215 dl-client983.dropbox.com
+54.221.232.24 dl-client984.dropbox.com
+54.221.232.59 dl-client985.dropbox.com
+54.221.232.38 dl-client986.dropbox.com
+54.221.232.7 dl-client987.dropbox.com
+54.221.232.28 dl-client988.dropbox.com
+54.221.232.19 dl-client989.dropbox.com
+54.221.232.0 dl-client990.dropbox.com
+54.221.232.65 dl-client991.dropbox.com
+54.221.232.15 dl-client992.dropbox.com
+54.221.232.9 dl-client993.dropbox.com
+54.221.232.3 dl-client994.dropbox.com
+54.221.231.238 dl-client995.dropbox.com
+54.221.231.242 dl-client996.dropbox.com
+54.221.232.40 dl-client997.dropbox.com
+54.221.232.10 dl-client998.dropbox.com
+54.221.232.56 dl-client999.dropbox.com
+
+
+#https://github.com/catbb49294929/samecho_hosts
+#Hosts更新QQ群:162157583|资源分享
+
+
+#DuckDuckGo
+46.51.216.186 duckduckgo.com
+46.51.216.186 www.duckduckgo.com
+46.51.197.89 ac.duckduckgo.com
+54.251.178.52 icons.duckduckgo.com
+54.251.178.52 images.duckduckgo.com
+46.51.216.186 help.duckduckgo.com
+96.227.124.36 flash.duckduckgo.com
+
+
+#https://github.com/catbb49294929/samecho_hosts
+#Hosts更新QQ群:162157583|资源分享
+
+
+# Facebook 脸谱网
+179.60.192.3 edge-mqtt.facebook.com
+23.53.74.237 s-static.ak.facebook.com
+23.50.88.41 contextual.media.net
+179.60.192.3 zh-cn.facebook.com
+179.60.192.3 orcart.facebook.com
+179.60.192.3 graph.facebook.com
+179.60.192.3 mqtt.facebook.com
+179.60.192.3 b-graph.facebook.com
+179.60.192.3 facebook.com
+179.60.192.3 connect.facebook.com
+179.60.192.3 api-read.facebook.com
+179.60.192.3 m.facebook.com
+179.60.192.3 b-api.facebook.com
+179.60.192.3 edge-chat.facebook.com
+179.60.192.3 0-edge-chat.facebook.com
+179.60.192.3 1-edge-chat.facebook.com
+179.60.192.3 3-edge-chat.facebook.com
+179.60.192.3 4-edge-chat.facebook.com
+179.60.192.3 5-edge-chat.facebook.com
+179.60.192.3 6-edge-chat.facebook.com
+179.60.192.3 2-edge-chat.facebook.com
+179.60.192.3 external.xx.fbcdn.net
+179.60.192.3 scontent.xx.fbcdn.net
+179.60.192.3 scontent-b-sin.xx.fbcdn.net
+179.60.192.3 scontent-b.xx.fbcdn.net
+179.60.192.3 scontent-a.xx.fbcdn.net
+179.60.192.3 scontent-a-sin.xx.fbcdn.net
+179.60.192.3 api.facebook.com
+179.60.192.3 developers.facebook.com
+179.60.192.3 www.facebook.com
+179.60.192.3 pixel.facebook.com
+147.8.239.45 fbcdn-sphotos-a-a.akamaihd.net
+147.8.239.45 fbcdn-sphotos-h-a.akamaihd.net
+147.8.239.45 fbcdn-creative-a.akamaihd.net
+147.8.239.45 fbcdn-photos-f-a.akamaihd.net
+147.8.239.45 fbcdn-sphotos-e-a.akamaihd.net
+147.8.239.45 fbcdn-photos-h-a.akamaihd.net
+147.8.239.45 fbcdn-photos-e-a.akamaihd.net
+147.8.239.45 fbcdn-profile-a.akamaihd.net
+147.8.239.45 fbcdn-sphotos-b-a.akamaihd.net
+147.8.239.45 fbcdn-sphotos-c-a.akamaihd.net
+147.8.239.45 fbcdn-sphotos-d-a.akamaihd.net
+147.8.239.45 fbcdn-sphotos-g-a.akamaihd.net
+147.8.239.45 fbcdn-sphotos-f-a.akamaihd.net
+147.8.239.45 fbcdn-video-f-a.akamaihd.net
+147.8.239.45 fbcdn-video-h-a.akamaihd.net
+147.8.239.45 fbcdn-video-a-a.akamaihd.net
+147.8.239.45 fbcdn-video-b-a.akamaihd.net
+147.8.239.45 fbcdn-video-c-a.akamaihd.net
+147.8.239.45 fbcdn-video-d-a.akamaihd.net
+147.8.239.45 fbcdn-video-e-a.akamaihd.net
+147.8.239.45 fbcdn-video-g-a.akamaihd.net
+147.8.239.45 fbcdn-video-j-a.akamaihd.net
+147.8.239.45 fbcdn-video-k-a.akamaihd.net
+147.8.239.45 fbcdn-video-m-a.akamaihd.net
+147.8.239.45 fbcdn-video-n-a.akamaihd.net
+147.8.239.45 fbcdn-video-o-a.akamaihd.net
+147.8.239.45 fbcdn-video-p-a.akamaihd.net
+147.8.239.45 fbcdn-video-l-a.akamaihd.net
+147.8.239.45 fbcdn-video-i-a.akamaihd.net
+147.8.239.45 fbcdn-vthumb-a.akamaihd.net
+147.8.239.45 fbexternal-a.akamaihd.net
+147.8.239.45 fbstatic-a.akamaihd.net
+95.101.24.165 connect.facebook.net #e3821.dspe1.akamaiedge.net
+
+
+#https://github.com/catbb49294929/samecho_hosts
+#Hosts更新QQ群:162157583|资源分享
+
+
+#Feedly 
+162.159.252.5 www.feedly.com
+162.159.252.5 feedly.com
+173.194.194.121 s3.feedly.com
+
+
+#https://github.com/catbb49294929/samecho_hosts
+#Hosts更新QQ群:162157583|资源分享
+
+
+#Flickr
+67.195.51.192		c1.staticflickr.com
+67.195.51.192		c2.staticflickr.com
+67.195.51.192		c3.staticflickr.com
+67.195.51.192		c4.staticflickr.com
+67.195.51.192		c.staticflickr.com
+23.218.140.209		yui-s.yahooapis.com
+69.147.76.173		flickr.com
+124.108.101.10		www.flickr.com
+216.115.100.102		s.yimg.com
+208.71.44.31		m.flickr.com
+106.10.137.23		farm1.staticflickr.com
+98.139.18.218		bf1.farm1.staticflickr.com
+68.142.214.43		mud.farm1.staticflickr.com
+77.238.160.184		ch1.farm1.staticflickr.com
+106.10.137.23		sg3.farm1.staticflickr.com
+106.10.137.23		farm2.staticflickr.com
+98.139.18.219		bf1.farm2.staticflickr.com
+69.147.90.159		sp1.farm2.staticflickr.com
+77.238.160.184		ch1.farm2.staticflickr.com
+106.10.137.23		sg3.farm2.staticflickr.com
+106.10.137.23		farm3.staticflickr.com
+76.13.18.78		ac4.farm3.staticflickr.com
+69.147.90.215		sp1.farm3.staticflickr.com
+77.238.160.184		ch1.farm3.staticflickr.com
+106.10.137.123		sg3.farm3.staticflickr.com
+106.10.137.23		farm4.staticflickr.com
+76.13.18.77		ac4.farm4.staticflickr.com
+67.195.19.66		gq1.farm4.staticflickr.com
+77.238.169.184		ch1.farm4.staticflickr.com
+106.10.137.23		sg3.farm4.staticflickr.com
+106.10.137.23		farm5.staticflickr.com
+76.13.18.79		ac4.farm5.staticflickr.com
+67.195.19.74		gq1.farm5.staticflickr.com
+77.238.160.184		ch1.farm5.staticflickr.com
+106.10.137.23		sg3.farm5.staticflickr.com
+106.10.137.23		farm6.staticflickr.com
+98.139.197.254		bf1.farm6.staticflickr.com
+98.136.170.121		gq1.farm6.staticflickr.com
+77.238.160.184		ch1.farm6.staticflickr.com
+106.10.137.23		sg3.farm6.staticflickr.com
+106.10.137.23		farm7.staticflickr.com
+98.139.102.46		bf1.farm7.staticflickr.com
+98.138.8.116		ne1.farm7.staticflickr.com
+77.238.160.184		ch1.farm7.staticflickr.com
+106.10.137.23		sg3.farm7.staticflickr.com
+106.10.137.23		farm8.staticflickr.com
+98.137.200.139		bf1.farm8.staticflickr.com
+98.136.240.40		gq1.farm8.staticflickr.com
+77.238.160.184		ch1.farm8.staticflickr.com
+106.10.137.23		sg3.farm8.staticflickr.com
+106.10.137.23		farm9.staticflickr.com
+98.137.205.126		bf1.farm9.staticflickr.com
+98.136.248.103		gq1.farm9.staticflickr.com
+77.238.160.184		ch1.farm9.staticflickr.com
+106.10.137.23		sg3.farm9.staticflickr.com
+106.10.137.23		static.flickr.com
+119.161.24.27		www.flickr.com
+121.101.144.112		api.flickr.com
+119.161.24.27		up.flickr.com
+203.84.208.52		l.yimg.com
+208.71.44.31		secure.flickr.com
+
+
+#https://github.com/catbb49294929/samecho_hosts
+#Hosts更新QQ群:162157583|资源分享
+
+
+#FlipBoard 
+23.23.72.70 fbprod.flipboard.com
+54.230.150.180 cdn.flipboard.com
+54.225.133.17 beacon.flipboard.com
+
+
+#https://github.com/catbb49294929/samecho_hosts
+#Hosts更新QQ群:162157583|资源分享
+
+
+# Google.com
+216.58.221.51 connectivitycheck.android.com
+216.58.221.51 myaccount.google.com
+216.58.221.51 checkout.google.com
+203.208.49.190 ssl.google-analytics.com
+216.58.221.51 accounts.gstatic.com
+64.233.189.211 proxy.googlezip.net
+64.233.189.211 compress.googlezip.net
+64.233.189.211 check.googlezip.net
+64.233.189.211 proxy-dev.googlezip.net
+2001:4860:4860::8888 google-public-dns-a.google.com
+2001:4860:4860::8844 google-public-dns-b.google.com
+216.58.221.51 google.com
+216.58.221.51 www.google.com
+216.58.221.51 admin.google.com
+216.58.221.51 accounts.google.com #accounts.l.google.com
+216.58.221.51 bpui0.google.com #www3.l.google.com
+216.58.221.51 clients1.google.com #clients.l.google.com
+216.58.221.51 clients2.google.com #clients.l.google.com
+216.58.221.51 clients3.google.com #clients.l.google.com
+216.58.221.51 clients4.google.com #clients.l.google.com
+216.58.221.51 clients5.google.com #clients.l.google.com
+216.58.221.51 clients6.google.com #clients.l.google.com
+216.58.221.51 encrypted.google.com #www3.l.google.com
+216.58.221.51 encrypted-tbn0.google.com #encrypted-tbn.l.google.com
+216.58.221.51 encrypted-tbn1.google.com #encrypted-tbn.l.google.com
+216.58.221.51 encrypted-tbn2.google.com #encrypted-tbn.l.google.com
+216.58.221.51 encrypted-tbn3.google.com #encrypted-tbn.l.google.com
+216.58.221.51 goto.google.com #www3.l.google.com
+216.58.221.51 gxc.google.com #www3.l.google.com
+216.58.221.51 history.google.com #history.l.google.com
+216.58.221.51 investor.google.com #www3.l.google.com
+2607:f8b0:4007:804::1005 ipv6.google.com #ipv6.l.google.com
+216.58.221.51 jmt0.google.com #www3.l.google.com
+216.58.221.51 linkhelp.clients.google.com #clients.l.google.com
+216.58.221.51 upload.clients.google.com #clients.l.google.com
+216.58.221.51 m.google.com #mobile.l.google.com
+216.58.221.51 mobile.google.com #mobile.l.google.com
+216.58.221.51 pki.google.com #www3.l.google.com
+216.58.221.51 services.google.com #www3.l.google.com
+216.58.221.51 suggestqueries.google.com #suggestqueries.l.google.com
+216.58.221.51 support.google.com #www3.l.google.com
+216.58.221.51 upload.google.com #large-uploads.l.google.com
+216.58.221.51 client-channel.google.com
+216.58.221.51 *.client-channel.google.com
+216.58.221.51 0.client-channel.google.com
+216.58.221.51 1.client-channel.google.com
+216.58.221.51 2.client-channel.google.com
+#216.58.221.51 googletagmanager.com
+#203.208.48.158 www.googletagmanager.com
+# 谷歌香港
+216.58.221.51 google.com.hk
+216.58.221.51 www.google.com.hk
+216.58.221.51 accounts.google.com.hk #accounts-cctld.l.google.com
+216.58.221.51 clients1.google.com.hk #clients-cctld.l.google.com
+#2404:6800:4008:c00::63 desktop.google.com.hk #desktop.l.google.com
+216.58.221.51 m.google.com.hk #mobile.l.google.com
+216.58.221.51 gxc.google.com.hk #www3.l.google.com
+216.58.221.51 id.google.com.hk #id.l.google.com
+2607:f8b0:4007:804::1005 ipv6.google.com.hk #ipv6.l.google.com
+216.58.221.51 mobile.google.com.hk #www.google.com
+216.58.221.51 picasaweb.google.com.hk #picasaweb.l.google.com
+www.googlechinawebmaster.com www.googlechinawebmaster.com
+# 谷歌中国
+216.58.221.51 g.cn
+216.58.221.51 google.cn
+216.58.221.51 www.google.cn
+2607:f8b0:4007:804::1005 ipv6.google.cn #ipv6.l.google.com
+216.58.221.51 m.google.cn #www.google.cn
+216.58.221.51 news.google.cn #www.google.cn
+216.58.221.51 video.google.cn #www.google.cn
+216.58.221.51 music.googleusercontent.cn #music-china.l.google.com
+216.58.221.51 www.265.com #265.com
+216.58.221.51 265.com
+# Google 台湾
+216.58.221.51 www.google.com.tw
+216.58.221.51 clients1.google.com.tw #clients-cctld.l.google.com
+216.58.221.51 picasaweb.google.com.tw #picasaweb.l.google.com
+# Google 日本
+216.58.221.51 www.google.co.jp
+2607:f8b0:4007:804::1005 ipv6.google.co.jp #ipv6.l.google.com
+# 其他
+64.233.184.141 402.appspot.com
+216.58.221.51 accounts.google.co.jp
+216.58.221.51 www.google.ae
+216.58.221.51 www.google.com.ar
+216.58.221.51 www.google.at
+216.58.221.51 www.google.com.au
+216.58.221.51 www.google.be
+216.58.221.51 www.google.com.br
+216.58.221.51 www.google.ca
+216.58.221.51 www.google.ch
+216.58.221.51 www.google.fi
+216.58.221.51 www.google.fr
+216.58.221.51 www.google.de
+216.58.221.51 www.google.com.gr
+216.58.221.51 www.google.co.il
+216.58.221.51 www.google.co.in
+216.58.221.51 www.google.it
+216.58.221.51 www.google.co.kr
+216.58.221.51 www.google.lt
+216.58.221.51 www.google.lv
+216.58.221.51 www.google.com.ly
+216.58.221.51 www.google.com.my
+216.58.221.51 www.google.nl
+216.58.221.51 www.google.co.nz
+216.58.221.51 www.google.com.pe
+216.58.221.51 www.google.com.ph
+216.58.221.51 www.google.com.pk
+216.58.221.51 www.google.pl
+216.58.221.51 www.google.pt
+216.58.221.51 www.google.ro
+216.58.221.51 www.google.com.ru
+216.58.221.51 www.google.com.sg
+216.58.221.51 www.google.com.tr
+216.58.221.51 www.google.com.ua
+216.58.221.51 www.google.co.uk
+216.58.221.51 www.google.co.ve
+216.58.221.51 www.google.com.vn
+216.58.221.51 www.google.co.za
+# Google Apps 企业应用套件
+216.58.221.51 apps.google.com #www3.l.google.com
+216.58.221.51 ghs.google.com #ghs.l.google.com
+216.58.221.51 ghs46.google.com #ghs46.l.google.com
+# Mashups/App Engine GAE
+216.58.221.51 googlemashups.com
+216.58.221.51 www.googlemashups.com #www2.l.google.com
+216.58.221.51 *.googlemashups.com #www2.l.google.com
+216.58.221.51 appengine.google.com #www3.l.google.com
+64.233.184.141 appspot.com
+64.233.184.141 *.appspot.com #appspot.l.google.com
+64.233.184.141 www.appspot.com
+64.233.184.141 betaspike.appspot.com
+64.233.184.141 chrometophone.appspot.com
+64.233.184.141 codereview.appspot.com
+64.233.184.141 evolutionofweb.appspot.com
+64.233.184.141 feedly-beta.appspot.com
+64.233.184.141 googcloudlabs.appspot.com
+64.233.184.141 googlesharedspaces.appspot.com
+64.233.184.141 gv-gadget.appspot.com
+64.233.184.141 haiticrisis.appspot.com
+64.233.184.141 i18napis.appspot.com
+64.233.184.141 moderator.appspot.com
+64.233.184.141 newsfeed-dot-latest-dot-rovio-ad-engine.appspot.com
+64.233.184.141 productideas.appspot.com
+64.233.184.141 project-slingshot-gp.appspot.com
+64.233.184.141 r3269-dot-latest-dot-project-slingshot-gp.appspot.com
+64.233.184.141 storegadgetwizard.appspot.com
+64.233.184.141 welcome-cros.appspot.com
+64.233.184.141 yt-debates.appspot.com
+# Answers/Guru/WenDa 问答社区（国际版已停止运营）
+216.58.221.51 answers.google.com #www3.l.google.com
+#2404:6800:4008:c00::62 guru.google.com
+216.58.221.51 guru.google.co.th #www2.l.google.com
+216.58.221.51 wenda.google.com.hk #www3.l.google.com
+# Blog 博客搜索
+216.58.221.51 blogsearch.google.com #www2.l.google.com
+216.58.221.51 blogsearch.google.com.hk #www2.l.google.com
+216.58.221.51 blogsearch.google.com.tw #www2.l.google.com
+216.58.221.51 blogsearch.google.cn #www.google.cn
+# Blogger 博客服务
+64.233.160.191 www.blogger.com #blogger.l.google.com
+64.233.160.191 blogger.com
+64.233.160.191 blogger.google.com #blogger.l.google.com
+64.233.160.191 www2.blogger.com #blogger.l.google.com
+64.233.160.191 www.blogblog.com #blogger.l.google.com
+64.233.160.191 www1.blogblog.com #blogger.l.google.com
+64.233.160.191 www2.blogblog.com #blogger.l.google.com
+64.233.160.191 beta.blogger.com #blogger.l.google.com
+64.233.160.191 buttons.blogger.com #blogger.l.google.com
+64.233.160.191 buzz.blogger.com #blogger.l.google.com
+64.233.160.191 draft.blogger.com #blogger.l.google.com
+64.233.160.191 status.blogger.com #blogger.l.google.com
+64.233.160.191 help.blogger.com #www2.l.google.com
+64.233.160.191 photos1.blogger.com #photos1.l.google.com
+64.233.160.191 bp0.blogger.com #bloggerphotos.l.google.com
+64.233.160.191 bp1.blogger.com #bloggerphotos.l.google.com
+64.233.160.191 bp2.blogger.com #bloggerphotos.l.google.com
+64.233.160.191 bp3.blogger.com #bloggerphotos.l.google.com
+216.58.221.33 img.blogblog.com #blogspot.l.googleusercontent.com
+216.58.221.33 img1.blogblog.com #blogger.l.google.com
+216.58.221.33 img2.blogblog.com #blogger.l.google.com
+64.233.189.121 www.textcube.com #ghs.l.google.com
+# Blogspot 博客服务
+64.233.160.191 www.blogspot.com #blogger.l.google.com
+64.233.160.191 blogspot.com
+216.58.221.33 blogsofnote.blogspot.com #blogspot.l.googleusercontent.com
+216.58.221.33 knownissues.blogspot.com #blogspot.l.googleusercontent.com
+216.58.221.33 1.bp.blogspot.com #photos-ugc.l.googleusercontent.com
+216.58.221.33 2.bp.blogspot.com #photos-ugc.l.googleusercontent.com
+216.58.221.33 3.bp.blogspot.com #photos-ugc.l.googleusercontent.com
+216.58.221.33 4.bp.blogspot.com #photos-ugc.l.googleusercontent.com
+216.58.221.33 bloggertemplatespreview.blogspot.com #blogspot.l.googleusercontent.com
+# Google 官方博客群
+216.58.221.33 *.blogspot.com #blogspot.l.googleusercontent.com
+216.58.221.33 adwordsapi.blogspot.com
+216.58.221.33 adsense-zhs.blogspot.com
+216.58.221.33 android-developers.blogspot.com
+216.58.221.33 apacdeveloper.blogspot.com
+216.58.221.33 booksearch.blogspot.com
+216.58.221.33 chrome.blogspot.com
+216.58.221.33 doubleclickpublishersapi.blogspot.com
+216.58.221.33 emeadev.blogspot.com
+216.58.221.33 gearsblog.blogspot.com
+216.58.221.33 google-code-featured.blogspot.com
+216.58.221.33 google-entertainment-it.blogspot.com
+216.58.221.33 google-opensource.blogspot.com
+216.58.221.33 googleajaxsearchapi.blogspot.com
+216.58.221.33 googleappengine.blogspot.com
+216.58.221.33 googleappsdeveloper.blogspot.com
+216.58.221.33 googleblog.blogspot.com
+216.58.221.33 googlecheckout.blogspot.com
+216.58.221.33 googlecheckoutapi.blogspot.com
+216.58.221.33 googlechinablog.blogspot.com
+216.58.221.33 googlechromereleases.blogspot.com
+216.58.221.33 googlecode.blogspot.com
+216.58.221.33 googlecustomsearch.blogspot.com
+216.58.221.33 googleenterprise.blogspot.com
+216.58.221.33 googlegeodevelopers.blogspot.com
+216.58.221.33 googlemashupeditor.blogspot.com
+216.58.221.33 googlemobile.blogspot.com
+216.58.221.33 googleplusplatform.blogspot.com
+216.58.221.33 googleresearch.blogspot.com
+216.58.221.33 googletalk.blogspot.com
+216.58.221.33 googlewebmaster-cn.blogspot.com
+216.58.221.33 googlewebmastercentral.blogspot.com
+216.58.221.33 googlewebtoolkit.blogspot.com
+216.58.221.33 golangblog.blogspot.com
+216.58.221.33 gmailblog.blogspot.com
+216.58.221.33 igoogledeveloper.blogspot.com
+216.58.221.33 webmproject.blogspot.com
+216.58.221.33 youtube-global.blogspot.com
+# Books 图书
+216.58.221.51 books.google.cn #www.google.cn
+216.58.221.51 books.google.com #www3.l.google.com
+216.58.221.51 books.google.com.hk #www3.l.google.com
+216.58.221.51 bks0.books.google.com #www3.l.google.com
+216.58.221.51 bks1.books.google.com
+216.58.221.51 bks2.books.google.com
+216.58.221.51 bks3.books.google.com
+216.58.221.51 bks4.books.google.com
+216.58.221.51 bks5.books.google.com
+216.58.221.51 bks6.books.google.com
+216.58.221.51 bks7.books.google.com
+216.58.221.51 bks8.books.google.com
+216.58.221.51 bks9.books.google.com
+216.58.221.51 bks10.books.google.com
+216.58.221.51 bks0.books.google.com.hk
+216.58.221.51 bks1.books.google.com.hk
+216.58.221.51 bks2.books.google.com.hk
+216.58.221.51 bks3.books.google.com.hk
+216.58.221.51 bks4.books.google.com.hk
+216.58.221.51 bks5.books.google.com.hk
+216.58.221.51 bks6.books.google.com.hk
+216.58.221.51 bks7.books.google.com.hk
+216.58.221.51 bks8.books.google.com.hk
+216.58.221.51 bks9.books.google.com.hk
+216.58.221.51 bks10.books.google.com.hk
+216.58.221.51 buzz.google.com #www3.l.google.com
+# Calendar 日历
+216.58.221.51 calendar.google.com #www3.l.google.com
+# Checkout 买家
+#2404:6800:4008:c00::73 checkout.google.com #checkout.l.google.com
+216.58.221.51 wallet.google.com
+# Chrome 谷歌浏览器
+216.58.221.51 www.chrome.com
+216.58.221.51 chrome.google.com #www3.l.google.com
+#2404:6800:4008:c00::66 browsersync.google.com #browsersync.l.google.com
+216.58.221.51 toolbarqueries.google.com #toolbarqueries.l.google.com
+216.58.221.51 toolbarqueries.google.com.hk #toolbarqueries.l.google.com
+216.58.221.51 toolbarqueries.clients.google.com #clients.l.google.com
+# Chromium Chromium 项目
+216.58.221.51 chromium.org
+#64.233.189.121 www.chromium.org #ghs.l.google.com
+#64.233.189.121 dev.chromium.org #ghs.l.google.com
+#64.233.189.121 blog.chromium.org #ghs.l.google.com
+#2404:6800:4008:c00::62 build.chromium.org #planet.chromium.org
+#2404:6800:4008:c00::79 codereview.chromium.org #ghs.l.google.com
+# Chromium OS Chromium 操作系统
+64.233.160.121 goto.ext.google.com #ghs.l.google.com
+# Code 代码
+216.58.221.51 code.google.com #code.l.google.com
+64.233.186.82 *.googlecode.com #googlecode.l.googleusercontent.com
+64.233.186.82 chromium.googlecode.com #googlecode.l.googleusercontent.com
+64.233.186.82 closure-library.googlecode.com #googlecode.l.googleusercontent.com
+64.233.186.82 earth-api-samples.googlecode.com #googlecode.l.googleusercontent.com
+64.233.186.82 gmaps-samples-flash.googlecode.com #googlecode.l.googleusercontent.com
+64.233.186.82 googleappengine.googlecode.com #googlecode.l.googleusercontent.com
+64.233.186.82 google-code-feed-gadget.googlecode.com #googlecode.l.googleusercontent.com
+64.233.186.82 www.googlesource.com #googlecode.l.googleusercontent.com
+64.233.186.82 android.googlesource.com #googlecode.l.googleusercontent.com
+# Desktop 桌面
+#2404:6800:4008:c00::68 desktop.google.com #desktop.l.google.com
+# Directory 网页目录
+216.58.221.51 directory.google.com #www3.l.google.com
+216.58.221.51 dir.google.com #www3.l.google.com
+# Docs 文档
+216.58.221.33 googledrive.com
+216.58.221.51 docs.google.com
+216.58.221.51 drive.google.com
+216.58.221.51 docs0.google.com #www3.l.google.com
+216.58.221.51 docs1.google.com #www3.l.google.com
+216.58.221.51 docs2.google.com #www3.l.google.com
+216.58.221.51 docs3.google.com #www3.l.google.com
+216.58.221.51 docs4.google.com #www3.l.google.com
+216.58.221.51 docs5.google.com #www3.l.google.com
+216.58.221.51 docs6.google.com #www3.l.google.com
+216.58.221.51 docs7.google.com #www3.l.google.com
+216.58.221.51 docs8.google.com #www3.l.google.com
+216.58.221.51 docs9.google.com #www3.l.google.com
+216.58.221.51 writely.google.com #www3.l.google.com
+64.233.189.122 upload.docs.google.com #large-uploads.l.google.com
+64.233.189.122 upload.drive.google.com #large-uploads.l.google.com
+216.58.221.199 *.docs.google.com #browserchannel-docs.l.google.com
+216.58.221.199 *.drive.google.com #browserchannel-docs.l.google.com
+216.58.221.199 0.docs.google.com
+216.58.221.199 1.docs.google.com
+216.58.221.199 2.docs.google.com
+216.58.221.199 3.docs.google.com
+216.58.221.199 4.docs.google.com
+216.58.221.199 5.docs.google.com
+216.58.221.199 6.docs.google.com
+216.58.221.199 7.docs.google.com
+216.58.221.199 8.docs.google.com
+216.58.221.199 9.docs.google.com
+216.58.221.199 10.docs.google.com
+216.58.221.199 11.docs.google.com
+216.58.221.199 12.docs.google.com
+216.58.221.199 13.docs.google.com
+216.58.221.199 14.docs.google.com
+216.58.221.199 15.docs.google.com
+216.58.221.199 16.docs.google.com
+216.58.221.199 0.drive.google.com
+216.58.221.199 1.drive.google.com
+216.58.221.199 2.drive.google.com
+216.58.221.199 3.drive.google.com
+216.58.221.199 4.drive.google.com
+216.58.221.199 5.drive.google.com
+216.58.221.199 6.drive.google.com
+216.58.221.199 7.drive.google.com
+216.58.221.199 8.drive.google.com
+216.58.221.199 9.drive.google.com
+216.58.221.199 10.drive.google.com
+216.58.221.199 11.drive.google.com
+216.58.221.199 12.drive.google.com
+216.58.221.199 13.drive.google.com
+216.58.221.199 14.drive.google.com
+216.58.221.199 15.drive.google.com
+216.58.221.199 16.drive.google.com
+216.58.221.51 spreadsheet.google.com #spreadsheets.l.google.com
+216.58.221.51 spreadsheets.google.com #spreadsheets.l.google.com
+216.58.221.51 spreadsheets0.google.com #www3.l.google.com
+216.58.221.51 spreadsheets1.google.com #www3.l.google.com
+216.58.221.51 spreadsheets2.google.com #www3.l.google.com
+216.58.221.51 spreadsheets3.google.com #www3.l.google.com
+216.58.221.51 spreadsheets4.google.com #www3.l.google.com
+216.58.221.51 spreadsheets5.google.com #www3.l.google.com
+216.58.221.51 spreadsheets6.google.com #www3.l.google.com
+216.58.221.51 spreadsheets7.google.com #www3.l.google.com
+216.58.221.51 spreadsheets8.google.com #www3.l.google.com
+216.58.221.51 spreadsheets9.google.com #www3.l.google.com
+# Domains 域名
+216.58.221.51 domains.google.com
+# Download 下载
+216.58.221.51 dl.google.com #dl.l.google.com
+216.58.221.51 dl-ssl.google.com #dl-ssl.l.google.com
+# Google Earth 地球
+216.58.221.51 earth.google.com #www3.l.google.com
+216.58.221.51 auth.keyhole.com #www3.l.google.com
+216.58.221.51 geoauth.google.com #www3.l.google.com
+# Finance 财经
+216.58.221.51 finance.google.com #www3.l.google.com
+# Fusion RSS 聚合指南
+216.58.221.51 fusion.google.com #www2.l.google.com
+# Gmail 邮箱
+216.58.221.51 mail.google.com #googlemail.l.google.com
+216.58.221.199 chatenabled.mail.google.com #b.googlemail.l.google.com
+216.58.221.199 filetransferenabled.mail.google.com #b.googlemail.l.google.com
+#2404:6800:4008:c00::62 talk.gmail.com #Gmail中Gtalk聊天服务
+216.58.221.51 gmail.google.com #www3.l.google.com
+216.58.221.165 www.gmail.com #googlemail.l.google.com
+216.58.221.165 gmail.com
+216.58.221.165 m.gmail.com #googlemail.l.google.com
+216.58.221.165 m.googlemail.com #googlemail.l.google.com
+64.233.189.108 pop.gmail.com #gmail-pop.l.google.com
+64.233.189.108 pop.googlemail.com #googlemail-pop.l.google.com
+64.233.189.108 smtp.gmail.com #gmail-smtp-msa.l.google.com
+#2404:6800:4008:c00::62 smtp1.google.com
+#2404:6800:4008:c00::62 smtp2.google.com
+#2404:6800:4008:c00::62 smtp3.google.com
+#2404:6800:4008:c00::62 smtp-out.google.com
+#2404:6800:4008:c00::62 smtp-out3.google.com
+64.233.189.108 smtp.googlemail.com #googlemail-smtp.l.google.com
+64.233.189.108 imap.gmail.com #gmail-imap.l.google.com
+64.233.189.108 imap.googlemail.com #googlemail-imap.l.google.com
+# Group 论坛
+#2401:3800:c001::68 groups.google.cn
+216.58.221.51 groups.google.com #groups.l.google.com
+216.58.221.51 groups.google.com.hk #groups.l.google.com
+216.58.221.51 groups-beta.google.com #groups.l.google.com
+216.58.221.51 productforums.google.com #groups.l.google.com
+216.58.221.51 *.googlegroups.com #googlegroups.l.googleusercontent.com
+216.58.221.51 blob-s-docs.googlegroups.com #googlegroups.l.googleusercontent.com
+# Health 健康
+216.58.221.51 health.google.com #www3.l.google.com
+# Images 图片
+216.58.221.51 images.google.com #images.l.google.com
+216.58.221.51 images.google.com.hk #images.l.google.com
+216.58.221.51 tbn0.google.com #tbn.l.google.com
+216.58.221.51 tbn1.google.com #tbn.l.google.com
+216.58.221.51 tbn2.google.com #tbn.l.google.com
+216.58.221.51 tbn3.google.com #tbn.l.google.com
+#2404:6800:4008:c00::62 tbn4.google.com
+#2404:6800:4008:c00::62 tbn5.google.com
+#2404:6800:4008:c00::62 tbn6.google.com
+# Inbox
+216.58.221.51 inbox.google.com
+# Input Tools 输入法
+216.58.221.51 inputtools.google.com #www4.l.google.com
+# Knol 在线百科全书
+216.58.221.51 knol.google.com #www3.l.google.com
+# Labs 实验室
+216.58.221.51 labs.google.cn #www3.l.google.com
+216.58.221.51 labs.google.com #www3.l.google.com
+64.233.184.141 www.googlelabs.com
+64.233.184.141 browsersize.googlelabs.com
+64.233.184.141 bodybrowser.googlelabs.com
+64.233.184.141 citytours.googlelabs.com
+64.233.184.141 correlate.googlelabs.com
+64.233.184.141 datawiki.googlelabs.com
+64.233.184.141 earthengine.googlelabs.com
+64.233.184.141 fastflip.googlelabs.com
+64.233.184.141 followfinder.googlelabs.com
+64.233.184.141 guru.googlelabs.com
+64.233.184.141 image-swirl.googlelabs.com
+64.233.184.141 juliamap.googlelabs.com
+64.233.184.141 listen.googlelabs.com
+64.233.184.141 livingstories.googlelabs.com
+64.233.184.141 newstimeline.googlelabs.com
+64.233.184.141 ngrams.googlelabs.com
+64.233.184.141 pagespeed.googlelabs.com
+64.233.184.141 relatedlinks.googlelabs.com
+64.233.184.141 scribe.googlelabs.com
+64.233.184.141 scriptconv.googlelabs.com
+64.233.184.141 similar-images.googlelabs.com
+64.233.184.141 storegadget.googlelabs.com
+64.233.184.141 swiffy.googlelabs.com
+64.233.184.141 tables.googlelabs.com
+# Google Mars 火星地图
+216.58.221.51 mars.google.com #www3.l.google.com
+# Maps 地图
+216.58.221.51 maps.google.com
+216.58.221.51 maps.google.com.hk #maps-cctld.l.google.com
+216.58.221.51 maps.google.com.tw #maps-cctld.l.google.com
+216.58.221.51 local.google.com #maps.l.google.com
+216.58.221.51 ditu.google.com #maps.l.google.com
+216.58.221.51 maps-api-ssl.google.com #clients.l.google.com
+216.58.221.51 map.google.com #maps.google.com
+216.58.221.51 kh.google.com #keyhole.l.google.com
+216.58.221.51 khmdb.google.com #khmdb.l.google.com
+216.58.221.51 khm.google.com #khm.l.google.com
+216.58.221.51 khm0.google.com #khm.l.google.com
+216.58.221.51 khm1.google.com #khm.l.google.com
+216.58.221.51 khm2.google.com #khm.l.google.com
+216.58.221.51 khm3.google.com #khm.l.google.com
+#2404:6800:4008:c00::64 cbk0.google.com #cbk.l.google.com
+216.58.221.51 cbk1.google.com #cbk.l.google.com
+216.58.221.51 cbk2.google.com #cbk.l.google.com
+216.58.221.51 cbk3.google.com #cbk.l.google.com
+216.58.221.51 khms.google.com #khms.l.google.com
+216.58.221.51 khms0.google.com #khms.l.google.com
+216.58.221.51 khms1.google.com #khms.l.google.com
+216.58.221.51 khms2.google.com #khms.l.google.com
+216.58.221.51 khms3.google.com #khms.l.google.com
+216.58.221.51 cbks0.google.com #khms.l.google.com
+216.58.221.51 cbks1.google.com #khms.l.google.com
+216.58.221.51 cbks2.google.com #khms.l.google.com
+216.58.221.51 cbks3.google.com #khms.l.google.com
+216.58.221.51 mw1.google.com #mw-small.l.google.com
+216.58.221.51 mw2.google.com #mw-medium.l.google.com
+216.58.221.51 mt.google.com #mt.l.google.com
+216.58.221.51 mt0.google.com #mt.l.google.com
+216.58.221.51 mt1.google.com #mt.l.google.com
+216.58.221.51 mt2.google.com #mt.l.google.com
+216.58.221.51 mt3.google.com #mt.l.google.com
+216.58.221.51 gg.google.com
+216.58.221.51 gg.google.cn
+216.58.221.51 id.google.com #id.l.google.com
+216.58.221.51 id.google.cn #id.l.google.com
+216.58.221.51 ditu.google.cn
+216.58.221.51 mt.google.cn #ditu.google.cn
+216.58.221.51 mt0.google.cn
+216.58.221.51 mt1.google.cn
+216.58.221.51 mt2.google.cn
+216.58.221.51 mt3.google.cn
+216.58.221.51 mts.google.com #mts.l.google.com
+216.58.221.51 mts0.google.com #mts.l.google.com
+216.58.221.51 mts1.google.com #mts.l.google.com
+216.58.221.51 mts2.google.com #mts.l.google.com
+216.58.221.51 mts3.google.com #mts.l.google.com
+216.58.221.51 maps.gstatic.cn #www.gstatic.cn
+216.58.221.51 mobilemaps.clients.google.com #clients.l.google.com
+# Music Beta by Google 云音乐服务
+216.58.221.51 music.google.com #www3.l.google.com
+64.233.189.122 t.doc-0-0-sj.sj.googleusercontent.com #music-streaming.l.google.com
+216.58.221.33 music.googleusercontent.com #googlehosted.l.googleusercontent.com
+64.233.189.122 uploadsj.clients.google.com #large-uploads.l.google.com
+# News 资讯
+216.58.221.51 news.google.com #news.l.google.com
+216.58.221.51 news.google.com.hk #news-cctld.l.google.com
+216.58.221.51 news.google.com.tw #news-cctld.l.google.com
+# Pack 软件精选
+216.58.221.51 pack.google.com #www2.l.google.com
+216.58.221.51 cache.pack.google.com #redirector.c.pack.google.com
+216.58.221.51 pack.google.cn #www2.l.google.com
+# Photo/Picasa 照片/网络相册
+216.58.221.51 photos.google.com #picasaweb.l.google.com
+216.58.221.51 picasa.google.com #www2.l.google.com
+216.58.221.51 picasaweb.google.com #picasaweb.l.google.com
+216.58.221.51 lh2.google.com #lh2.l.google.com
+216.58.221.51 lh3.google.com #lh2.l.google.com
+216.58.221.51 lh4.google.com #lh2.l.google.com
+216.58.221.51 lh5.google.com #lh2.l.google.com
+216.58.221.51 lh6.google.com #lh2.l.google.com
+64.233.189.122 upload.photos.google.com #large-uploads.l.google.com
+# Profiles 个人主页
+216.58.221.51 profiles.google.com
+216.58.221.51 plusone.google.com #plus.l.google.com
+216.58.221.51 plus.google.com
+#2404:6800:4008:c00::8a plus.google.com.hk # URL 重定向
+216.58.221.51 plus.url.google.com #www3.l.google.com
+#2404:6800:4008:c00::8a plus.url.google.com.hk #实际上不存在的域名
+216.58.221.51 developers.google.com #www3.l.google.com
+216.58.221.51 cloud.google.com
+216.58.221.51 console.developers.google.com
+216.58.221.51 cloudssh.developers.google.com #www3.l.google.com
+216.58.221.51 source.developers.google.com
+# Reader 阅读器
+216.58.221.51 reader.google.com #www2.l.google.com
+# Research
+216.58.221.51 research.google.com #www3.l.google.com
+# SafeBrowing 安全检测服务
+216.58.221.51 sb.google.com #sb.l.google.com
+216.58.221.51 sb-ssl.google.com #sb-ssl.l.google.com
+216.58.221.51 safebrowsing.google.com #sb.l.google.com
+216.58.221.51 alt1-safebrowsing.google.com
+216.58.221.51 safebrowsing.clients.google.com #clients.l.google.com
+216.58.221.51 safebrowsing-cache.google.com #safebrowsing.cache.l.google.com
+# Sandbox 服务沙盒
+216.58.221.51 sandbox.google.com #sandbox.l.google.com
+# Scholar 学术搜索
+216.58.221.51 scholar.google.com
+216.58.221.51 scholar.google.com.hk
+216.58.221.51 scholar.google.com.tw
+216.58.221.51 scholar.google.cn #www.google.cn
+# Sites 协作平台
+216.58.221.51 sites.google.com #www3.l.google.com
+64.233.189.121 gsamplemaps.googlepages.com #ghs.googlehosted.com
+# SketchUp 3D 建模工具
+#2404:6800:4008:c00::66 sketchup.google.com
+# Google Talk/Chat 聊天
+64.233.189.188 talk.google.com #talk.l.google.com
+#2404:6800:4008:c00::62 default.talk.google.com
+216.58.221.51 talkgadget.google.com #talkgadget.l.google.com
+#2404:6800:4008:c00::62 rtmp0.google.com
+#2404:6800:4008:c00::62 users.talk.google.com
+64.233.189.188 mtalk.google.com #mobile-gtalk.l.google.com
+# Tools 工具
+216.58.221.51 tools.google.com #tools.l.google.com
+216.58.221.51 toolbar.google.com #tools.l.google.com
+216.58.221.51 toolbar.google.com.hk #tools.l.google.com
+# Translate 翻译
+216.58.221.51 translate.google.com #www3.l.google.com
+216.58.221.51 translate.google.com.hk
+216.58.221.51 translate.google.com.tw
+216.58.221.51 translate.google.cn #www.google.cn
+# Trends 趋势
+216.58.221.51 trends.google.com #www2.l.google.com
+216.58.221.51 www.gvt0.cn
+216.58.221.51 0.gvt0.cn #www.gvt0.cn
+216.58.221.51 1.gvt0.cn #www.gvt0.cn
+216.58.221.51 2.gvt0.cn #www.gvt0.cn
+216.58.221.51 3.gvt0.cn #www.gvt0.cn
+# Wave 波浪
+216.58.221.51 wave.google.com #www4.l.google.com
+#2404:6800:4008:c00::76 wave0.google.com
+216.58.221.51 wave1.google.com #www4.l.google.com
+216.58.221.51 googlewave.com
+# WiFi
+#2404:6800:4008:c00::7b wifi.google.com
+# iGoogle Modules iGoogle 小工具
+216.58.221.33 www-gmc-opensocial.googleusercontent.com
+2607:f8b0:4007:804::1011 gmodules.com
+216.58.221.33 www.gmodules.com #googlehosted.l.googleusercontent.com
+216.58.221.33 www.ig.gmodules.com #googlehosted.l.googleusercontent.com
+216.58.221.33 ig.gmodules.com #googlehosted.l.googleusercontent.com
+216.58.221.33 ads.gmodules.com #googlehosted.l.googleusercontent.com
+216.58.221.33 p.gmodules.com #googlehosted.l.googleusercontent.com
+216.58.221.33 1.ig.gmodules.com #googlehosted.l.googleusercontent.com
+216.58.221.33 2.ig.gmodules.com #googlehosted.l.googleusercontent.com
+216.58.221.33 3.ig.gmodules.com #googlehosted.l.googleusercontent.com
+216.58.221.33 4.ig.gmodules.com #googlehosted.l.googleusercontent.com
+216.58.221.33 5.ig.gmodules.com #googlehosted.l.googleusercontent.com
+216.58.221.33 6.ig.gmodules.com #googlehosted.l.googleusercontent.com
+216.58.221.33 maps.gmodules.com #googlehosted.l.googleusercontent.com
+216.58.221.33 img0.gmodules.com #googlehosted.l.googleusercontent.com
+216.58.221.33 img1.gmodules.com #googlehosted.l.googleusercontent.com
+216.58.221.33 img2.gmodules.com #googlehosted.l.googleusercontent.com
+216.58.221.33 img3.gmodules.com #googlehosted.l.googleusercontent.com
+216.58.221.33 skins.gmodules.com #googlehosted.l.googleusercontent.com
+216.58.221.51 friendconnect.gmodules.com #gadgets.l.googleusercontent.com
+216.58.221.51 0.blogger.gmodules.com #gadgets.l.googleusercontent.com
+216.58.221.51 partnerpage.google.com #www2.l.google.com
+216.58.221.33 *.ig.ig.gmodules.com #googlehosted.l.googleusercontent.com
+# GGPht Google 图片存储
+216.58.221.33 geo0.ggpht.com
+216.58.221.33 geo1.ggpht.com
+216.58.221.33 geo2.ggpht.com
+216.58.221.33 geo3.ggpht.com
+216.58.221.33 gm1.ggpht.com #photos-ugc.l.googleusercontent.com
+216.58.221.33 gm2.ggpht.com #photos-ugc.l.googleusercontent.com
+216.58.221.33 gm3.ggpht.com #photos-ugc.l.googleusercontent.com
+216.58.221.33 gm4.ggpht.com #photos-ugc.l.googleusercontent.com
+216.58.221.33 lh3.ggpht.com #photos-ugc.l.googleusercontent.com
+216.58.221.33 lh4.ggpht.com #photos-ugc.l.googleusercontent.com
+216.58.221.33 lh5.ggpht.com #photos-ugc.l.googleusercontent.com
+216.58.221.33 lh6.ggpht.com #photos-ugc.l.googleusercontent.com
+216.58.221.33 nt0.ggpht.com #photos-ugc.l.googleusercontent.com
+216.58.221.33 nt1.ggpht.com #photos-ugc.l.googleusercontent.com
+216.58.221.33 nt2.ggpht.com #photos-ugc.l.googleusercontent.com
+216.58.221.33 nt3.ggpht.com #photos-ugc.l.googleusercontent.com
+#2404:6800:4008:c00::62 nt4.ggpht.com
+#2404:6800:4008:c00::62 nt5.ggpht.com
+216.58.221.33 yt3.ggpht.com #photos-ugc.l.googleusercontent.com
+216.58.221.33 yt4.ggpht.com #photos-ugc.l.googleusercontent.com
+216.58.221.33 gp3.googleusercontent.com #photos-ugc.l.googleusercontent.com
+216.58.221.33 gp4.googleusercontent.com #photos-ugc.l.googleusercontent.com
+216.58.221.33 gp5.googleusercontent.com #photos-ugc.l.googleusercontent.com
+216.58.221.33 gp6.googleusercontent.com #photos-ugc.l.googleusercontent.com
+216.58.221.33 gp.googleusercontent.com #googlehosted.l.googleusercontent.com
+# GStatic Google 静态文件存储
+216.58.221.51 csi.gstatic.com
+216.58.221.51 fonts.gstatic.com
+216.58.221.51 maps.gstatic.com
+216.58.221.33 ssl.gstatic.com
+216.58.221.51 www.gstatic.com
+216.58.221.51 www.gstatic.cn
+216.58.221.51 encrypted-tbn0.gstatic.com
+216.58.221.51 encrypted-tbn1.gstatic.com
+216.58.221.51 encrypted-tbn2.gstatic.com
+216.58.221.51 encrypted-tbn3.gstatic.com
+216.58.221.51 g0.gstatic.com
+216.58.221.51 g1.gstatic.com
+216.58.221.51 g2.gstatic.com
+216.58.221.51 g3.gstatic.com
+216.58.221.51 mt0.gstatic.com
+216.58.221.51 mt1.gstatic.com
+216.58.221.51 mt2.gstatic.com
+216.58.221.51 mt3.gstatic.com
+216.58.221.51 mt4.gstatic.com
+216.58.221.51 mt5.gstatic.com
+216.58.221.51 mt6.gstatic.com
+216.58.221.51 mt7.gstatic.com
+216.58.221.51 t0.gstatic.com
+216.58.221.51 t1.gstatic.com
+216.58.221.51 t2.gstatic.com
+216.58.221.51 t3.gstatic.com
+# Google APIs 开发接口服务
+216.58.221.51 apis.google.com #plus.l.google.com
+216.58.221.51 chart.apis.google.com #clients.l.google.com
+216.58.220.202 mclients.googleapis.com
+216.58.220.202 googleapis.com
+216.58.220.202 www.googleapis.com #googleapis.l.google.com
+216.58.220.202 *.googleapis.com #googleapis.l.google.com
+216.58.220.202 ajax.googleapis.com #googleapis.l.google.com
+216.58.220.202 android.googleapis.com #googleapis.l.google.com
+216.58.220.202 bigcache.googleapis.com #googleapis.l.google.com
+216.58.220.202 chart.googleapis.com #googleapis.l.google.com
+216.58.220.202 content.googleapis.com #googleapis.l.google.com
+216.58.220.202 fonts.googleapis.com #googleapis.l.google.com
+216.58.220.202 maps.googleapis.com #googleapis.l.google.com
+216.58.220.202 play.googleapis.com #googleapis.l.google.com
+216.58.220.202 plus.googleapis.com #googleapis.l.google.com
+216.58.220.202 redirector-bigcache.googleapis.com #googleapis.l.google.com
+216.58.220.202 translate.googleapis.com #googleapis.l.google.com
+216.58.220.202 youtube.googleapis.com #googleapis.l.google.com
+#2404:6800:4008:c00::5f googleapis-ajax.google.com
+216.58.221.51 mt0.googleapis.com #mt.l.google.com
+216.58.221.51 mt1.googleapis.com #mt.l.google.com
+216.58.221.51 mt2.googleapis.com #mt.l.google.com
+216.58.221.51 mt3.googleapis.com #mt.l.google.com
+# Google Hosted 托管服务
+216.58.221.33 storage.googleapis.com #storage-ugc.l.googleusercontent.com
+216.58.221.33 commondatastorage.googleapis.com #storage-ugc.l.googleusercontent.com
+216.58.221.33 bucket.commondatastorage.googleapis.com #storage-ugc.l.googleusercontent.com
+216.58.221.33 chromium-browser-symbols.commondatastorage.googleapis.com #storage-ugc.l.googleusercontent.com
+216.58.221.33 c.commondatastorage.googleapis.com #storage.l.googleusercontent.com
+216.58.221.33 www.googlehosted.com #googlehosted.l.googleusercontent.com
+64.233.189.99 base.googlehosted.com #www2.l.google.com
+64.233.189.99 base0.googlehosted.com #www2.l.google.com
+64.233.189.99 base1.googlehosted.com #www2.l.google.com
+64.233.189.99 base2.googlehosted.com #www2.l.google.com
+64.233.189.99 base3.googlehosted.com #www2.l.google.com
+216.58.221.33 base4.googlehosted.com #googlehosted.l.googleusercontent.com
+216.58.221.33 base5.googlehosted.com #googlehosted.l.googleusercontent.com
+# Google其他服务
+# DoubleClick
+127.0.0.1 ad.doubleclick.net #dart.l.doubleclick.net
+127.0.0.1 ad-g.doubleclick.net dart.l.doubleclick.net
+127.0.0.1 ad-apac.doubleclick.net dart.l.doubleclick.net
+127.0.0.1 dart-apac.l.doubleclick.net
+127.0.0.1 dart.l.doubleclick.net
+127.0.0.1 n4061ad.hk.doubleclick.net dart.l.doubleclick.net
+127.0.0.1 fls.doubleclick.net dart.l.doubleclick.net
+127.0.0.1 feedads.g.doubleclick.net pagead.l.doubleclick.net
+127.0.0.1 pubads.g.doubleclick.net partnerad.l.doubleclick.net
+127.0.0.1 partnerad.l.doubleclick.net
+127.0.0.1 s0.2mdn.net s0-2mdn-net.l.google.com
+127.0.0.1 s1.2mdn.net s0-2mdn-net.l.google.com
+127.0.0.1 fls.uk.doubleclick.net dart.l.doubleclick.net
+127.0.0.1 *.au.doubleclick.net dart.l.doubleclick.net
+127.0.0.1 *.de.doubleclick.net dart.l.doubleclick.net
+127.0.0.1 *.uk.doubleclick.net dart.l.doubleclick.net
+127.0.0.1 *.fr.doubleclick.net dart.l.doubleclick.net
+127.0.0.1 *.jp.doubleclick.net dart.l.doubleclick.net
+127.0.0.1 googleads.g.doubleclick.net #pagead46.l.doubleclick.net
+127.0.0.1 www.googletagservices.com #pagead46.l.doubleclick.net
+127.0.0.1 static.googleadsserving.cn #pagead46.l.doubleclick.net
+# Analytics 分析
+203.208.37.30 www.google-analytics.com #www-google-analytics.l.google.com
+203.208.37.30e ssl.google-analytics.com #ssl-google-analytics.l.google.com
+#2404:6800:4008:c00::61 *.google-analytics.com
+203.208.37.30 service.urchin.com #www-google-analytics.l.google.com
+216.58.221.51 analytics.google.com #www3.l.google.com
+# Google Art Project
+216.58.221.51 www.googleartproject.com #www3.l.google.com
+64.233.184.141 art-project-media.appspot.com #appspot.l.google.com
+# FeedBurner
+216.58.221.51 feedburner.google.com #www3.l.google.com
+216.58.221.51 www.feedburner.com #www3.l.google.com
+216.58.221.51 feeds.feedburner.com #www4.l.google.com
+216.58.221.51 feeds2.feedburner.com #www4.l.google.com
+216.58.221.51 feedproxy.google.com #www4.l.google.com
+# The Go Programming Language Go 编程语言
+64.233.184.141 golang.org
+64.233.184.141 www.golang.org #golang.org
+64.233.184.141 blog.golang.org #golang.org
+64.233.184.141 play.golang.org #golang.org
+64.233.184.141 tip.golang.org #golang.org
+64.233.184.141 tour.golang.org #golang.org
+# Goo.gl Google短网址服务
+216.58.221.51 goo.gl
+216.58.221.51 g.co
+# html5rocks HTML5 推广专题网站
+216.58.221.51 www.html5rocks.com #ghs.l.google.com
+216.58.221.51 slides.html5rocks.com #ghs.l.google.com
+216.58.221.51 playground.html5rocks.com #ghs.l.google.com
+216.58.221.51 studio.html5rocks.com #ghs.l.google.com
+# Google.org Google 公益
+216.58.221.51 blog.google.org #ghs.l.google.com
+# Panoramio
+64.233.184.141 www.panoramio.com #appspot.l.google.com
+64.233.189.128 static.panoramio.com #storage.l.googleusercontent.com
+64.233.189.121 blog.panoramio.com #ghs.l.google.com
+# Recaptcha 验证码服务
+64.233.189.99 www.recaptcha.net #www.l.google.com
+64.233.189.99 api.recaptcha.net #www.l.google.com
+64.233.189.99 api-secure.recaptcha.net #www.l.google.com
+64.233.189.99 mailhide.recaptcha.net #www.l.google.com
+# Google Wave Federation Protocol · GWave 协议开源计划
+64.233.189.121 www.waveprotocol.org #ghs.l.google.com
+# The WebM Project WebM 开放多媒体项目
+64.233.189.99 webmproject.org
+64.233.189.99 www.webmproject.org #www3.l.google.com
+64.233.189.121 lists.webmproject.org #ghs.l.google.com
+64.233.189.121 blog.webmproject.org #ghs.l.google.com
+64.233.189.121 www.webm-ccl.org #ghs.l.google.com
+# Chrome 相关专题网站
+64.233.189.99 www.chromercise.com #www3.l.google.com
+64.233.189.121 www.chromeexperiments.com #ghs.l.google.com
+64.233.189.121 www.20thingsilearned.com #ghs.l.google.com
+# IPv6 专题
+#2404:6800:4008:c00::63 ipv6test.google.com #ipv6test.l.google.com
+#2404:6800:4008:c00::63 ipv4.google.com #ipv4.l.google.com
+216.58.220.202 ??????.ds.ipv6test.google.com #ds.ipv6test.l.google.com
+64.233.189.99 p2.*.*.??????.i2.ds.ipv6-exp.l.google.com
+64.233.189.151 chrome.googleechotest.com #chromeecho.l.google.com
+# 其他专题站
+64.233.189.121 www.creativelab5.com #ghs.google.com
+64.233.189.99 www.data-vocabulary.org #www3.l.google.com
+64.233.189.99 www.googleinsidesearch.com #www3.l.google.com
+64.233.189.121 www.teachparentstech.org #ghs.l.google.com
+216.58.221.51 www.agoogleaday.com #www4.l.google.com
+64.233.189.121 www.gosetsuden.jp #ghs.l.google.com
+64.233.189.121 www.thegooglepuzzle.com #ghs.l.google.com
+64.233.189.121 www.thegobridgeoglepuzzle.com #ghs.l.google.com
+64.233.184.141 www.thinkwithgoogle.com
+216.58.221.51 www.oneworldmanystories.com #www3.l.google.com
+64.233.189.121 www.googlezeitgeist.com #ghs.l.google.com
+216.58.221.51 www.googleinsidesearch.com #www3.l.google.com
+#2404:6800:4008:c00::79 www.emailintervention.com #ghs.l.google.com
+#2404:6800:4008:c00::79 www.dartlang.org #ghs.l.google.com
+#2404:6800:4008:c00::79 try.dartlang.org #ghs.l.google.com
+64.233.189.121 news.dartlang.org #ghs.l.google.com
+# AdWords/AdSense 广告服务
+#2404:6800:4008:c00::62 www.googlesyndication.com
+127.0.0.1 www.googleadservices.com #pagead.l.doubleclick.net
+#2404:6800:4008:c00::9a domains.googlesyndication.com #pagead.l.doubleclick.net
+127.0.0.1 pagead2.googlesyndication.com #pagead46.l.doubleclick.net
+216.58.221.51 adwords.google.com #adwords.l.google.com
+216.58.221.51 adwords.google.sk #adwords.l.google.com
+#2404:6800:4008:c00::9a partner.googleadservices.com #partnerad.l.doubleclick.net
+#2404:6800:4008:c00::62 pagead.google.com
+#2404:6800:4008:c00::9a pagead2.googleadservices.com #pagead.l.doubleclick.net
+64.233.189.99 buttons.googlesyndication.com #www.google.com
+127.0.0.1 tpc.googlesyndication.com #pagead-googlehosted.l.google.com
+# Android Google 移动操作系统
+216.58.221.51 www.android.com #www3.l.google.com
+64.233.189.99 android.com
+216.58.221.51 developer.android.com #www3.l.google.com
+216.58.221.51 source.android.com #www3.l.google.com
+216.58.221.51 market.android.com #android-market.l.google.com
+216.58.221.51 android.clients.google.com #android.l.google.com
+216.58.221.51 play.google.com #play.l.google.com
+# GoogleUserContent 用户自定义的Google服务 googlehosted.l.googleusercontent.com
+216.58.221.33 www.googleusercontent.com
+216.58.221.33 www-gmi-opensocial.googleusercontent.com
+216.58.221.33 androidmarket.googleusercontent.com
+216.58.221.33 blogger.googleusercontent.com
+216.58.221.33 blogspot.l.googleusercontent.com
+216.58.221.51 gadgets.l.googleusercontent.com
+216.58.221.33 googlehosted.l.googleusercontent.com
+64.233.160.82 googlecode.l.googleusercontent.com
+64.233.184.137 googlegroups.l.googleusercontent.com
+216.58.221.33 photos-ugc.l.googleusercontent.com
+64.233.189.128 storage.l.googleusercontent.com
+216.58.221.33 storage-ugc.l.googleusercontent.com
+216.58.221.33 www-blogger-opensocial.googleusercontent.com
+216.58.221.33 books.googleusercontent.com
+216.58.221.33 ci1.googleusercontent.com
+216.58.221.33 ci2.googleusercontent.com
+216.58.221.33 ci3.googleusercontent.com
+216.58.221.33 ci4.googleusercontent.com
+216.58.221.33 ci5.googleusercontent.com
+216.58.221.33 ci6.googleusercontent.com
+216.58.221.33 clients1.googleusercontent.com
+216.58.221.33 clients2.googleusercontent.com
+216.58.221.33 clients4.googleusercontent.com
+216.58.221.33 clients5.googleusercontent.com
+216.58.221.33 clients6.googleusercontent.com
+216.58.221.33 code-opensocial.googleusercontent.com
+216.58.221.33 doc-00-1k-docs.googleusercontent.com
+216.58.221.33 doc-00-1o-docs.googleusercontent.com
+216.58.221.33 doc-04-1o-docs.googleusercontent.com
+216.58.221.33 doc-08-1o-docs.googleusercontent.com
+216.58.221.33 doc-0c-1o-docs.googleusercontent.com
+216.58.221.33 doc-0g-1o-docs.googleusercontent.com
+216.58.221.33 doc-0k-1o-docs.googleusercontent.com
+216.58.221.33 doc-0o-1o-docs.googleusercontent.com
+216.58.221.33 doc-0s-1o-docs.googleusercontent.com
+216.58.221.33 doc-10-1o-docs.googleusercontent.com
+216.58.221.33 doc-14-1o-docs.googleusercontent.com
+216.58.221.33 doc-10-2c-docs.googleusercontent.com
+216.58.221.33 doc-0k-38-docs.googleusercontent.com
+216.58.221.33 doc-14-48-docs.googleusercontent.com
+216.58.221.33 doc-00-6c-docs.googleusercontent.com
+216.58.221.33 doc-04-6c-docs.googleusercontent.com
+216.58.221.33 doc-08-6c-docs.googleusercontent.com
+216.58.221.33 doc-0c-6c-docs.googleusercontent.com
+216.58.221.33 doc-0g-6c-docs.googleusercontent.com
+216.58.221.33 doc-0k-6c-docs.googleusercontent.com
+216.58.221.33 doc-0o-6c-docs.googleusercontent.com
+216.58.221.33 doc-0s-6c-docs.googleusercontent.com
+216.58.221.33 doc-10-6c-docs.googleusercontent.com
+216.58.221.33 doc-14-6c-docs.googleusercontent.com
+216.58.221.33 doc-0o-74-docs.googleusercontent.com
+216.58.221.33 doc-14-74-docs.googleusercontent.com
+216.58.221.33 doc-00-7o-docs.googleusercontent.com
+216.58.221.33 doc-04-7o-docs.googleusercontent.com
+216.58.221.33 doc-08-7o-docs.googleusercontent.com
+216.58.221.33 doc-0c-7o-docs.googleusercontent.com
+216.58.221.33 doc-0g-7o-docs.googleusercontent.com
+216.58.221.33 doc-0k-7o-docs.googleusercontent.com
+216.58.221.33 doc-0o-7o-docs.googleusercontent.com
+216.58.221.33 doc-0s-7o-docs.googleusercontent.com
+216.58.221.33 doc-10-7o-docs.googleusercontent.com
+216.58.221.33 doc-14-7o-docs.googleusercontent.com
+216.58.221.33 doc-00-8k-docs.googleusercontent.com
+216.58.221.33 doc-04-8k-docs.googleusercontent.com
+216.58.221.33 doc-08-8k-docs.googleusercontent.com
+216.58.221.33 doc-0c-8k-docs.googleusercontent.com
+216.58.221.33 doc-0g-8k-docs.googleusercontent.com
+216.58.221.33 doc-0k-8k-docs.googleusercontent.com
+216.58.221.33 doc-0o-8k-docs.googleusercontent.com
+216.58.221.33 doc-0s-8k-docs.googleusercontent.com
+216.58.221.33 doc-10-8k-docs.googleusercontent.com
+216.58.221.33 doc-14-8k-docs.googleusercontent.com
+216.58.221.33 doc-00-9k-docs.googleusercontent.com
+216.58.221.33 doc-04-9k-docs.googleusercontent.com
+216.58.221.33 doc-08-9k-docs.googleusercontent.com
+216.58.221.33 doc-0c-9k-docs.googleusercontent.com
+216.58.221.33 doc-0g-9k-docs.googleusercontent.com
+216.58.221.33 doc-0k-9k-docs.googleusercontent.com
+216.58.221.33 doc-0o-9k-docs.googleusercontent.com
+216.58.221.33 doc-0s-9k-docs.googleusercontent.com
+216.58.221.33 doc-10-9k-docs.googleusercontent.com
+216.58.221.33 doc-14-9k-docs.googleusercontent.com
+216.58.221.33 doc-00-as-docs.googleusercontent.com
+216.58.221.33 doc-04-as-docs.googleusercontent.com
+216.58.221.33 doc-08-as-docs.googleusercontent.com
+216.58.221.33 doc-0c-as-docs.googleusercontent.com
+216.58.221.33 doc-0g-as-docs.googleusercontent.com
+216.58.221.33 doc-0k-as-docs.googleusercontent.com
+216.58.221.33 doc-0o-as-docs.googleusercontent.com
+216.58.221.33 doc-0s-as-docs.googleusercontent.com
+216.58.221.33 doc-10-as-docs.googleusercontent.com
+216.58.221.33 doc-14-as-docs.googleusercontent.com
+216.58.221.33 doc-00-bg-docs.googleusercontent.com
+216.58.221.33 doc-00-2g-3dwarehouse.googleusercontent.com
+216.58.221.33 doc-04-2g-3dwarehouse.googleusercontent.com
+216.58.221.33 doc-08-2g-3dwarehouse.googleusercontent.com
+216.58.221.33 doc-0c-2g-3dwarehouse.googleusercontent.com
+216.58.221.33 doc-0g-2g-3dwarehouse.googleusercontent.com
+216.58.221.33 doc-0k-2g-3dwarehouse.googleusercontent.com
+216.58.221.33 doc-0o-2g-3dwarehouse.googleusercontent.com
+216.58.221.33 doc-0s-2g-3dwarehouse.googleusercontent.com
+216.58.221.33 doc-10-2g-3dwarehouse.googleusercontent.com
+216.58.221.33 doc-14-2g-3dwarehouse.googleusercontent.com
+216.58.221.33 feedback.googleusercontent.com
+216.58.221.33 images1-esmobile-opensocial.googleusercontent.com
+216.58.221.33 images2-esmobile-opensocial.googleusercontent.com
+216.58.221.33 images3-esmobile-opensocial.googleusercontent.com
+216.58.221.33 images4-esmobile-opensocial.googleusercontent.com
+216.58.221.33 images5-esmobile-opensocial.googleusercontent.com
+216.58.221.33 images6-esmobile-opensocial.googleusercontent.com
+216.58.221.33 images7-esmobile-opensocial.googleusercontent.com
+216.58.221.33 images8-esmobile-opensocial.googleusercontent.com
+216.58.221.33 images9-esmobile-opensocial.googleusercontent.com
+216.58.221.33 images1-hangout-opensocial.googleusercontent.com
+216.58.221.33 images2-hangout-opensocial.googleusercontent.com
+216.58.221.33 images3-hangout-opensocial.googleusercontent.com
+216.58.221.33 images4-hangout-opensocial.googleusercontent.com
+216.58.221.33 images5-hangout-opensocial.googleusercontent.com
+216.58.221.33 images6-hangout-opensocial.googleusercontent.com
+216.58.221.33 images7-hangout-opensocial.googleusercontent.com
+216.58.221.33 images8-hangout-opensocial.googleusercontent.com
+216.58.221.33 images9-hangout-opensocial.googleusercontent.com
+216.58.221.33 images-docs-opensocial.googleusercontent.com
+216.58.221.33 images-oz-opensocial.googleusercontent.com
+216.58.221.33 images-lso-opensocial.googleusercontent.com
+216.58.221.33 images-blogger-opensocial.googleusercontent.com
+216.58.221.33 images-pos-opensocial.googleusercontent.com
+216.58.221.33 lh0.googleusercontent.com
+216.58.221.33 lh1.googleusercontent.com
+216.58.221.33 lh2.googleusercontent.com
+216.58.221.33 lh3.googleusercontent.com
+216.58.221.33 lh4.googleusercontent.com
+216.58.221.33 lh5.googleusercontent.com
+216.58.221.33 lh6.googleusercontent.com
+216.58.221.33 mail-attachment.googleusercontent.com
+216.58.221.33 music.googleusercontent.com
+216.58.221.33 music-onebox.googleusercontent.com
+216.58.221.33 newsstand.googleusercontent.com
+216.58.221.33 oauth.googleusercontent.com
+216.58.221.33 producer.googleusercontent.com
+216.58.221.33 reader.googleusercontent.com
+216.58.221.33 s1.googleusercontent.com
+216.58.221.33 s2.googleusercontent.com
+216.58.221.33 spreadsheets-opensocial.googleusercontent.com
+216.58.221.33 static.googleusercontent.com
+216.58.221.33 themes.googleusercontent.com
+216.58.221.33 translate.googleusercontent.com
+216.58.221.33 video.googleusercontent.com
+216.58.221.33 wave.googleusercontent.com
+216.58.221.33 webcache.googleusercontent.com
+216.58.221.33 ytimg.googleusercontent.com
+216.58.221.33 www-opensocial.googleusercontent.com
+216.58.221.33 www-gm-opensocial.googleusercontent.com
+216.58.221.33 www-opensocial-sandbox.googleusercontent.com
+216.58.221.33 www-fc-opensocial.googleusercontent.com
+216.58.221.33 *-a-fc-opensocial.googleusercontent.com
+216.58.221.33 4lam9a1ki27mb9p1h5q3furvvf58ss02-a-gm-opensocial.googleusercontent.com
+216.58.221.33 nl3atn8402ncgahndqn8rb6qi2ld2g5a-a-gm-opensocial.googleusercontent.com
+216.58.221.33 8fkcem1ves287v3g5lu9gep1j91p3kk1-a-fc-opensocial.googleusercontent.com
+216.58.221.33 r1rk9np7bpcsfoeekl0khkd2juj27q3o-a-fc-opensocial.googleusercontent.com
+216.58.221.33 www-focus-opensocial.googleusercontent.com
+216.58.221.33 images0-focus-opensocial.googleusercontent.com
+216.58.221.33 images1-focus-opensocial.googleusercontent.com
+216.58.221.33 images2-focus-opensocial.googleusercontent.com
+216.58.221.33 images3-focus-opensocial.googleusercontent.com
+216.58.221.33 images4-focus-opensocial.googleusercontent.com
+216.58.221.33 images5-focus-opensocial.googleusercontent.com
+216.58.221.33 images6-focus-opensocial.googleusercontent.com
+216.58.221.33 images7-focus-opensocial.googleusercontent.com
+216.58.221.33 images8-focus-opensocial.googleusercontent.com
+216.58.221.33 images9-focus-opensocial.googleusercontent.com
+216.58.221.33 images*-focus-opensocial.googleusercontent.com
+216.58.221.33 0-focus-opensocial.googleusercontent.com
+216.58.221.33 1-focus-opensocial.googleusercontent.com
+216.58.221.33 2-focus-opensocial.googleusercontent.com
+216.58.221.33 3-focus-opensocial.googleusercontent.com
+216.58.221.33 www-fusiontables-opensocial.googleusercontent.com
+216.58.221.33 www-kix-opensocial.googleusercontent.com
+216.58.221.33 www-onepick-opensocial.googleusercontent.com
+216.58.221.33 images-onepick-opensocial.googleusercontent.com
+216.58.221.33 www-open-opensocial.googleusercontent.com
+216.58.221.33 *-a-oz-opensocial.googleusercontent.com
+216.58.221.33 0-open-opensocial.googleusercontent.com
+216.58.221.33 1-open-opensocial.googleusercontent.com
+216.58.221.33 2-open-opensocial.googleusercontent.com
+216.58.221.33 3-open-opensocial.googleusercontent.com
+216.58.221.33 www-oz-opensocial.googleusercontent.com
+216.58.221.33 4fjvqid3r3oq66t548clrdj52df15coc-a-oz-opensocial.googleusercontent.com
+216.58.221.33 53rd6p0catml6vat6qra84rs0del836d-a-oz-opensocial.googleusercontent.com
+216.58.221.33 59cbv4l9s05pbaks9v77vc3mengeqors-a-oz-opensocial.googleusercontent.com
+216.58.221.33 8kubpeu8314p2efdd7jlv09an9i2ljdo-a-oz-opensocial.googleusercontent.com
+216.58.221.33 adstvca8k2ooaknjjmv89j22n9t676ve-a-oz-opensocial.googleusercontent.com
+216.58.221.33 bt26mravu2qpe56n8gnmjnpv2inl84bf-a-oz-opensocial.googleusercontent.com
+216.58.221.33 debh8vg7vd93bco3prdajidmm7dhql3f-a-oz-opensocial.googleusercontent.com
+216.58.221.33 hsco54a20sh11q9jkmb51ad2n3hmkmrg-a-oz-opensocial.googleusercontent.com
+216.58.221.33 i8brh95qor6r54nkl52hidj2ggcs4jgm-a-oz-opensocial.googleusercontent.com
+216.58.221.33 k6v18tjr24doa89b55o3na41kn4v73eb-a-oz-opensocial.googleusercontent.com
+216.58.221.33 ob7f2qc0i50kbjnc81vkhgmb5hsv7a8l-a-oz-opensocial.googleusercontent.com
+216.58.221.33 qhie5b8u979rnch1q0hqbrmbkn9estf7-a-oz-opensocial.googleusercontent.com
+216.58.221.33 r70rmsn4s0rhk6cehcbbcbfbs31pu0va-a-oz-opensocial.googleusercontent.com
+216.58.221.33 rbjhe237k979f79d87gmenp3gejfonu9-a-oz-opensocial.googleusercontent.com
+216.58.221.33 u807isd5egseeabjccgcns005p2miucq-a-oz-opensocial.googleusercontent.com
+216.58.221.33 upt14k1i2veesusrda9nfotcrbp9d7p5-a-oz-opensocial.googleusercontent.com
+216.58.221.33 4098j3r7bdqqvlggmhbnlu6u5i8d08jq-a-oz-opensocial.googleusercontent.com
+216.58.221.33 www-trixcopysheet-opensocial.googleusercontent.com
+216.58.221.33 www-wave-opensocial.googleusercontent.com
+216.58.221.33 wave-opensocial.googleusercontent.com
+216.58.221.33 0-wave-opensocial.googleusercontent.com
+216.58.221.33 1-wave-opensocial.googleusercontent.com
+216.58.221.33 2-wave-opensocial.googleusercontent.com
+216.58.221.33 3-wave-opensocial.googleusercontent.com
+216.58.221.33 4-wave-opensocial.googleusercontent.com
+216.58.221.33 5-wave-opensocial.googleusercontent.com
+216.58.221.33 6-wave-opensocial.googleusercontent.com
+216.58.221.33 7-wave-opensocial.googleusercontent.com
+216.58.221.33 8-wave-opensocial.googleusercontent.com
+216.58.221.33 9-wave-opensocial.googleusercontent.com
+216.58.221.33 10-wave-opensocial.googleusercontent.com
+216.58.221.33 11-wave-opensocial.googleusercontent.com
+216.58.221.33 12-wave-opensocial.googleusercontent.com
+216.58.221.33 13-wave-opensocial.googleusercontent.com
+216.58.221.33 14-wave-opensocial.googleusercontent.com
+216.58.221.33 15-wave-opensocial.googleusercontent.com
+216.58.221.33 16-wave-opensocial.googleusercontent.com
+216.58.221.33 17-wave-opensocial.googleusercontent.com
+216.58.221.33 18-wave-opensocial.googleusercontent.com
+216.58.221.33 19-wave-opensocial.googleusercontent.com
+216.58.221.33 20-wave-opensocial.googleusercontent.com
+216.58.221.33 21-wave-opensocial.googleusercontent.com
+216.58.221.33 22-wave-opensocial.googleusercontent.com
+216.58.221.33 23-wave-opensocial.googleusercontent.com
+216.58.221.33 24-wave-opensocial.googleusercontent.com
+216.58.221.33 25-wave-opensocial.googleusercontent.com
+216.58.221.33 26-wave-opensocial.googleusercontent.com
+216.58.221.33 27-wave-opensocial.googleusercontent.com
+216.58.221.33 28-wave-opensocial.googleusercontent.com
+216.58.221.33 29-wave-opensocial.googleusercontent.com
+216.58.221.33 30-wave-opensocial.googleusercontent.com
+216.58.221.33 31-wave-opensocial.googleusercontent.com
+216.58.221.33 32-wave-opensocial.googleusercontent.com
+216.58.221.33 33-wave-opensocial.googleusercontent.com
+216.58.221.33 34-wave-opensocial.googleusercontent.com
+216.58.221.33 35-wave-opensocial.googleusercontent.com
+216.58.221.33 36-wave-opensocial.googleusercontent.com
+216.58.221.33 37-wave-opensocial.googleusercontent.com
+216.58.221.33 38-wave-opensocial.googleusercontent.com
+216.58.221.33 39-wave-opensocial.googleusercontent.com
+216.58.221.33 40-wave-opensocial.googleusercontent.com
+
+
+#https://github.com/catbb49294929/samecho_hosts
+#Hosts更新QQ群:162157583|资源分享
+
+
+#Imgur 
+103.245.222.193 imgur.com
+103.245.222.193 www.imgur.com
+103.245.222.193 i.imgur.com
+103.245.222.193 s.imgur.com
+
+
+#https://github.com/catbb49294929/samecho_hosts
+#Hosts更新QQ群:162157583|资源分享
+
+
+#Instagram
+54.84.226.233 i.instagram.com
+147.8.239.45 instagramstatic-a.akamaihd.net
+147.8.239.45 instagramimages-a.akamaihd.net
+147.8.239.45 igcdn-photos-a-a.akamaihd.net
+147.8.239.45 igcdn-photos-b-a.akamaihd.net
+147.8.239.45 igcdn-photos-c-a.akamaihd.net
+147.8.239.45 igcdn-photos-d-a.akamaihd.net
+147.8.239.45 igcdn-photos-e-a.akamaihd.net
+147.8.239.45 igcdn-photos-f-a.akamaihd.net
+147.8.239.45 igcdn-photos-g-a.akamaihd.net
+147.8.239.45 igcdn-photos-h-a.akamaihd.net
+
+
+#https://github.com/catbb49294929/samecho_hosts
+#Hosts更新QQ群:162157583|资源分享
+
+
+#Ixquick 
+213.144.233.249 www.ixquick.com
+213.144.233.249 ixquick.com
+37.0.87.9 ixquick-proxy.com
+213.144.233.249 support.ixquick.com
+213.144.233.249 s19.ixquick.com
+213.144.233.249 s3-eu4.ixquick.com
+213.144.233.249 s1-eu5.ixquick.com
+213.144.233.249 s2-eu5.ixquick.com
+213.144.233.249 s3-eu5.ixquick.com
+213.144.233.249 s4-eu5.ixquick.com
+213.144.233.249 s5-eu5.ixquick.com
+213.144.233.249 s6-eu5.ixquick.com
+213.144.233.249 s7-eu5.ixquick.com
+213.144.233.249 s8-eu5.ixquick.com
+213.144.233.249 s9-eu5.ixquick.com
+213.144.233.249 s10-eu5.ixquick.com
+213.144.233.249 s11-eu5.ixquick.com
+213.144.233.249 s12-eu5.ixquick.com
+213.144.233.249 s13-eu2.ixquick.com
+213.144.233.249 s14-eu2.ixquick.com
+213.144.233.249 s15-eu2.ixquick.com
+213.144.233.249 s16-eu2.ixquick.com
+213.144.233.249 s17-eu2.ixquick.com
+213.144.233.249 s18-eu2.ixquick.com
+213.144.233.249 s19-eu2.ixquick.com
+213.144.233.249 s20-eu2.ixquick.com
+213.144.233.249 s1-us5.ixquick.com
+213.144.233.249 s2-us5.ixquick.com
+213.144.233.249 s3-us5.ixquick.com
+213.144.233.249 s4-us5.ixquick.com
+213.144.233.249 s5-us5.ixquick.com
+213.144.233.249 s6-us5.ixquick.com
+213.144.233.249 s7-us5.ixquick.com
+213.144.233.249 s8-us5.ixquick.com
+213.144.233.249 s9-us5.ixquick.com
+213.144.233.249 s10-us5.ixquick.com
+213.144.233.249 s11-us5.ixquick.com
+213.144.233.249 s12-us5.ixquick.com
+213.144.233.249 s13-us2.ixquick.com
+213.144.233.249 s14-us2.ixquick.com
+213.144.233.249 s15-us2.ixquick.com
+213.144.233.249 s16-us2.ixquick.com
+213.144.233.249 s17-us2.ixquick.com
+213.144.233.249 s18-us2.ixquick.com
+213.144.233.249 s19-us2.ixquick.com
+213.144.233.249 s20-us2.ixquick.com
+
+
+#https://github.com/catbb49294929/samecho_hosts
+#Hosts更新QQ群:162157583|资源分享
+
+
+#Mozilla
+117.18.232.191 addons.cdn.mozilla.net
+117.18.232.191 mozorg.cdn.mozilla.net
+117.18.232.191 developer.cdn.mozilla.net
+117.18.232.191 fhr.cdn.mozilla.net
+117.18.232.191 support.cdn.mozilla.net
+117.18.232.191 marketplace.cdn.mozilla.net
+117.18.232.191 air.cdn.mozilla.net
+117.18.232.191 activations.cdn.mozilla.net
+117.18.232.191 cdn.mozilla.net
+117.18.232.191 download-installer.cdn.mozilla.net
+117.18.237.191 getpersonas-cdn.mozilla.net
+117.18.232.191 snippets.cdn.mozilla.net
+117.18.232.191 telemetry-experiment.cdn.mozilla.net
+117.18.232.191 code.cdn.mozilla.net
+117.18.232.191 videos.cdn.mozilla.net
+117.18.232.191 glow.cdn.mozilla.net
+117.18.237.29 ocsp.digicert.com
+72.21.81.109 df6a.https.cdn.softlayer.net
+
+
+#https://github.com/catbb49294929/samecho_hosts
+#Hosts更新QQ群:162157583|资源分享
+
+
+#Microsoft OneDrive
+134.170.108.154	onedrive.live.com
+134.170.104.90	onedrive.live.com
+134.170.107.154	onedrive.live.com
+134.170.108.26	onedrive.live.com
+134.170.107.26	onedrive.live.com
+134.170.104.218	onedrive.live.com
+134.170.104.154	onedrive.live.com
+134.170.108.154	onedrive.live.com
+134.170.108.26	onedrive.live.com
+134.170.108.26 onedrive.live.com
+134.170.104.232	skyapi.onedrive.live.com
+134.170.105.24	skyapi.onedrive.live.com
+134.170.105.72	skyapi.onedrive.live.com
+134.170.104.104	skyapi.onedrive.live.com
+134.170.109.72	skyapi.onedrive.live.com
+134.170.104.232	skyapi.onedrive.live.com
+134.170.107.72	skyapi.onedrive.live.com
+134.170.104.24	skyapi.onedrive.live.com
+134.170.104.104	skyapi.onedrive.live.com
+134.170.109.72	skyapi.onedrive.live.com
+134.170.108.152 skyapi.onedrive.live.com
+134.170.105.24  skyapi.onedrive.live.com
+134.170.106.48  skyapi.onedrive.live.com
+134.170.120.48  skyapi.onedrive.live.com
+134.170.111.96  skyapi.onedrive.live.com
+134.170.109.48  skyapi.onedrive.live.com
+134.170.108.224 storage.live.com
+#134.170.30.15 people.live.com
+
+
+#https://github.com/catbb49294929/samecho_hosts
+#Hosts更新QQ群:162157583|资源分享
+
+
+#Page
+212.121.101.10 page.com
+212.121.101.10 eu.page.com
+212.121.101.10 s5-eu4.page.com
+212.121.101.10 www.page.com
+212.121.101.10 support.page.com
+212.121.101.10 blog.page.com
+
+
+#https://github.com/catbb49294929/samecho_hosts
+#Hosts更新QQ群:162157583|资源分享
+
+
+#Tumblr
+93.184.216.98	24.media.tumblr.com
+54.192.98.136	31.media.tumblr.com
+54.192.98.136	32.media.tumblr.com
+209.197.3.20	33.media.tumblr.com
+68.232.35.63	secure.assets.tumblr.com
+
+
+#https://github.com/catbb49294929/samecho_hosts
+#Hosts更新QQ群:162157583|资源分享
+
+
+# Twitter
+199.16.158.72 twitter.com
+185.45.5.34 www.twitter.com
+185.45.5.34 mobile.twitter.com
+185.45.5.34 api.twitter.com
+185.45.5.34 ton.twitter.com
+185.45.5.34 urls-real.api.twitter.com
+199.16.158.76 t.co
+185.45.5.34 tweetdeck.com
+185.45.5.34 tdweb.twitter.com
+185.45.5.34 api.tweetdeck.com
+185.45.5.34 downloads.tweetdeck.com
+185.45.5.34 tweetdeck.twitter.com
+185.45.5.34 web.tweetdeck.com
+185.45.5.34 www.tweetdeck.com
+23.44.161.224 p.twitter.com
+23.37.145.224 preview.cdn.twitter.com
+117.18.237.139 syndication.twitter.com
+117.18.237.139 cdn.syndication.twitter.com
+117.18.237.139 syndication.twimg.com
+117.18.237.139 cdn.syndication.twimg.com
+117.18.237.139 o.twimg.com
+117.18.237.139 syndication-o.twimg.com
+117.18.237.139 image-proxy-origin.twimg.com
+117.18.237.139 cdn.api.twitter.com
+117.18.237.139 platform.twitter.com
+117.18.237.139 ma.twimg.com
+117.18.237.139 a0.twimg.com
+117.18.237.139 a1.twimg.com
+117.18.237.139 p.twimg.com
+117.18.237.139 abs.twimg.com
+117.18.237.139 pbs.twimg.com
+117.18.237.139 r.twimg.com
+117.18.237.139 si0.twimg.com
+117.18.237.139 si1.twimg.com
+117.18.237.139 si2.twimg.com
+117.18.237.139 si3.twimg.com
+117.18.237.139 si4.twimg.com
+117.18.237.139 si5.twimg.com
+185.45.5.34 support.twitter.com
+185.45.5.34 blog.twitter.com
+185.45.5.34 about.twitter.com
+185.45.5.34 pic.twitter.com
+185.45.5.34 stream.twitter.com
+185.45.5.34 sitestream.twitter.com
+185.45.5.34 betastream.twitter.com
+185.45.5.34 upload.twitter.com
+185.45.5.34 dev.twitter.com
+185.45.5.34 userstream.twitter.com
+173.236.110.98 twitpic.com
+173.236.31.146 m1.twitpic.com
+173.236.110.98 web1.twitpic.com
+173.236.110.98 web2.twitpic.com
+173.236.110.98 web3.twitpic.com
+173.236.110.98 web4.twitpic.com
+173.236.110.98 web5.twitpic.com
+173.236.110.98 web6.twitpic.com
+173.236.110.98 web7.twitpic.com
+173.236.110.98 web8.twitpic.com
+173.236.110.98 web9.twitpic.com
+173.236.110.98 web10.twitpic.com
+
+
+#https://github.com/catbb49294929/samecho_hosts
+#Hosts更新QQ群:162157583|资源分享
+
+
+#Wikipedia
+91.198.174.202	bits.wikimedia.org
+91.198.174.192	wikipedia.org
+91.198.174.192	www.wikipedia.org
+91.198.174.204	en.m.wikipedia.org
+91.198.174.204	zh.m.wikipedia.org
+91.198.174.204	fr.m.wikipedia.org
+91.198.174.204	es.m.wikipedia.org
+91.198.174.204	it.m.wikipedia.org
+91.198.174.204	ja.m.wikipedia.org
+91.198.174.204	de.m.wikipedia.org
+91.198.174.192	en.wikipedia.org
+91.198.174.192	zh.wikipedia.org
+91.198.174.192	fr.wikipedia.org
+91.198.174.192	es.wikipedia.org
+91.198.174.192	it.wikipedia.org
+91.198.174.192	ja.wikipedia.org
+91.198.174.192	de.wikipedia.org
+91.198.174.192	simple.wikipedia.org
+91.198.174.192	wikibooks.org
+91.198.174.192	www.wikibooks.org
+91.198.174.192	en.wikibooks.org
+91.198.174.192	es.wikibooks.org
+91.198.174.192	zh.wikibooks.org
+91.198.174.192	fr.wikibooks.org
+91.198.174.192	de.wikibooks.org
+91.198.174.192	it.wikibooks.org
+91.198.174.192	ja.wikibooks.org
+91.198.174.192	wikinews.org
+91.198.174.192	www.wikinews.org
+91.198.174.192	en.wikinews.org
+91.198.174.192	zh.wikinews.org
+91.198.174.192	fr.wikinews.org
+91.198.174.192	de.wikinews.org
+91.198.174.192	es.wikinews.org
+91.198.174.192	it.wikinews.org
+91.198.174.192	ja.wikinews.org
+91.198.174.192	wikiquote.org
+91.198.174.192	www.wikiquote.org
+91.198.174.192	en.wikiquote.org
+91.198.174.192	zh.wikiquote.org
+91.198.174.192	fr.wikiquote.org
+91.198.174.192	de.wikiquote.org
+91.198.174.192	es.wikiquote.org
+91.198.174.192	it.wikiquote.org
+91.198.174.192	ja.wikiquote.org
+91.198.174.192	zh.wikisource.org
+91.198.174.192	fr.wikisource.org
+91.198.174.192	de.wikisource.org
+91.198.174.192	en.wikisource.org
+91.198.174.192	it.wikisource.org
+91.198.174.192	ja.wikisource.org
+91.198.174.192	es.wikisource.org
+91.198.174.192	wiktionary.org
+91.198.174.192	www.wiktionary.org
+91.198.174.192	en.wiktionary.org
+91.198.174.192	zh.wiktionary.org
+91.198.174.192	fr.wiktionary.org
+91.198.174.192	de.wiktionary.org
+91.198.174.192	it.wiktionary.org
+91.198.174.192	es.wiktionary.org
+91.198.174.192	ja.wiktionary.org
+91.198.174.192	wikimedia.org
+91.198.174.192	www.wikimedia.org
+91.198.174.192	commons.wikimedia.org
+91.198.174.192	mail.wikimedia.org
+91.198.174.192	meta.wikimedia.org
+91.198.174.192	wikimediafoundation.org
+91.198.174.192	www.wikimediafoundation.org
+91.198.174.192	mediawiki.org
+91.198.174.192	www.mediawiki.org
+208.80.154.241	bugs.wikimedia.org
+208.80.154.241	bugzilla.wikimedia.org
+208.80.154.241	noc.wikimedia.org
+208.80.154.241	stats.wikimedia.org
+208.80.154.11	dumps.wikimedia.org
+208.80.154.11	download.wikimedia.org
+208.80.154.146	ticket.wikimedia.org
+91.198.174.208	upload.wikimedia.org
+208.80.154.160	irc.wikimedia.org
+208.80.154.53	ganglia.wikimedia.org
+198.35.26.96	ab.wikipedia.org
+198.35.26.96	ace.wikipedia.org
+198.35.26.96	af.wikipedia.org
+198.35.26.96	ak.wikipedia.org
+198.35.26.96	als.wikipedia.org
+198.35.26.96	am.wikipedia.org
+198.35.26.96	an.wikipedia.org
+198.35.26.96	ang.wikipedia.org
+198.35.26.96	ar.wikipedia.org
+198.35.26.96	arc.wikipedia.org
+198.35.26.96	arz.wikipedia.org
+198.35.26.96	as.wikipedia.org
+198.35.26.96	ast.wikipedia.org
+198.35.26.96	av.wikipedia.org
+198.35.26.96	ay.wikipedia.org
+198.35.26.96	az.wikipedia.org
+198.35.26.96	ba.wikipedia.org
+198.35.26.96	bar.wikipedia.org
+198.35.26.96	bat-smg.wikipedia.org
+198.35.26.96	bcl.wikipedia.org
+198.35.26.96	bg.wikipedia.org
+198.35.26.96	bh.wikipedia.org
+198.35.26.96	bi.wikipedia.org
+198.35.26.96	bjn.wikipedia.org
+198.35.26.96	bm.wikipedia.org
+198.35.26.96	bn.wikipedia.org
+198.35.26.96	bo.wikipedia.org
+198.35.26.96	bpy.wikipedia.org
+198.35.26.96	br.wikipedia.org
+198.35.26.96	bs.wikipedia.org
+198.35.26.96	bug.wikipedia.org
+198.35.26.96	bxr.wikipedia.org
+198.35.26.96	ca.wikipedia.org
+198.35.26.96	cbk-zam.wikipedia.org
+198.35.26.96	cdo.wikipedia.org
+198.35.26.96	ce.wikipedia.org
+198.35.26.96	ceb.wikipedia.org
+198.35.26.96	ch.wikipedia.org
+198.35.26.96	chr.wikipedia.org
+198.35.26.96	chy.wikipedia.org
+198.35.26.96	ckb.wikipedia.org
+198.35.26.96	co.wikipedia.org
+198.35.26.96	cr.wikipedia.org
+198.35.26.96	crh.wikipedia.org
+198.35.26.96	cs.wikipedia.org
+198.35.26.96	csb.wikipedia.org
+198.35.26.96	cu.wikipedia.org
+198.35.26.96	cv.wikipedia.org
+198.35.26.96	cy.wikipedia.org
+198.35.26.96	da.wikipedia.org
+198.35.26.96	de.wikipedia.org
+198.35.26.96	diq.wikipedia.org
+198.35.26.96	dsb.wikipedia.org
+198.35.26.96	dv.wikipedia.org
+198.35.26.96	dz.wikipedia.org
+198.35.26.96	ee.wikipedia.org
+198.35.26.96	el.wikipedia.org
+198.35.26.96	eml.wikipedia.org
+198.35.26.96	en.wikipedia.org
+198.35.26.96	eo.wikipedia.org
+198.35.26.96	es.wikipedia.org
+198.35.26.96	et.wikipedia.org
+198.35.26.96	eu.wikipedia.org
+198.35.26.96	ext.wikipedia.org
+198.35.26.96	fa.wikipedia.org
+198.35.26.96	ff.wikipedia.org
+198.35.26.96	fi.wikipedia.org
+198.35.26.96	fiu-vro.wikipedia.org
+198.35.26.96	fj.wikipedia.org
+198.35.26.96	fo.wikipedia.org
+198.35.26.96	fr.wikipedia.org
+198.35.26.96	frp.wikipedia.org
+198.35.26.96	frr.wikipedia.org
+198.35.26.96	fur.wikipedia.org
+198.35.26.96	fy.wikipedia.org
+198.35.26.96	ga.wikipedia.org
+198.35.26.96	gag.wikipedia.org
+198.35.26.96	gan.wikipedia.org
+198.35.26.96	gd.wikipedia.org
+198.35.26.96	gl.wikipedia.org
+198.35.26.96	glk.wikipedia.org
+198.35.26.96	gn.wikipedia.org
+198.35.26.96	got.wikipedia.org
+198.35.26.96	gu.wikipedia.org
+198.35.26.96	gv.wikipedia.org
+198.35.26.96	ha.wikipedia.org
+198.35.26.96	hak.wikipedia.org
+198.35.26.96	haw.wikipedia.org
+198.35.26.96	he.wikipedia.org
+198.35.26.96	hi.wikipedia.org
+198.35.26.96	hif.wikipedia.org
+198.35.26.96	hr.wikipedia.org
+198.35.26.96	hsb.wikipedia.org
+198.35.26.96	ht.wikipedia.org
+198.35.26.96	hu.wikipedia.org
+198.35.26.96	hy.wikipedia.org
+198.35.26.96	ia.wikipedia.org
+198.35.26.96	id.wikipedia.org
+198.35.26.96	ie.wikipedia.org
+198.35.26.96	ig.wikipedia.org
+198.35.26.96	ik.wikipedia.org
+198.35.26.96	ilo.wikipedia.org
+198.35.26.96	io.wikipedia.org
+198.35.26.96	is.wikipedia.org
+198.35.26.96	it.wikipedia.org
+198.35.26.96	iu.wikipedia.org
+198.35.26.96	ja.wikipedia.org
+198.35.26.96	ja.wikipedia.org
+198.35.26.96	jbo.wikipedia.org
+198.35.26.96	jv.wikipedia.org
+198.35.26.96	ka.wikipedia.org
+198.35.26.96	kaa.wikipedia.org
+198.35.26.96	kab.wikipedia.org
+198.35.26.96	kbd.wikipedia.org
+198.35.26.96	kg.wikipedia.org
+198.35.26.96	ki.wikipedia.org
+198.35.26.96	kk.wikipedia.org
+198.35.26.96	kl.wikipedia.org
+198.35.26.96	km.wikipedia.org
+198.35.26.96	kn.wikipedia.org
+198.35.26.96	ko.wikipedia.org
+198.35.26.96	koi.wikipedia.org
+198.35.26.96	krc.wikipedia.org
+198.35.26.96	ks.wikipedia.org
+198.35.26.96	ksh.wikipedia.org
+198.35.26.96	ku.wikipedia.org
+198.35.26.96	kv.wikipedia.org
+198.35.26.96	kw.wikipedia.org
+198.35.26.96	ky.wikipedia.org
+198.35.26.96	la.wikipedia.org
+198.35.26.96	lad.wikipedia.org
+198.35.26.96	lb.wikipedia.org
+198.35.26.96	lbe.wikipedia.org
+198.35.26.96	lez.wikipedia.org
+198.35.26.96	lg.wikipedia.org
+198.35.26.96	li.wikipedia.org
+198.35.26.96	lij.wikipedia.org
+198.35.26.96	lmo.wikipedia.org
+198.35.26.96	ln.wikipedia.org
+198.35.26.96	lo.wikipedia.org
+198.35.26.96	lt.wikipedia.org
+198.35.26.96	ltg.wikipedia.org
+198.35.26.96	lv.wikipedia.org
+198.35.26.96	map-bms.wikipedia.org
+198.35.26.96	mdf.wikipedia.org
+198.35.26.96	mg.wikipedia.org
+198.35.26.96	mhr.wikipedia.org
+198.35.26.96	mi.wikipedia.org
+198.35.26.96	mk.wikipedia.org
+198.35.26.96	ml.wikipedia.org
+198.35.26.96	mn.wikipedia.org
+198.35.26.96	mo.wikipedia.org
+198.35.26.96	mr.wikipedia.org
+198.35.26.96	mrj.wikipedia.org
+198.35.26.96	ms.wikipedia.org
+198.35.26.96	mt.wikipedia.org
+198.35.26.96	mwl.wikipedia.org
+198.35.26.96	my.wikipedia.org
+198.35.26.96	myv.wikipedia.org
+198.35.26.96	mzn.wikipedia.org
+198.35.26.96	na.wikipedia.org
+198.35.26.96	nah.wikipedia.org
+198.35.26.96	nap.wikipedia.org
+198.35.26.96	nds-nl.wikipedia.org
+198.35.26.96	nds.wikipedia.org
+198.35.26.96	ne.wikipedia.org
+198.35.26.96	new.wikipedia.org
+198.35.26.96	nov.wikipedia.org
+198.35.26.96	nrm.wikipedia.org
+198.35.26.96	nso.wikipedia.org
+198.35.26.96	nv.wikipedia.org
+198.35.26.96	ny.wikipedia.org
+198.35.26.96	oc.wikipedia.org
+198.35.26.96	om.wikipedia.org
+198.35.26.96	or.wikipedia.org
+198.35.26.96	os.wikipedia.org
+198.35.26.96	pa.wikipedia.org
+198.35.26.96	pag.wikipedia.org
+198.35.26.96	pam.wikipedia.org
+198.35.26.96	pap.wikipedia.org
+198.35.26.96	pcd.wikipedia.org
+198.35.26.96	pdc.wikipedia.org
+198.35.26.96	pfl.wikipedia.org
+198.35.26.96	pi.wikipedia.org
+198.35.26.96	pih.wikipedia.org
+198.35.26.96	pl.wikipedia.org
+198.35.26.96	pl.wikipedia.org
+198.35.26.96	pms.wikipedia.org
+198.35.26.96	pnb.wikipedia.org
+198.35.26.96	pnt.wikipedia.org
+198.35.26.96	ps.wikipedia.org
+198.35.26.96	pt.wikipedia.org
+198.35.26.96	pt.wikipedia.org
+198.35.26.96	qu.wikipedia.org
+198.35.26.96	rm.wikipedia.org
+198.35.26.96	rmy.wikipedia.org
+198.35.26.96	rn.wikipedia.org
+198.35.26.96	ro.wikipedia.org
+198.35.26.96	roa-rup.wikipedia.org
+198.35.26.96	roa-tara.wikipedia.org
+198.35.26.96	ru.wikipedia.org
+198.35.26.96	rue.wikipedia.org
+198.35.26.96	rw.wikipedia.org
+198.35.26.96	sa.wikipedia.org
+198.35.26.96	sah.wikipedia.org
+198.35.26.96	sc.wikipedia.org
+198.35.26.96	scn.wikipedia.org
+198.35.26.96	sco.wikipedia.org
+198.35.26.96	sd.wikipedia.org
+198.35.26.96	se.wikipedia.org
+198.35.26.96	sg.wikipedia.org
+198.35.26.96	sh.wikipedia.org
+198.35.26.96	si.wikipedia.org
+198.35.26.96	simple.wikipedia.org
+198.35.26.96	sk.wikipedia.org
+198.35.26.96	sl.wikipedia.org
+198.35.26.96	sm.wikipedia.org
+198.35.26.96	sn.wikipedia.org
+198.35.26.96	so.wikipedia.org
+198.35.26.96	sq.wikipedia.org
+198.35.26.96	sr.wikipedia.org
+198.35.26.96	srn.wikipedia.org
+198.35.26.96	ss.wikipedia.org
+198.35.26.96	st.wikipedia.org
+198.35.26.96	stq.wikipedia.org
+198.35.26.96	su.wikipedia.org
+198.35.26.96	sv.wikipedia.org
+198.35.26.96	sw.wikipedia.org
+198.35.26.96	szl.wikipedia.org
+198.35.26.96	ta.wikipedia.org
+198.35.26.96	te.wikipedia.org
+198.35.26.96	tet.wikipedia.org
+198.35.26.96	tg.wikipedia.org
+198.35.26.96	th.wikipedia.org
+198.35.26.96	ti.wikipedia.org
+198.35.26.96	tk.wikipedia.org
+198.35.26.96	tl.wikipedia.org
+198.35.26.96	tn.wikipedia.org
+198.35.26.96	to.wikipedia.org
+198.35.26.96	tpi.wikipedia.org
+198.35.26.96	tr.wikipedia.org
+198.35.26.96	ts.wikipedia.org
+198.35.26.96	tt.wikipedia.org
+198.35.26.96	tum.wikipedia.org
+198.35.26.96	tw.wikipedia.org
+198.35.26.96	ty.wikipedia.org
+198.35.26.96	udm.wikipedia.org
+198.35.26.96	ug.wikipedia.org
+198.35.26.96	uk.wikipedia.org
+198.35.26.96	ur.wikipedia.org
+198.35.26.96	uz.wikipedia.org
+198.35.26.96	ve.wikipedia.org
+198.35.26.96	vec.wikipedia.org
+198.35.26.96	vep.wikipedia.org
+198.35.26.96	vi.wikipedia.org
+198.35.26.96	vls.wikipedia.org
+198.35.26.96	vo.wikipedia.org
+198.35.26.96	wa.wikipedia.org
+198.35.26.96	war.wikipedia.org
+198.35.26.96	wo.wikipedia.org
+198.35.26.96	wuu.wikipedia.org
+198.35.26.96	xal.wikipedia.org
+198.35.26.96	xh.wikipedia.org
+198.35.26.96	xmf.wikipedia.org
+198.35.26.96	yi.wikipedia.org
+198.35.26.96	yo.wikipedia.org
+198.35.26.96	za.wikipedia.org
+198.35.26.96	zea.wikipedia.org
+198.35.26.96	zh-classical.wikipedia.org
+198.35.26.96	zh-min-nan.wikipedia.org
+198.35.26.96	zh-yue.wikipedia.org
+198.35.26.96	zh.wikipedia.org
+198.35.26.96	zu.wikipedia.org
+198.35.26.108	ab.m.wikipedia.org
+198.35.26.108	ace.m.wikipedia.org
+198.35.26.108	af.m.wikipedia.org
+198.35.26.108	ak.m.wikipedia.org
+198.35.26.108	als.m.wikipedia.org
+198.35.26.108	am.m.wikipedia.org
+198.35.26.108	an.m.wikipedia.org
+198.35.26.108	ang.m.wikipedia.org
+198.35.26.108	ar.m.wikipedia.org
+198.35.26.108	arc.m.wikipedia.org
+198.35.26.108	arz.m.wikipedia.org
+198.35.26.108	as.m.wikipedia.org
+198.35.26.108	ast.m.wikipedia.org
+198.35.26.108	av.m.wikipedia.org
+198.35.26.108	ay.m.wikipedia.org
+198.35.26.108	az.m.wikipedia.org
+198.35.26.108	ba.m.wikipedia.org
+198.35.26.108	bar.m.wikipedia.org
+198.35.26.108	bat-smg.m.wikipedia.org
+198.35.26.108	bcl.m.wikipedia.org
+198.35.26.108	bg.m.wikipedia.org
+198.35.26.108	bh.m.wikipedia.org
+198.35.26.108	bi.m.wikipedia.org
+198.35.26.108	bjn.m.wikipedia.org
+198.35.26.108	bm.m.wikipedia.org
+198.35.26.108	bn.m.wikipedia.org
+198.35.26.108	bo.m.wikipedia.org
+198.35.26.108	bpy.m.wikipedia.org
+198.35.26.108	br.m.wikipedia.org
+198.35.26.108	bs.m.wikipedia.org
+198.35.26.108	bug.m.wikipedia.org
+198.35.26.108	bxr.m.wikipedia.org
+198.35.26.108	ca.m.wikipedia.org
+198.35.26.108	cbk-zam.m.wikipedia.org
+198.35.26.108	cdo.m.wikipedia.org
+198.35.26.108	ce.m.wikipedia.org
+198.35.26.108	ceb.m.wikipedia.org
+198.35.26.108	ch.m.wikipedia.org
+198.35.26.108	chr.m.wikipedia.org
+198.35.26.108	chy.m.wikipedia.org
+198.35.26.108	ckb.m.wikipedia.org
+198.35.26.108	co.m.wikipedia.org
+198.35.26.108	cr.m.wikipedia.org
+198.35.26.108	crh.m.wikipedia.org
+198.35.26.108	cs.m.wikipedia.org
+198.35.26.108	csb.m.wikipedia.org
+198.35.26.108	cu.m.wikipedia.org
+198.35.26.108	cv.m.wikipedia.org
+198.35.26.108	cy.m.wikipedia.org
+198.35.26.108	da.m.wikipedia.org
+198.35.26.108	de.m.wikipedia.org
+198.35.26.108	diq.m.wikipedia.org
+198.35.26.108	dsb.m.wikipedia.org
+198.35.26.108	dv.m.wikipedia.org
+198.35.26.108	dz.m.wikipedia.org
+198.35.26.108	ee.m.wikipedia.org
+198.35.26.108	el.m.wikipedia.org
+198.35.26.108	eml.m.wikipedia.org
+198.35.26.108	en.m.wikipedia.org
+198.35.26.108	eo.m.wikipedia.org
+198.35.26.108	es.m.wikipedia.org
+198.35.26.108	et.m.wikipedia.org
+198.35.26.108	eu.m.wikipedia.org
+198.35.26.108	ext.m.wikipedia.org
+198.35.26.108	fa.m.wikipedia.org
+198.35.26.108	ff.m.wikipedia.org
+198.35.26.108	fi.m.wikipedia.org
+198.35.26.108	fiu-vro.m.wikipedia.org
+198.35.26.108	fj.m.wikipedia.org
+198.35.26.108	fo.m.wikipedia.org
+198.35.26.108	fr.m.wikipedia.org
+198.35.26.108	frp.m.wikipedia.org
+198.35.26.108	frr.m.wikipedia.org
+198.35.26.108	fur.m.wikipedia.org
+198.35.26.108	fy.m.wikipedia.org
+198.35.26.108	ga.m.wikipedia.org
+198.35.26.108	gag.m.wikipedia.org
+198.35.26.108	gan.m.wikipedia.org
+198.35.26.108	gd.m.wikipedia.org
+198.35.26.108	gl.m.wikipedia.org
+198.35.26.108	glk.m.wikipedia.org
+198.35.26.108	gn.m.wikipedia.org
+198.35.26.108	got.m.wikipedia.org
+198.35.26.108	gu.m.wikipedia.org
+198.35.26.108	gv.m.wikipedia.org
+198.35.26.108	ha.m.wikipedia.org
+198.35.26.108	hak.m.wikipedia.org
+198.35.26.108	haw.m.wikipedia.org
+198.35.26.108	he.m.wikipedia.org
+198.35.26.108	hi.m.wikipedia.org
+198.35.26.108	hif.m.wikipedia.org
+198.35.26.108	hr.m.wikipedia.org
+198.35.26.108	hsb.m.wikipedia.org
+198.35.26.108	ht.m.wikipedia.org
+198.35.26.108	hu.m.wikipedia.org
+198.35.26.108	hy.m.wikipedia.org
+198.35.26.108	ia.m.wikipedia.org
+198.35.26.108	id.m.wikipedia.org
+198.35.26.108	ie.m.wikipedia.org
+198.35.26.108	ig.m.wikipedia.org
+198.35.26.108	ik.m.wikipedia.org
+198.35.26.108	ilo.m.wikipedia.org
+198.35.26.108	io.m.wikipedia.org
+198.35.26.108	is.m.wikipedia.org
+198.35.26.108	it.m.wikipedia.org
+198.35.26.108	iu.m.wikipedia.org
+198.35.26.108	ja.m.wikipedia.org
+198.35.26.108	ja.m.wikipedia.org
+198.35.26.108	jbo.m.wikipedia.org
+198.35.26.108	jv.m.wikipedia.org
+198.35.26.108	ka.m.wikipedia.org
+198.35.26.108	kaa.m.wikipedia.org
+198.35.26.108	kab.m.wikipedia.org
+198.35.26.108	kbd.m.wikipedia.org
+198.35.26.108	kg.m.wikipedia.org
+198.35.26.108	ki.m.wikipedia.org
+198.35.26.108	kk.m.wikipedia.org
+198.35.26.108	kl.m.wikipedia.org
+198.35.26.108	km.m.wikipedia.org
+198.35.26.108	kn.m.wikipedia.org
+198.35.26.108	ko.m.wikipedia.org
+198.35.26.108	koi.m.wikipedia.org
+198.35.26.108	krc.m.wikipedia.org
+198.35.26.108	ks.m.wikipedia.org
+198.35.26.108	ksh.m.wikipedia.org
+198.35.26.108	ku.m.wikipedia.org
+198.35.26.108	kv.m.wikipedia.org
+198.35.26.108	kw.m.wikipedia.org
+198.35.26.108	ky.m.wikipedia.org
+198.35.26.108	la.m.wikipedia.org
+198.35.26.108	lad.m.wikipedia.org
+198.35.26.108	lb.m.wikipedia.org
+198.35.26.108	lbe.m.wikipedia.org
+198.35.26.108	lez.m.wikipedia.org
+198.35.26.108	lg.m.wikipedia.org
+198.35.26.108	li.m.wikipedia.org
+198.35.26.108	lij.m.wikipedia.org
+198.35.26.108	lmo.m.wikipedia.org
+198.35.26.108	ln.m.wikipedia.org
+198.35.26.108	lo.m.wikipedia.org
+198.35.26.108	lt.m.wikipedia.org
+198.35.26.108	ltg.m.wikipedia.org
+198.35.26.108	lv.m.wikipedia.org
+198.35.26.108	map-bms.m.wikipedia.org
+198.35.26.108	mdf.m.wikipedia.org
+198.35.26.108	mg.m.wikipedia.org
+198.35.26.108	mhr.m.wikipedia.org
+198.35.26.108	mi.m.wikipedia.org
+198.35.26.108	mk.m.wikipedia.org
+198.35.26.108	ml.m.wikipedia.org
+198.35.26.108	mn.m.wikipedia.org
+198.35.26.108	mo.m.wikipedia.org
+198.35.26.108	mr.m.wikipedia.org
+198.35.26.108	mrj.m.wikipedia.org
+198.35.26.108	ms.m.wikipedia.org
+198.35.26.108	mt.m.wikipedia.org
+198.35.26.108	mwl.m.wikipedia.org
+198.35.26.108	my.m.wikipedia.org
+198.35.26.108	myv.m.wikipedia.org
+198.35.26.108	mzn.m.wikipedia.org
+198.35.26.108	na.m.wikipedia.org
+198.35.26.108	nah.m.wikipedia.org
+198.35.26.108	nap.m.wikipedia.org
+198.35.26.108	nds-nl.m.wikipedia.org
+198.35.26.108	nds.m.wikipedia.org
+198.35.26.108	ne.m.wikipedia.org
+198.35.26.108	new.m.wikipedia.org
+198.35.26.108	nov.m.wikipedia.org
+198.35.26.108	nrm.m.wikipedia.org
+198.35.26.108	nso.m.wikipedia.org
+198.35.26.108	nv.m.wikipedia.org
+198.35.26.108	ny.m.wikipedia.org
+198.35.26.108	oc.m.wikipedia.org
+198.35.26.108	om.m.wikipedia.org
+198.35.26.108	or.m.wikipedia.org
+198.35.26.108	os.m.wikipedia.org
+198.35.26.108	pa.m.wikipedia.org
+198.35.26.108	pag.m.wikipedia.org
+198.35.26.108	pam.m.wikipedia.org
+198.35.26.108	pap.m.wikipedia.org
+198.35.26.108	pcd.m.wikipedia.org
+198.35.26.108	pdc.m.wikipedia.org
+198.35.26.108	pfl.m.wikipedia.org
+198.35.26.108	pi.m.wikipedia.org
+198.35.26.108	pih.m.wikipedia.org
+198.35.26.108	pl.m.wikipedia.org
+198.35.26.108	pl.m.wikipedia.org
+198.35.26.108	pms.m.wikipedia.org
+198.35.26.108	pnb.m.wikipedia.org
+198.35.26.108	pnt.m.wikipedia.org
+198.35.26.108	ps.m.wikipedia.org
+198.35.26.108	pt.m.wikipedia.org
+198.35.26.108	pt.m.wikipedia.org
+198.35.26.108	qu.m.wikipedia.org
+198.35.26.108	rm.m.wikipedia.org
+198.35.26.108	rmy.m.wikipedia.org
+198.35.26.108	rn.m.wikipedia.org
+198.35.26.108	ro.m.wikipedia.org
+198.35.26.108	roa-rup.m.wikipedia.org
+198.35.26.108	roa-tara.m.wikipedia.org
+198.35.26.108	ru.m.wikipedia.org
+198.35.26.108	rue.m.wikipedia.org
+198.35.26.108	rw.m.wikipedia.org
+198.35.26.108	sa.m.wikipedia.org
+198.35.26.108	sah.m.wikipedia.org
+198.35.26.108	sc.m.wikipedia.org
+198.35.26.108	scn.m.wikipedia.org
+198.35.26.108	sco.m.wikipedia.org
+198.35.26.108	sd.m.wikipedia.org
+198.35.26.108	se.m.wikipedia.org
+198.35.26.108	sg.m.wikipedia.org
+198.35.26.108	sh.m.wikipedia.org
+198.35.26.108	si.m.wikipedia.org
+198.35.26.108	simple.m.wikipedia.org
+198.35.26.108	sk.m.wikipedia.org
+198.35.26.108	sl.m.wikipedia.org
+198.35.26.108	sm.m.wikipedia.org
+198.35.26.108	sn.m.wikipedia.org
+198.35.26.108	so.m.wikipedia.org
+198.35.26.108	sq.m.wikipedia.org
+198.35.26.108	sr.m.wikipedia.org
+198.35.26.108	srn.m.wikipedia.org
+198.35.26.108	ss.m.wikipedia.org
+198.35.26.108	st.m.wikipedia.org
+198.35.26.108	stq.m.wikipedia.org
+198.35.26.108	su.m.wikipedia.org
+198.35.26.108	sv.m.wikipedia.org
+198.35.26.108	sw.m.wikipedia.org
+198.35.26.108	szl.m.wikipedia.org
+198.35.26.108	ta.m.wikipedia.org
+198.35.26.108	te.m.wikipedia.org
+198.35.26.108	tet.m.wikipedia.org
+198.35.26.108	tg.m.wikipedia.org
+198.35.26.108	th.m.wikipedia.org
+198.35.26.108	ti.m.wikipedia.org
+198.35.26.108	tk.m.wikipedia.org
+198.35.26.108	tl.m.wikipedia.org
+198.35.26.108	tn.m.wikipedia.org
+198.35.26.108	to.m.wikipedia.org
+198.35.26.108	tpi.m.wikipedia.org
+198.35.26.108	tr.m.wikipedia.org
+198.35.26.108	ts.m.wikipedia.org
+198.35.26.108	tt.m.wikipedia.org
+198.35.26.108	tum.m.wikipedia.org
+198.35.26.108	tw.m.wikipedia.org
+198.35.26.108	ty.m.wikipedia.org
+198.35.26.108	udm.m.wikipedia.org
+198.35.26.108	ug.m.wikipedia.org
+198.35.26.108	uk.m.wikipedia.org
+198.35.26.108	ur.m.wikipedia.org
+198.35.26.108	uz.m.wikipedia.org
+198.35.26.108	ve.m.wikipedia.org
+198.35.26.108	vec.m.wikipedia.org
+198.35.26.108	vep.m.wikipedia.org
+198.35.26.108	vi.m.wikipedia.org
+198.35.26.108	vls.m.wikipedia.org
+198.35.26.108	vo.m.wikipedia.org
+198.35.26.108	wa.m.wikipedia.org
+198.35.26.108	war.m.wikipedia.org
+198.35.26.108	wo.m.wikipedia.org
+198.35.26.108	wuu.m.wikipedia.org
+198.35.26.108	xal.m.wikipedia.org
+198.35.26.108	xh.m.wikipedia.org
+198.35.26.108	xmf.m.wikipedia.org
+198.35.26.108	yi.m.wikipedia.org
+198.35.26.108	yo.m.wikipedia.org
+198.35.26.108	za.m.wikipedia.org
+198.35.26.108	zea.m.wikipedia.org
+198.35.26.108	zh-classical.m.wikipedia.org
+198.35.26.108	zh-min-nan.m.wikipedia.org
+198.35.26.108	zh-yue.m.wikipedia.org
+198.35.26.108	zh.m.wikipedia.org
+198.35.26.108	zu.m.wikipedia.org
+198.35.26.96	www.mediawiki.org
+198.35.26.96	www.wikibooks.org
+198.35.26.96	www.wikidata.org
+198.35.26.96	www.wikimedia.org
+198.35.26.96	www.wikimediafoundation.org
+198.35.26.96	www.wikinews.org
+198.35.26.96	www.wikipedia.org
+198.35.26.96	www.wikiquote.org
+198.35.26.96	www.wikisource.org
+198.35.26.96	www.wikiversity.org
+198.35.26.96	www.wikivoyage.org
+198.35.26.96	www.wiktionary.org
+198.35.26.96	m.mediawiki.org
+198.35.26.96	m.wikibooks.org
+198.35.26.96	m.wikidata.org
+198.35.26.96	m.wikimedia.org
+198.35.26.96	m.wikimediafoundation.org
+198.35.26.96	m.wikinews.org
+198.35.26.96	m.wikipedia.org
+198.35.26.96	m.wikiquote.org
+198.35.26.96	m.wikisource.org
+198.35.26.96	m.wikiversity.org
+198.35.26.96	m.wikivoyage.org
+198.35.26.96	m.wiktionary.org
+198.35.26.96	mediawiki.org
+198.35.26.96	wikibooks.org
+198.35.26.96	wikidata.org
+198.35.26.96	wikimedia.org
+198.35.26.96	wikimediafoundation.org
+198.35.26.96	wikinews.org
+198.35.26.96	wikipedia.org
+198.35.26.96	wikiquote.org
+198.35.26.96	wikisource.org
+198.35.26.96	wikiversity.org
+198.35.26.96	wikivoyage.org
+198.35.26.96	wiktionary.org
+
+
+#https://github.com/catbb49294929/samecho_hosts
+#Hosts更新QQ群:162157583|资源分享
+
+
+#WordPress
+66.155.11.243 wordpress.com
+72.21.91.111 i0.wp.com
+72.21.91.111 i1.wp.com
+192.0.77.2 i2.wp.com
+72.21.91.111 s0.wp.com
+72.21.91.111 s1.wp.com
+68.232.44.111 s2.wp.com
+68.232.44.111 s.wordpress.org
+68.232.44.111 s.wordpress.com
+68.232.44.111 s1.wordpress.com
+68.232.44.111 s2.wordpress.com
+68.232.44.111 s3.wordpress.com
+68.232.44.119 s.stats.wordpress.com
+66.155.9.238 lb.wordpress.com
+66.155.9.238 zh.wordpress.com
+66.155.9.238 zh-sg.wordpress.com
+66.155.9.238 zh-cn.wordpress.com
+66.155.9.238 dashboard.wordpress.com
+66.155.9.238 forums.wordpress.com
+66.155.9.238 en.forums.wordpress.com
+66.155.9.238 en.blog.wordpress.com
+66.155.9.238 stats.wordpress.com
+66.155.9.238 wpcom.wordpress.com
+66.155.9.238 lucifr.wordpress.com
+192.0.81.250 botd2.wordpress.com
+192.0.81.250 r-login.wordpress.com
+
+
+#https://github.com/catbb49294929/samecho_hosts
+#Hosts更新QQ群:162157583|资源分享
+
+
+# XDA developers
+207.244.73.44 www.xda-developers.com
+207.244.73.44 xda-developers.com
+174.129.2.23 cdn.xda-developers.com
+192.229.144.96 cdn1.xda-developers.com #cs261.wac.edgecastcdn.net
+192.229.144.96 cdn2.xda-developers.com #cs261.wac.edgecastcdn.net
+192.229.144.96 cdn3.xda-developers.com #cs261.wac.edgecastcdn.net
+192.229.144.96 cdn4.xda-developers.com #cs261.wac.edgecastcdn.net
+192.229.144.96 cdn-www.xda-developers.com #cs261.wac.edgecastcdn.net
+192.229.144.96 cs261.wac.edgecastcdn.net
+68.232.44.229 cdn.www.xda-developers.com #gs1.wac.v3cdn.net
+68.232.44.229 wac.8244.edgecastcdn.net #gs1.wac.v3cdn.net
+
+
+#https://github.com/catbb49294929/samecho_hosts
+#Hosts更新QQ群:162157583|资源分享
+
+
+# YouTube
+116.251.217.198 youtube.com
+116.251.217.198 www.youtube.com #youtube-ui.l.google.com
+127.0.0.1 ads.youtube.com #www3.l.google.com
+116.251.217.198 www.youtube-nocookie.com #youtube-ui.l.google.com
+116.251.217.198 m.youtube.com
+216.58.221.51 youtu.be
+216.58.221.51 gdata.youtube.com
+64.233.189.122 stage.gdata.youtube.com
+216.58.221.51 s.youtube.com #video-stats.l.google.com
+#2607:f8b0:4007:805::100e s2.youtube.com
+216.58.221.51 accounts.youtube.com #www3.l.google.com
+216.58.221.51 img.youtube.com #ytimg.l.google.com
+64.233.189.99 help.youtube.com
+64.233.189.122 upload.youtube.com #yt-video-upload.l.google.com
+64.233.189.122 uploads.stage.gdata.youtube.com #yt-video-upload.l.google.com
+216.58.221.51 insight.youtube.com #video-analytics.l.google.com
+64.233.189.121 apiblog.youtube.com #ghs.l.google.com
+#2404:6800:4008:c00::64 clients1.youtube.com
+216.58.221.51 i.ytimg.com #ytimg.l.google.com
+216.58.221.51 i1.ytimg.com #ytimg.l.google.com
+216.58.221.51 i2.ytimg.com #ytimg.l.google.com
+216.58.221.51 i3.ytimg.com #ytimg.l.google.com
+216.58.221.51 i4.ytimg.com #ytimg.l.google.com
+216.58.221.51 s.ytimg.com #ytstatic.l.google.com
+# Google Video
+216.58.221.51 video.google.com #video.l.google.com
+216.58.221.51 video.google.com.hk #video.l.google.com
+216.58.221.51 video.google.com.tw #video.l.google.com
+216.58.221.51 0.gvt0.com #video-thumbnails.l.google.com
+216.58.221.51 1.gvt0.com #video-thumbnails.l.google.com
+216.58.221.51 2.gvt0.com #video-thumbnails.l.google.com
+216.58.221.51 3.gvt0.com #video-thumbnails.l.google.com
+216.58.221.51 4.gvt0.com #video-thumbnails.l.google.com
+216.58.221.51 5.gvt0.com #video-thumbnails.l.google.com
+64.233.189.122 upload.video.google.com #sslvideo-upload.l.google.com
+216.58.221.51 video-stats.video.google.com #video-stats.l.google.com
+116.251.217.198 manifest.googlevideo.com
+# c.youtube.com和googlevideo.com指向的IP相同
+116.251.217.198 redirector.googlevideo.com
+
+
