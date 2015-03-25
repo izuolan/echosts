@@ -4,6 +4,7 @@ Google、Youtube、XDA、Wikipedia、Facebook、Instagram、Twitter、Flickr、D
 
 ##Download
 [Download](https://github.com/catbb49294929/samecho_hosts/archive/master.zip)
+[More](http://levi.cg.am/test/hosts/rander)
 
 
 ##Usage
