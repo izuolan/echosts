@@ -1450,7 +1450,10 @@
 #Hosts更新QQ群:162157583|资源分享
 
 
-# Google.com
+#google hosts 
+#base services
+#61.19.1.12
+#173.194.64.164
 64.233.169.191    google.com
 64.233.169.191    www.google.com
 64.233.169.191    m.google.com
@@ -2136,7 +2139,6 @@
 64.233.169.191    golang.org 
 64.233.169.191    play.golang.org 
 64.233.169.191 www.webrtc.org
-#google android end
 
 
 #https://github.com/catbb49294929/samecho_hosts
@@ -3103,37 +3105,37 @@
 127.0.0.1 ads.youtube.com #www3.l.google.com
 116.251.217.198 www.youtube-nocookie.com #youtube-ui.l.google.com
 116.251.217.198 m.youtube.com
-216.58.221.51 youtu.be
-216.58.221.51 gdata.youtube.com
+61.19.1.12 youtu.be
+61.19.1.12 gdata.youtube.com
 64.233.189.122 stage.gdata.youtube.com
-216.58.221.51 s.youtube.com #video-stats.l.google.com
+61.19.1.12 s.youtube.com #video-stats.l.google.com
 #2607:f8b0:4007:805::100e s2.youtube.com
-216.58.221.51 accounts.youtube.com #www3.l.google.com
-216.58.221.51 img.youtube.com #ytimg.l.google.com
+61.19.1.12 accounts.youtube.com #www3.l.google.com
+61.19.1.12 img.youtube.com #ytimg.l.google.com
 64.233.189.99 help.youtube.com
 64.233.189.122 upload.youtube.com #yt-video-upload.l.google.com
 64.233.189.122 uploads.stage.gdata.youtube.com #yt-video-upload.l.google.com
-216.58.221.51 insight.youtube.com #video-analytics.l.google.com
+61.19.1.12 insight.youtube.com #video-analytics.l.google.com
 64.233.189.121 apiblog.youtube.com #ghs.l.google.com
 #2404:6800:4008:c00::64 clients1.youtube.com
-216.58.221.51 i.ytimg.com #ytimg.l.google.com
-216.58.221.51 i1.ytimg.com #ytimg.l.google.com
-216.58.221.51 i2.ytimg.com #ytimg.l.google.com
-216.58.221.51 i3.ytimg.com #ytimg.l.google.com
-216.58.221.51 i4.ytimg.com #ytimg.l.google.com
-216.58.221.51 s.ytimg.com #ytstatic.l.google.com
+61.19.1.12 i.ytimg.com #ytimg.l.google.com
+61.19.1.12 i1.ytimg.com #ytimg.l.google.com
+61.19.1.12 i2.ytimg.com #ytimg.l.google.com
+61.19.1.12 i3.ytimg.com #ytimg.l.google.com
+61.19.1.12 i4.ytimg.com #ytimg.l.google.com
+61.19.1.12 s.ytimg.com #ytstatic.l.google.com
 # Google Video
-216.58.221.51 video.google.com #video.l.google.com
-216.58.221.51 video.google.com.hk #video.l.google.com
-216.58.221.51 video.google.com.tw #video.l.google.com
-216.58.221.51 0.gvt0.com #video-thumbnails.l.google.com
-216.58.221.51 1.gvt0.com #video-thumbnails.l.google.com
-216.58.221.51 2.gvt0.com #video-thumbnails.l.google.com
-216.58.221.51 3.gvt0.com #video-thumbnails.l.google.com
-216.58.221.51 4.gvt0.com #video-thumbnails.l.google.com
-216.58.221.51 5.gvt0.com #video-thumbnails.l.google.com
+61.19.1.12 video.google.com #video.l.google.com
+61.19.1.12 video.google.com.hk #video.l.google.com
+61.19.1.12 video.google.com.tw #video.l.google.com
+61.19.1.12 0.gvt0.com #video-thumbnails.l.google.com
+61.19.1.12 1.gvt0.com #video-thumbnails.l.google.com
+61.19.1.12 2.gvt0.com #video-thumbnails.l.google.com
+61.19.1.12 3.gvt0.com #video-thumbnails.l.google.com
+61.19.1.12 4.gvt0.com #video-thumbnails.l.google.com
+61.19.1.12 5.gvt0.com #video-thumbnails.l.google.com
 64.233.189.122 upload.video.google.com #sslvideo-upload.l.google.com
-216.58.221.51 video-stats.video.google.com #video-stats.l.google.com
+61.19.1.12 video-stats.video.google.com #video-stats.l.google.com
 116.251.217.198 manifest.googlevideo.com
 # c.youtube.com和googlevideo.com指向的IP相同
 116.251.217.198 redirector.googlevideo.com

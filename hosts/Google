@@ -2,7 +2,10 @@
 #Hosts更新QQ群:162157583|资源分享
 
 
-# Google.com
+#google hosts 
+#base services
+#61.19.1.12
+#173.194.64.164
 64.233.169.191    google.com
 64.233.169.191    www.google.com
 64.233.169.191    m.google.com
@@ -688,7 +691,5 @@
 64.233.169.191    golang.org 
 64.233.169.191    play.golang.org 
 64.233.169.191 www.webrtc.org
-#google android end
-#google hosts 2015 end
 
 
