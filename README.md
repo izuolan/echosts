@@ -1,10 +1,11 @@
 ##About Samecho_hosts
-Google、Youtube、XDA、Wikipedia、Facebook、Instagram、Twitter、Flickr、Dropbox、Vimeo、Onedrive、Mozilla、Yahoo、500px、Tumblr、Gravatar、Deviantart、WordPress.com、Live.com、Soundcloud、Box.com、Amazonaws、Feedly、FlipBoard、Imgur、DuckDuckGo、Ixquick、Page、Typekit、Edgecast、V2ex、Anzhi、More CDN....
-
-##Update
-
+Google、Youtube、XDA、Wikipedia、Facebook、Instagram、<s>**Twitter**</s>、Flickr、<s>**Dropbox**</s>、Vimeo、Onedrive、Mozilla、Yahoo、500px、Tumblr、Gravatar、Deviantart、WordPress.com、Live.com、Soundcloud、Box.com、Amazonaws、Feedly、FlipBoard、Imgur、DuckDuckGo、Ixquick、Page、Typekit、Edgecast、V2ex、Anzhi、More CDN....
 
 [Download](https://github.com/catbb49294929/samecho_hosts/archive/master.zip)
+
+
+##Update Explain
+Delete the line means the web site has not yet been restored
 
 
 ##Usage
