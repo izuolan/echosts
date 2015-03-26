@@ -31,5 +31,8 @@ If you change the hosts remains inaccessible, can force the browser to use `http
 
 #More hosts
 [360KB](http://www.360kb.com/kb/2_122.html)
+
 [Netsh](serve.netsh.org/pub/ipv4-hosts/)
+
 [Yadgen](http://blog.yadgen.com/?page_id=585)
+
