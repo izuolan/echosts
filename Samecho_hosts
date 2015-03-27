@@ -3457,6 +3457,10 @@ www.googlechinawebmaster.com www.googlechinawebmaster.com
 68.232.44.229 cdn.www.xda-developers.com #gs1.wac.v3cdn.net
 68.232.44.229 wac.8244.edgecastcdn.net #gs1.wac.v3cdn.net
 
+#https://github.com/catbb49294929/samecho_hosts
+#Hosts更新QQ群:162157583|资源分享
+
+
 # YouTube
 106.186.124.91 youtube.com
 106.186.124.91 www.youtube.com #youtube-ui.l.google.com
@@ -3497,51 +3501,4 @@ www.googlechinawebmaster.com www.googlechinawebmaster.com
 106.186.124.91 manifest.googlevideo.com
 # c.youtube.com和googlevideo.com指向的IP相同
 106.186.124.91 redirector.googlevideo.com
-
-﻿#https://github.com/catbb49294929/samecho_hosts
-#Hosts更新QQ群:162157583|资源分享
-
-
-## YouTube
-69.85.93.64 youtube.com
-69.85.93.64 www.youtube.com #youtube-ui.l.google.com
-127.0.0.1 ads.youtube.com #www3.l.google.com
-69.85.93.64 www.youtube-nocookie.com #youtube-ui.l.google.com
-69.85.93.64 m.youtube.com
-210.242.127.20 youtu.be
-210.242.127.20 gdata.youtube.com
-210.242.127.20 stage.gdata.youtube.com
-210.242.127.20 s.youtube.com #video-stats.l.google.com
-#2607:f8b0:4007:805::100e s2.youtube.com
-210.242.127.20 accounts.youtube.com #www3.l.google.com
-210.242.127.20 img.youtube.com #ytimg.l.google.com
-210.242.127.20 help.youtube.com
-210.242.127.20 upload.youtube.com #yt-video-upload.l.google.com
-210.242.127.20 uploads.stage.gdata.youtube.com #yt-video-upload.l.google.com
-210.242.127.20 insight.youtube.com #video-analytics.l.google.com
-64.233.189.121 apiblog.youtube.com #ghs.l.google.com
-#2404:6800:4008:c00::64 clients1.youtube.com
-210.242.127.20 i.ytimg.com #ytimg.l.google.com
-210.242.127.20 i1.ytimg.com #ytimg.l.google.com
-210.242.127.20 i2.ytimg.com #ytimg.l.google.com
-210.242.127.20 i3.ytimg.com #ytimg.l.google.com
-210.242.127.20 i4.ytimg.com #ytimg.l.google.com
-210.242.127.20 s.ytimg.com #ytstatic.l.google.com
-## Google Video
-2404:6800:4005:807::1009 redirector.c.youtube.com
-210.242.127.20 video.google.com #video.l.google.com
-210.242.127.20 video.google.com.hk #video.l.google.com
-210.242.127.20 video.google.com.tw #video.l.google.com
-210.242.127.20 0.gvt0.com #video-thumbnails.l.google.com
-210.242.127.20 1.gvt0.com #video-thumbnails.l.google.com
-210.242.127.20 2.gvt0.com #video-thumbnails.l.google.com
-210.242.127.20 3.gvt0.com #video-thumbnails.l.google.com
-210.242.127.20 4.gvt0.com #video-thumbnails.l.google.com
-210.242.127.20 5.gvt0.com #video-thumbnails.l.google.com
-210.242.127.20 upload.video.google.com #sslvideo-upload.l.google.com
-210.242.127.20 video-stats.video.google.com #video-stats.l.google.com
-69.85.93.64 manifest.googlevideo.com
-## c.youtube.com和googlevideo.com指向的IP相同
-210.242.127.20 redirector.googlevideo.com
-
 
