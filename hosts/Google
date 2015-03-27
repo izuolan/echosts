@@ -3,6 +3,8 @@
 
 
 ## Google.com
+69.85.93.64 redirector.gvt1.com
+210.242.127.20 keep.google.com
 210.242.127.20 connectivitycheck.android.com
 210.242.127.20 myaccount.google.com
 210.242.127.20 checkout.google.com
@@ -672,22 +674,22 @@ www.googlechinawebmaster.com www.googlechinawebmaster.com
 ## Google APIs 开发接口服务
 210.242.127.20 apis.google.com #plus.l.google.com
 210.242.127.20 chart.apis.google.com #clients.l.google.com
-210.242.127.93 mclients.googleapis.com
-210.242.127.93 googleapis.com
-210.242.127.93 www.googleapis.com #googleapis.l.google.com
-210.242.127.93 *.googleapis.com #googleapis.l.google.com
-210.242.127.93 ajax.googleapis.com #googleapis.l.google.com
-210.242.127.93 android.googleapis.com #googleapis.l.google.com
-210.242.127.93 bigcache.googleapis.com #googleapis.l.google.com
-210.242.127.93 chart.googleapis.com #googleapis.l.google.com
-210.242.127.93 content.googleapis.com #googleapis.l.google.com
-210.242.127.93 fonts.googleapis.com #googleapis.l.google.com
-210.242.127.93 maps.googleapis.com #googleapis.l.google.com
-210.242.127.93 play.googleapis.com #googleapis.l.google.com
-210.242.127.93 plus.googleapis.com #googleapis.l.google.com
-210.242.127.93 redirector-bigcache.googleapis.com #googleapis.l.google.com
-210.242.127.93 translate.googleapis.com #googleapis.l.google.com
-210.242.127.93 youtube.googleapis.com #googleapis.l.google.com
+45.62.97.42 mclients.googleapis.com
+45.62.97.42 googleapis.com
+45.62.97.42 www.googleapis.com #googleapis.l.google.com
+45.62.97.42 *.googleapis.com #googleapis.l.google.com
+45.62.97.42 ajax.googleapis.com #googleapis.l.google.com
+45.62.97.42 android.googleapis.com #googleapis.l.google.com
+45.62.97.42 bigcache.googleapis.com #googleapis.l.google.com
+45.62.97.42 chart.googleapis.com #googleapis.l.google.com
+45.62.97.42 content.googleapis.com #googleapis.l.google.com
+45.62.97.42 fonts.googleapis.com #googleapis.l.google.com
+45.62.97.42 maps.googleapis.com #googleapis.l.google.com
+45.62.97.42 play.googleapis.com #googleapis.l.google.com
+45.62.97.42 plus.googleapis.com #googleapis.l.google.com
+45.62.97.42 redirector-bigcache.googleapis.com #googleapis.l.google.com
+45.62.97.42 translate.googleapis.com #googleapis.l.google.com
+45.62.97.42 youtube.googleapis.com #googleapis.l.google.com
 #2404:6800:4008:c00::5f googleapis-ajax.google.com
 210.242.127.20 mt0.googleapis.com #mt.l.google.com
 210.242.127.20 mt1.googleapis.com #mt.l.google.com
