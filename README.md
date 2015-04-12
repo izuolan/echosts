@@ -2,7 +2,7 @@
 Google、Youtube、XDA、Wikipedia、Facebook、Instagram、Twitter、Flickr、<s>**Dropbox**</s>、Vimeo、Onedrive、Mozilla、Yahoo、500px、Tumblr、Gravatar、Deviantart、WordPress.com、Live.com、Soundcloud、Box.com、Amazonaws、Feedly、FlipBoard、Imgur、DuckDuckGo、Ixquick、Page、Typekit、Edgecast、V2ex、Anzhi、More CDN....
 
 [Download](https://github.com/catbb49294929/samecho_hosts/archive/master.zip)
-
+[中文说明](https://github.com/catbb49294929/samecho_hosts/blob/master/README_zh_CN.md)
 
 ##Update Explain
 Delete the line means the web site has not yet been restored
