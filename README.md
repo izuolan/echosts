@@ -20,6 +20,9 @@ Windows：`C:WINDOWS/system32/drivers/etc/hosts`
 Android：`root/system/etc/hosts`
 
 
+Linux（Ubuntu）：`/etc/hosts`
+
+
 > Youtube can direct connection video.
 
 
