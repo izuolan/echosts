@@ -2,10 +2,10 @@
 #Hosts更新QQ群:162157583|资源分享
 
 
-## YouTube
+# YouTube
 69.85.93.64 youtube.com
 69.85.93.64 www.youtube.com #youtube-ui.l.google.com
-127.0.0.1 ads.youtube.com #www3.l.google.com
+0.0.0.0 ads.youtube.com #www3.l.google.com
 69.85.93.64 www.youtube-nocookie.com #youtube-ui.l.google.com
 69.85.93.64 m.youtube.com
 210.242.127.20 youtu.be
@@ -19,7 +19,7 @@
 210.242.127.20 upload.youtube.com #yt-video-upload.l.google.com
 210.242.127.20 uploads.stage.gdata.youtube.com #yt-video-upload.l.google.com
 210.242.127.20 insight.youtube.com #video-analytics.l.google.com
-64.233.189.121 apiblog.youtube.com #ghs.l.google.com
+210.242.127.20 apiblog.youtube.com #ghs.l.google.com
 #2404:6800:4008:c00::64 clients1.youtube.com
 210.242.127.20 i.ytimg.com #ytimg.l.google.com
 210.242.127.20 i1.ytimg.com #ytimg.l.google.com
@@ -41,7 +41,6 @@
 210.242.127.20 upload.video.google.com #sslvideo-upload.l.google.com
 210.242.127.20 video-stats.video.google.com #video-stats.l.google.com
 69.85.93.64 manifest.googlevideo.com
-## c.youtube.com和googlevideo.com指向的IP相同
 210.242.127.20 redirector.googlevideo.com
 
 
