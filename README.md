@@ -11,7 +11,6 @@ Delete the line means the web site has not yet been restored
 
 
 ##Usage
-After downloaded, the contents of the file is copied to the old hosts file (or the file renamed to "hosts", and then copy the file to the old hosts position).
 
 
 Windows：`C:WINDOWS/system32/drivers/etc/hosts`

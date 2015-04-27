@@ -9,7 +9,7 @@ Google、Youtube、XDA、Wikipedia、Facebook、Instagram、Twitter、<s>**Flick
 
 
 ##使用方法
-下载后解压，把samecho_hosts文件重命名为hosts，然后覆盖你的系统中的hosts文件，该文件路径为：
+下载后解压，把hosts文件覆盖你的系统中的hosts文件，该文件路径为：
 
 
 Windows：`C:WINDOWS/system32/drivers/etc/hosts`
