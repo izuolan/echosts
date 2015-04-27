@@ -3,382 +3,382 @@
 
 
 ## Google.com
-210.242.127.20 redirector.gvt1.com
-210.242.127.20 keep.google.com
-210.242.127.20 connectivitycheck.android.com
-210.242.127.20 myaccount.google.com
-210.242.127.20 checkout.google.com
+114.4.42.121 redirector.gvt1.com
+114.4.42.121 keep.google.com
+114.4.42.121 connectivitycheck.android.com
+114.4.42.121 myaccount.google.com
+114.4.42.121 checkout.google.com
 203.208.49.190 ssl.google-analytics.com
-210.242.127.20 accounts.gstatic.com
+114.4.42.121 accounts.gstatic.com
 64.233.189.211 proxy.googlezip.net
 64.233.189.211 compress.googlezip.net
 64.233.189.211 check.googlezip.net
 64.233.189.211 proxy-dev.googlezip.net
 2001:4860:4860::8888 google-public-dns-a.google.com
 2001:4860:4860::8844 google-public-dns-b.google.com
-210.242.127.20 google.com
-210.242.127.20 www.google.com
-210.242.127.20 admin.google.com
-210.242.127.20 accounts.google.com #accounts.l.google.com
-210.242.127.20 bpui0.google.com #www3.l.google.com
-210.242.127.20 clients1.google.com #clients.l.google.com
-210.242.127.20 clients2.google.com #clients.l.google.com
-210.242.127.20 clients3.google.com #clients.l.google.com
-210.242.127.20 clients4.google.com #clients.l.google.com
-210.242.127.20 clients5.google.com #clients.l.google.com
-210.242.127.20 clients6.google.com #clients.l.google.com
-210.242.127.20 encrypted.google.com #www3.l.google.com
-210.242.127.20 encrypted-tbn0.google.com #encrypted-tbn.l.google.com
-210.242.127.20 encrypted-tbn1.google.com #encrypted-tbn.l.google.com
-210.242.127.20 encrypted-tbn2.google.com #encrypted-tbn.l.google.com
-210.242.127.20 encrypted-tbn3.google.com #encrypted-tbn.l.google.com
-210.242.127.20 goto.google.com #www3.l.google.com
-210.242.127.20 gxc.google.com #www3.l.google.com
-210.242.127.20 history.google.com #history.l.google.com
-210.242.127.20 investor.google.com #www3.l.google.com
+114.4.42.121 google.com
+114.4.42.121 www.google.com
+114.4.42.121 admin.google.com
+114.4.42.121 accounts.google.com #accounts.l.google.com
+114.4.42.121 bpui0.google.com #www3.l.google.com
+114.4.42.121 clients1.google.com #clients.l.google.com
+114.4.42.121 clients2.google.com #clients.l.google.com
+114.4.42.121 clients3.google.com #clients.l.google.com
+114.4.42.121 clients4.google.com #clients.l.google.com
+114.4.42.121 clients5.google.com #clients.l.google.com
+114.4.42.121 clients6.google.com #clients.l.google.com
+114.4.42.121 encrypted.google.com #www3.l.google.com
+114.4.42.121 encrypted-tbn0.google.com #encrypted-tbn.l.google.com
+114.4.42.121 encrypted-tbn1.google.com #encrypted-tbn.l.google.com
+114.4.42.121 encrypted-tbn2.google.com #encrypted-tbn.l.google.com
+114.4.42.121 encrypted-tbn3.google.com #encrypted-tbn.l.google.com
+114.4.42.121 goto.google.com #www3.l.google.com
+114.4.42.121 gxc.google.com #www3.l.google.com
+114.4.42.121 history.google.com #history.l.google.com
+114.4.42.121 investor.google.com #www3.l.google.com
 2607:f8b0:4007:804::1005 ipv6.google.com #ipv6.l.google.com
-210.242.127.20 jmt0.google.com #www3.l.google.com
-210.242.127.20 linkhelp.clients.google.com #clients.l.google.com
-210.242.127.20 upload.clients.google.com #clients.l.google.com
-210.242.127.20 m.google.com #mobile.l.google.com
-210.242.127.20 mobile.google.com #mobile.l.google.com
-210.242.127.20 pki.google.com #www3.l.google.com
-210.242.127.20 services.google.com #www3.l.google.com
-210.242.127.20 suggestqueries.google.com #suggestqueries.l.google.com
-210.242.127.20 support.google.com #www3.l.google.com
-210.242.127.20 upload.google.com #large-uploads.l.google.com
-210.242.127.20 client-channel.google.com
-210.242.127.20 *.client-channel.google.com
-210.242.127.20 0.client-channel.google.com
-210.242.127.20 1.client-channel.google.com
-210.242.127.20 2.client-channel.google.com
-210.242.127.20 googletagmanager.com
+114.4.42.121 jmt0.google.com #www3.l.google.com
+114.4.42.121 linkhelp.clients.google.com #clients.l.google.com
+114.4.42.121 upload.clients.google.com #clients.l.google.com
+114.4.42.121 m.google.com #mobile.l.google.com
+114.4.42.121 mobile.google.com #mobile.l.google.com
+114.4.42.121 pki.google.com #www3.l.google.com
+114.4.42.121 services.google.com #www3.l.google.com
+114.4.42.121 suggestqueries.google.com #suggestqueries.l.google.com
+114.4.42.121 support.google.com #www3.l.google.com
+114.4.42.121 upload.google.com #large-uploads.l.google.com
+114.4.42.121 client-channel.google.com
+114.4.42.121 *.client-channel.google.com
+114.4.42.121 0.client-channel.google.com
+114.4.42.121 1.client-channel.google.com
+114.4.42.121 2.client-channel.google.com
+114.4.42.121 googletagmanager.com
 203.208.48.158 www.googletagmanager.com
-210.242.127.20 google.com.hk
-210.242.127.20 www.google.com.hk
-210.242.127.20 accounts.google.com.hk #accounts-cctld.l.google.com
-210.242.127.20 clients1.google.com.hk #clients-cctld.l.google.com
-210.242.127.20 m.google.com.hk #mobile.l.google.com
-210.242.127.20 gxc.google.com.hk #www3.l.google.com
-210.242.127.20 id.google.com.hk #id.l.google.com
+114.4.42.121 google.com.hk
+114.4.42.121 www.google.com.hk
+114.4.42.121 accounts.google.com.hk #accounts-cctld.l.google.com
+114.4.42.121 clients1.google.com.hk #clients-cctld.l.google.com
+114.4.42.121 m.google.com.hk #mobile.l.google.com
+114.4.42.121 gxc.google.com.hk #www3.l.google.com
+114.4.42.121 id.google.com.hk #id.l.google.com
 2607:f8b0:4007:804::1005 ipv6.google.com.hk #ipv6.l.google.com
-210.242.127.20 mobile.google.com.hk #www.google.com
-210.242.127.20 picasaweb.google.com.hk #picasaweb.l.google.com
-210.242.127.20 g.cn
-210.242.127.20 google.cn
-210.242.127.20 www.google.cn
+114.4.42.121 mobile.google.com.hk #www.google.com
+114.4.42.121 picasaweb.google.com.hk #picasaweb.l.google.com
+114.4.42.121 g.cn
+114.4.42.121 google.cn
+114.4.42.121 www.google.cn
 2607:f8b0:4007:804::1005 ipv6.google.cn #ipv6.l.google.com
-210.242.127.20 m.google.cn #www.google.cn
-210.242.127.20 news.google.cn #www.google.cn
-210.242.127.20 video.google.cn #www.google.cn
-210.242.127.20 music.googleusercontent.cn #music-china.l.google.com
-210.242.127.20 www.265.com #265.com
-210.242.127.20 265.com
+114.4.42.121 m.google.cn #www.google.cn
+114.4.42.121 news.google.cn #www.google.cn
+114.4.42.121 video.google.cn #www.google.cn
+114.4.42.121 music.googleusercontent.cn #music-china.l.google.com
+114.4.42.121 www.265.com #265.com
+114.4.42.121 265.com
 ## Google 
-210.242.127.20 www.google.com.tw
-210.242.127.20 clients1.google.com.tw #clients-cctld.l.google.com
-210.242.127.20 picasaweb.google.com.tw #picasaweb.l.google.com
+114.4.42.121 www.google.com.tw
+114.4.42.121 clients1.google.com.tw #clients-cctld.l.google.com
+114.4.42.121 picasaweb.google.com.tw #picasaweb.l.google.com
 ## Google 
-210.242.127.20 www.google.co.jp
+114.4.42.121 www.google.co.jp
 2607:f8b0:4007:804::1005 ipv6.google.co.jp #ipv6.l.google.com
-45.62.110.151 402.appspot.com
-210.242.127.20 accounts.google.co.jp
-210.242.127.20 www.google.ae
-210.242.127.20 www.google.com.ar
-210.242.127.20 www.google.at
-210.242.127.20 www.google.com.au
-210.242.127.20 www.google.be
-210.242.127.20 www.google.com.br
-210.242.127.20 www.google.ca
-210.242.127.20 www.google.ch
-210.242.127.20 www.google.fi
-210.242.127.20 www.google.fr
-210.242.127.20 www.google.de
-210.242.127.20 www.google.com.gr
-210.242.127.20 www.google.co.il
-210.242.127.20 www.google.co.in
-210.242.127.20 www.google.it
-210.242.127.20 www.google.co.kr
-210.242.127.20 www.google.lt
-210.242.127.20 www.google.lv
-210.242.127.20 www.google.com.ly
-210.242.127.20 www.google.com.my
-210.242.127.20 www.google.nl
-210.242.127.20 www.google.co.nz
-210.242.127.20 www.google.com.pe
-210.242.127.20 www.google.com.ph
-210.242.127.20 www.google.com.pk
-210.242.127.20 www.google.pl
-210.242.127.20 www.google.pt
-210.242.127.20 www.google.ro
-210.242.127.20 www.google.com.ru
-210.242.127.20 www.google.com.sg
-210.242.127.20 www.google.com.tr
-210.242.127.20 www.google.com.ua
-210.242.127.20 www.google.co.uk
-210.242.127.20 www.google.co.ve
-210.242.127.20 www.google.com.vn
-210.242.127.20 www.google.co.za
+114.4.42.121 402.appspot.com
+114.4.42.121 accounts.google.co.jp
+114.4.42.121 www.google.ae
+114.4.42.121 www.google.com.ar
+114.4.42.121 www.google.at
+114.4.42.121 www.google.com.au
+114.4.42.121 www.google.be
+114.4.42.121 www.google.com.br
+114.4.42.121 www.google.ca
+114.4.42.121 www.google.ch
+114.4.42.121 www.google.fi
+114.4.42.121 www.google.fr
+114.4.42.121 www.google.de
+114.4.42.121 www.google.com.gr
+114.4.42.121 www.google.co.il
+114.4.42.121 www.google.co.in
+114.4.42.121 www.google.it
+114.4.42.121 www.google.co.kr
+114.4.42.121 www.google.lt
+114.4.42.121 www.google.lv
+114.4.42.121 www.google.com.ly
+114.4.42.121 www.google.com.my
+114.4.42.121 www.google.nl
+114.4.42.121 www.google.co.nz
+114.4.42.121 www.google.com.pe
+114.4.42.121 www.google.com.ph
+114.4.42.121 www.google.com.pk
+114.4.42.121 www.google.pl
+114.4.42.121 www.google.pt
+114.4.42.121 www.google.ro
+114.4.42.121 www.google.com.ru
+114.4.42.121 www.google.com.sg
+114.4.42.121 www.google.com.tr
+114.4.42.121 www.google.com.ua
+114.4.42.121 www.google.co.uk
+114.4.42.121 www.google.co.ve
+114.4.42.121 www.google.com.vn
+114.4.42.121 www.google.co.za
 ## Google Apps 
-210.242.127.20 apps.google.com #www3.l.google.com
-210.242.127.20 ghs.google.com #ghs.l.google.com
-210.242.127.20 ghs46.google.com #ghs46.l.google.com
+114.4.42.121 apps.google.com #www3.l.google.com
+114.4.42.121 ghs.google.com #ghs.l.google.com
+114.4.42.121 ghs46.google.com #ghs46.l.google.com
 ## Mashups/App Engine GAE
-210.242.127.20 googlemashups.com
-210.242.127.20 www.googlemashups.com #www2.l.google.com
-210.242.127.20 *.googlemashups.com #www2.l.google.com
-210.242.127.20 appengine.google.com #www3.l.google.com
-45.62.110.151 appspot.com
-45.62.110.151 *.appspot.com #appspot.l.google.com
-45.62.110.151 www.appspot.com
-45.62.110.151 betaspike.appspot.com
-45.62.110.151 chrometophone.appspot.com
-45.62.110.151 codereview.appspot.com
-45.62.110.151 evolutionofweb.appspot.com
-45.62.110.151 feedly-beta.appspot.com
-45.62.110.151 googcloudlabs.appspot.com
-45.62.110.151 googlesharedspaces.appspot.com
-45.62.110.151 gv-gadget.appspot.com
-45.62.110.151 haiticrisis.appspot.com
-45.62.110.151 i18napis.appspot.com
-45.62.110.151 moderator.appspot.com
-45.62.110.151 newsfeed-dot-latest-dot-rovio-ad-engine.appspot.com
-45.62.110.151 productideas.appspot.com
-45.62.110.151 project-slingshot-gp.appspot.com
-45.62.110.151 r3269-dot-latest-dot-project-slingshot-gp.appspot.com
-45.62.110.151 storegadgetwizard.appspot.com
-45.62.110.151 welcome-cros.appspot.com
-45.62.110.151 yt-debates.appspot.com
+114.4.42.121 googlemashups.com
+114.4.42.121 www.googlemashups.com #www2.l.google.com
+114.4.42.121 *.googlemashups.com #www2.l.google.com
+114.4.42.121 appengine.google.com #www3.l.google.com
+114.4.42.121 appspot.com
+114.4.42.121 *.appspot.com #appspot.l.google.com
+114.4.42.121 www.appspot.com
+114.4.42.121 betaspike.appspot.com
+114.4.42.121 chrometophone.appspot.com
+114.4.42.121 codereview.appspot.com
+114.4.42.121 evolutionofweb.appspot.com
+114.4.42.121 feedly-beta.appspot.com
+114.4.42.121 googcloudlabs.appspot.com
+114.4.42.121 googlesharedspaces.appspot.com
+114.4.42.121 gv-gadget.appspot.com
+114.4.42.121 haiticrisis.appspot.com
+114.4.42.121 i18napis.appspot.com
+114.4.42.121 moderator.appspot.com
+114.4.42.121 newsfeed-dot-latest-dot-rovio-ad-engine.appspot.com
+114.4.42.121 productideas.appspot.com
+114.4.42.121 project-slingshot-gp.appspot.com
+114.4.42.121 r3269-dot-latest-dot-project-slingshot-gp.appspot.com
+114.4.42.121 storegadgetwizard.appspot.com
+114.4.42.121 welcome-cros.appspot.com
+114.4.42.121 yt-debates.appspot.com
 ## Answers/Guru/WenDa
-210.242.127.20 answers.google.com #www3.l.google.com
+114.4.42.121 answers.google.com #www3.l.google.com
 #2404:6800:4008:c00::62 guru.google.com
-210.242.127.20 guru.google.co.th #www2.l.google.com
-210.242.127.20 wenda.google.com.hk #www3.l.google.com
+114.4.42.121 guru.google.co.th #www2.l.google.com
+114.4.42.121 wenda.google.com.hk #www3.l.google.com
 ## Blog
-210.242.127.20 blogsearch.google.com #www2.l.google.com
-210.242.127.20 blogsearch.google.com.hk #www2.l.google.com
-210.242.127.20 blogsearch.google.com.tw #www2.l.google.com
-210.242.127.20 blogsearch.google.cn #www.google.cn
+114.4.42.121 blogsearch.google.com #www2.l.google.com
+114.4.42.121 blogsearch.google.com.hk #www2.l.google.com
+114.4.42.121 blogsearch.google.com.tw #www2.l.google.com
+114.4.42.121 blogsearch.google.cn #www.google.cn
 ## Blogger
-210.242.127.20 www.blogger.com #blogger.l.google.com
-210.242.127.20 blogger.com
-210.242.127.20 blogger.google.com #blogger.l.google.com
-210.242.127.20 www2.blogger.com #blogger.l.google.com
-210.242.127.20 www.blogblog.com #blogger.l.google.com
-210.242.127.20 www1.blogblog.com #blogger.l.google.com
-210.242.127.20 www2.blogblog.com #blogger.l.google.com
-210.242.127.20 beta.blogger.com #blogger.l.google.com
-210.242.127.20 buttons.blogger.com #blogger.l.google.com
-210.242.127.20 buzz.blogger.com #blogger.l.google.com
-210.242.127.20 draft.blogger.com #blogger.l.google.com
-210.242.127.20 status.blogger.com #blogger.l.google.com
-210.242.127.20 help.blogger.com #www2.l.google.com
-210.242.127.20 photos1.blogger.com #photos1.l.google.com
-210.242.127.20 bp0.blogger.com #bloggerphotos.l.google.com
-210.242.127.20 bp1.blogger.com #bloggerphotos.l.google.com
-210.242.127.20 bp2.blogger.com #bloggerphotos.l.google.com
-210.242.127.20 bp3.blogger.com #bloggerphotos.l.google.com
-45.62.105.62 img.blogblog.com #blogspot.l.googleusercontent.com
-45.62.105.62 img1.blogblog.com #blogger.l.google.com
-45.62.105.62 img2.blogblog.com #blogger.l.google.com
-210.242.127.20 www.textcube.com #ghs.l.google.com
+114.4.42.121 www.blogger.com #blogger.l.google.com
+114.4.42.121 blogger.com
+114.4.42.121 blogger.google.com #blogger.l.google.com
+114.4.42.121 www2.blogger.com #blogger.l.google.com
+114.4.42.121 www.blogblog.com #blogger.l.google.com
+114.4.42.121 www1.blogblog.com #blogger.l.google.com
+114.4.42.121 www2.blogblog.com #blogger.l.google.com
+114.4.42.121 beta.blogger.com #blogger.l.google.com
+114.4.42.121 buttons.blogger.com #blogger.l.google.com
+114.4.42.121 buzz.blogger.com #blogger.l.google.com
+114.4.42.121 draft.blogger.com #blogger.l.google.com
+114.4.42.121 status.blogger.com #blogger.l.google.com
+114.4.42.121 help.blogger.com #www2.l.google.com
+114.4.42.121 photos1.blogger.com #photos1.l.google.com
+114.4.42.121 bp0.blogger.com #bloggerphotos.l.google.com
+114.4.42.121 bp1.blogger.com #bloggerphotos.l.google.com
+114.4.42.121 bp2.blogger.com #bloggerphotos.l.google.com
+114.4.42.121 bp3.blogger.com #bloggerphotos.l.google.com
+138.128.212.149 img.blogblog.com #blogspot.l.googleusercontent.com
+138.128.212.149 img1.blogblog.com #blogger.l.google.com
+138.128.212.149 img2.blogblog.com #blogger.l.google.com
+114.4.42.121 www.textcube.com #ghs.l.google.com
 ## Blogspot
-210.242.127.20 www.blogspot.com #blogger.l.google.com
-210.242.127.20 blogspot.com
-45.62.105.62 blogsofnote.blogspot.com #blogspot.l.googleusercontent.com
-45.62.105.62 knownissues.blogspot.com #blogspot.l.googleusercontent.com
-45.62.105.62 1.bp.blogspot.com #photos-ugc.l.googleusercontent.com
-45.62.105.62 2.bp.blogspot.com #photos-ugc.l.googleusercontent.com
-45.62.105.62 3.bp.blogspot.com #photos-ugc.l.googleusercontent.com
-45.62.105.62 4.bp.blogspot.com #photos-ugc.l.googleusercontent.com
-45.62.105.62 bloggertemplatespreview.blogspot.com #blogspot.l.googleusercontent.com
+114.4.42.121 www.blogspot.com #blogger.l.google.com
+114.4.42.121 blogspot.com
+138.128.212.149 blogsofnote.blogspot.com #blogspot.l.googleusercontent.com
+138.128.212.149 knownissues.blogspot.com #blogspot.l.googleusercontent.com
+138.128.212.149 1.bp.blogspot.com #photos-ugc.l.googleusercontent.com
+138.128.212.149 2.bp.blogspot.com #photos-ugc.l.googleusercontent.com
+138.128.212.149 3.bp.blogspot.com #photos-ugc.l.googleusercontent.com
+138.128.212.149 4.bp.blogspot.com #photos-ugc.l.googleusercontent.com
+138.128.212.149 bloggertemplatespreview.blogspot.com #blogspot.l.googleusercontent.com
 ## Google
-45.62.105.62 *.blogspot.com #blogspot.l.googleusercontent.com
-45.62.105.62 adwordsapi.blogspot.com
-45.62.105.62 adsense-zhs.blogspot.com
-45.62.105.62 android-developers.blogspot.com
-45.62.105.62 apacdeveloper.blogspot.com
-45.62.105.62 booksearch.blogspot.com
-45.62.105.62 chrome.blogspot.com
-45.62.105.62 doubleclickpublishersapi.blogspot.com
-45.62.105.62 emeadev.blogspot.com
-45.62.105.62 gearsblog.blogspot.com
-45.62.105.62 google-code-featured.blogspot.com
-45.62.105.62 google-entertainment-it.blogspot.com
-45.62.105.62 google-opensource.blogspot.com
-45.62.105.62 googleajaxsearchapi.blogspot.com
-45.62.105.62 googleappengine.blogspot.com
-45.62.105.62 googleappsdeveloper.blogspot.com
-45.62.105.62 googleblog.blogspot.com
-45.62.105.62 googlecheckout.blogspot.com
-45.62.105.62 googlecheckoutapi.blogspot.com
-45.62.105.62 googlechinablog.blogspot.com
-45.62.105.62 googlechromereleases.blogspot.com
-45.62.105.62 googlecode.blogspot.com
-45.62.105.62 googlecustomsearch.blogspot.com
-45.62.105.62 googleenterprise.blogspot.com
-45.62.105.62 googlegeodevelopers.blogspot.com
-45.62.105.62 googlemashupeditor.blogspot.com
-45.62.105.62 googlemobile.blogspot.com
-45.62.105.62 googleplusplatform.blogspot.com
-45.62.105.62 googleresearch.blogspot.com
-45.62.105.62 googletalk.blogspot.com
-45.62.105.62 googlewebmaster-cn.blogspot.com
-45.62.105.62 googlewebmastercentral.blogspot.com
-45.62.105.62 googlewebtoolkit.blogspot.com
-45.62.105.62 golangblog.blogspot.com
-45.62.105.62 gmailblog.blogspot.com
-45.62.105.62 igoogledeveloper.blogspot.com
-45.62.105.62 webmproject.blogspot.com
-45.62.105.62 youtube-global.blogspot.com
+138.128.212.149 *.blogspot.com #blogspot.l.googleusercontent.com
+138.128.212.149 adwordsapi.blogspot.com
+138.128.212.149 adsense-zhs.blogspot.com
+138.128.212.149 android-developers.blogspot.com
+138.128.212.149 apacdeveloper.blogspot.com
+138.128.212.149 booksearch.blogspot.com
+138.128.212.149 chrome.blogspot.com
+138.128.212.149 doubleclickpublishersapi.blogspot.com
+138.128.212.149 emeadev.blogspot.com
+138.128.212.149 gearsblog.blogspot.com
+138.128.212.149 google-code-featured.blogspot.com
+138.128.212.149 google-entertainment-it.blogspot.com
+138.128.212.149 google-opensource.blogspot.com
+138.128.212.149 googleajaxsearchapi.blogspot.com
+138.128.212.149 googleappengine.blogspot.com
+138.128.212.149 googleappsdeveloper.blogspot.com
+138.128.212.149 googleblog.blogspot.com
+138.128.212.149 googlecheckout.blogspot.com
+138.128.212.149 googlecheckoutapi.blogspot.com
+138.128.212.149 googlechinablog.blogspot.com
+138.128.212.149 googlechromereleases.blogspot.com
+138.128.212.149 googlecode.blogspot.com
+138.128.212.149 googlecustomsearch.blogspot.com
+138.128.212.149 googleenterprise.blogspot.com
+138.128.212.149 googlegeodevelopers.blogspot.com
+138.128.212.149 googlemashupeditor.blogspot.com
+138.128.212.149 googlemobile.blogspot.com
+138.128.212.149 googleplusplatform.blogspot.com
+138.128.212.149 googleresearch.blogspot.com
+138.128.212.149 googletalk.blogspot.com
+138.128.212.149 googlewebmaster-cn.blogspot.com
+138.128.212.149 googlewebmastercentral.blogspot.com
+138.128.212.149 googlewebtoolkit.blogspot.com
+138.128.212.149 golangblog.blogspot.com
+138.128.212.149 gmailblog.blogspot.com
+138.128.212.149 igoogledeveloper.blogspot.com
+138.128.212.149 webmproject.blogspot.com
+138.128.212.149 youtube-global.blogspot.com
 ## Books
-210.242.127.20 books.google.cn #www.google.cn
-210.242.127.20 books.google.com #www3.l.google.com
-210.242.127.20 books.google.com.hk #www3.l.google.com
-210.242.127.20 bks0.books.google.com #www3.l.google.com
-210.242.127.20 bks1.books.google.com
-210.242.127.20 bks2.books.google.com
-210.242.127.20 bks3.books.google.com
-210.242.127.20 bks4.books.google.com
-210.242.127.20 bks5.books.google.com
-210.242.127.20 bks6.books.google.com
-210.242.127.20 bks7.books.google.com
-210.242.127.20 bks8.books.google.com
-210.242.127.20 bks9.books.google.com
-210.242.127.20 bks10.books.google.com
-210.242.127.20 bks0.books.google.com.hk
-210.242.127.20 bks1.books.google.com.hk
-210.242.127.20 bks2.books.google.com.hk
-210.242.127.20 bks3.books.google.com.hk
-210.242.127.20 bks4.books.google.com.hk
-210.242.127.20 bks5.books.google.com.hk
-210.242.127.20 bks6.books.google.com.hk
-210.242.127.20 bks7.books.google.com.hk
-210.242.127.20 bks8.books.google.com.hk
-210.242.127.20 bks9.books.google.com.hk
-210.242.127.20 bks10.books.google.com.hk
-210.242.127.20 buzz.google.com #www3.l.google.com
+114.4.42.121 books.google.cn #www.google.cn
+114.4.42.121 books.google.com #www3.l.google.com
+114.4.42.121 books.google.com.hk #www3.l.google.com
+114.4.42.121 bks0.books.google.com #www3.l.google.com
+114.4.42.121 bks1.books.google.com
+114.4.42.121 bks2.books.google.com
+114.4.42.121 bks3.books.google.com
+114.4.42.121 bks4.books.google.com
+114.4.42.121 bks5.books.google.com
+114.4.42.121 bks6.books.google.com
+114.4.42.121 bks7.books.google.com
+114.4.42.121 bks8.books.google.com
+114.4.42.121 bks9.books.google.com
+114.4.42.121 bks10.books.google.com
+114.4.42.121 bks0.books.google.com.hk
+114.4.42.121 bks1.books.google.com.hk
+114.4.42.121 bks2.books.google.com.hk
+114.4.42.121 bks3.books.google.com.hk
+114.4.42.121 bks4.books.google.com.hk
+114.4.42.121 bks5.books.google.com.hk
+114.4.42.121 bks6.books.google.com.hk
+114.4.42.121 bks7.books.google.com.hk
+114.4.42.121 bks8.books.google.com.hk
+114.4.42.121 bks9.books.google.com.hk
+114.4.42.121 bks10.books.google.com.hk
+114.4.42.121 buzz.google.com #www3.l.google.com
 ## Calendar
-210.242.127.20 calendar.google.com #www3.l.google.com
+114.4.42.121 calendar.google.com #www3.l.google.com
 ## Checkout
 #2404:6800:4008:c00::73 checkout.google.com #checkout.l.google.com
-210.242.127.20 wallet.google.com
+114.4.42.121 wallet.google.com
 ## Chrome
-210.242.127.20 www.chrome.com
-210.242.127.20 chrome.google.com #www3.l.google.com
+114.4.42.121 www.chrome.com
+114.4.42.121 chrome.google.com #www3.l.google.com
 #2404:6800:4008:c00::66 browsersync.google.com #browsersync.l.google.com
-210.242.127.20 toolbarqueries.google.com #toolbarqueries.l.google.com
-210.242.127.20 toolbarqueries.google.com.hk #toolbarqueries.l.google.com
-210.242.127.20 toolbarqueries.clients.google.com #clients.l.google.com
+114.4.42.121 toolbarqueries.google.com #toolbarqueries.l.google.com
+114.4.42.121 toolbarqueries.google.com.hk #toolbarqueries.l.google.com
+114.4.42.121 toolbarqueries.clients.google.com #clients.l.google.com
 ## Chromium Chromium
-210.242.127.20 chromium.org
-#210.242.127.20 www.chromium.org #ghs.l.google.com
-#210.242.127.20 dev.chromium.org #ghs.l.google.com
-#210.242.127.20 blog.chromium.org #ghs.l.google.com
+114.4.42.121 chromium.org
+#114.4.42.121 www.chromium.org #ghs.l.google.com
+#114.4.42.121 dev.chromium.org #ghs.l.google.com
+#114.4.42.121 blog.chromium.org #ghs.l.google.com
 #2404:6800:4008:c00::62 build.chromium.org #planet.chromium.org
 #2404:6800:4008:c00::79 codereview.chromium.org #ghs.l.google.com
 ## Chromium OS Chromium
 64.233.160.121 goto.ext.google.com #ghs.l.google.com
 ## Code
-210.242.127.20 code.google.com #code.l.google.com
-210.242.127.20 *.googlecode.com #googlecode.l.googleusercontent.com
-210.242.127.20 chromium.googlecode.com #googlecode.l.googleusercontent.com
-210.242.127.20 closure-library.googlecode.com #googlecode.l.googleusercontent.com
-210.242.127.20 earth-api-samples.googlecode.com #googlecode.l.googleusercontent.com
-210.242.127.20 gmaps-samples-flash.googlecode.com #googlecode.l.googleusercontent.com
-210.242.127.20 googleappengine.googlecode.com #googlecode.l.googleusercontent.com
-210.242.127.20 google-code-feed-gadget.googlecode.com #googlecode.l.googleusercontent.com
-210.242.127.20 www.googlesource.com #googlecode.l.googleusercontent.com
-210.242.127.20 android.googlesource.com #googlecode.l.googleusercontent.com
+114.4.42.121 code.google.com #code.l.google.com
+114.4.42.121 *.googlecode.com #googlecode.l.googleusercontent.com
+114.4.42.121 chromium.googlecode.com #googlecode.l.googleusercontent.com
+114.4.42.121 closure-library.googlecode.com #googlecode.l.googleusercontent.com
+114.4.42.121 earth-api-samples.googlecode.com #googlecode.l.googleusercontent.com
+114.4.42.121 gmaps-samples-flash.googlecode.com #googlecode.l.googleusercontent.com
+114.4.42.121 googleappengine.googlecode.com #googlecode.l.googleusercontent.com
+114.4.42.121 google-code-feed-gadget.googlecode.com #googlecode.l.googleusercontent.com
+114.4.42.121 www.googlesource.com #googlecode.l.googleusercontent.com
+114.4.42.121 android.googlesource.com #googlecode.l.googleusercontent.com
 ## Desktop
 #2404:6800:4008:c00::68 desktop.google.com #desktop.l.google.com
 ## Directory
-210.242.127.20 directory.google.com #www3.l.google.com
-210.242.127.20 dir.google.com #www3.l.google.com
+114.4.42.121 directory.google.com #www3.l.google.com
+114.4.42.121 dir.google.com #www3.l.google.com
 ## Docs
-45.62.105.62 googledrive.com
-210.242.127.20 docs.google.com
-210.242.127.20 drive.google.com
-210.242.127.20 docs0.google.com #www3.l.google.com
-210.242.127.20 docs1.google.com #www3.l.google.com
-210.242.127.20 docs2.google.com #www3.l.google.com
-210.242.127.20 docs3.google.com #www3.l.google.com
-210.242.127.20 docs4.google.com #www3.l.google.com
-210.242.127.20 docs5.google.com #www3.l.google.com
-210.242.127.20 docs6.google.com #www3.l.google.com
-210.242.127.20 docs7.google.com #www3.l.google.com
-210.242.127.20 docs8.google.com #www3.l.google.com
-210.242.127.20 docs9.google.com #www3.l.google.com
-210.242.127.20 writely.google.com #www3.l.google.com
-210.242.127.20 upload.docs.google.com #large-uploads.l.google.com
-210.242.127.20 upload.drive.google.com #large-uploads.l.google.com
-210.242.127.20 *.docs.google.com #browserchannel-docs.l.google.com
-210.242.127.20 *.drive.google.com #browserchannel-docs.l.google.com
-210.242.127.20 0.docs.google.com
-210.242.127.20 1.docs.google.com
-210.242.127.20 2.docs.google.com
-210.242.127.20 3.docs.google.com
-210.242.127.20 4.docs.google.com
-210.242.127.20 5.docs.google.com
-210.242.127.20 6.docs.google.com
-210.242.127.20 7.docs.google.com
-210.242.127.20 8.docs.google.com
-210.242.127.20 9.docs.google.com
-210.242.127.20 10.docs.google.com
-210.242.127.20 11.docs.google.com
-210.242.127.20 12.docs.google.com
-210.242.127.20 13.docs.google.com
-210.242.127.20 14.docs.google.com
-210.242.127.20 15.docs.google.com
-210.242.127.20 16.docs.google.com
-210.242.127.20 0.drive.google.com
-210.242.127.20 1.drive.google.com
-210.242.127.20 2.drive.google.com
-210.242.127.20 3.drive.google.com
-210.242.127.20 4.drive.google.com
-210.242.127.20 5.drive.google.com
-210.242.127.20 6.drive.google.com
-210.242.127.20 7.drive.google.com
-210.242.127.20 8.drive.google.com
-210.242.127.20 9.drive.google.com
-210.242.127.20 10.drive.google.com
-210.242.127.20 11.drive.google.com
-210.242.127.20 12.drive.google.com
-210.242.127.20 13.drive.google.com
-210.242.127.20 14.drive.google.com
-210.242.127.20 15.drive.google.com
-210.242.127.20 16.drive.google.com
-210.242.127.20 spreadsheet.google.com #spreadsheets.l.google.com
-210.242.127.20 spreadsheets.google.com #spreadsheets.l.google.com
-210.242.127.20 spreadsheets0.google.com #www3.l.google.com
-210.242.127.20 spreadsheets1.google.com #www3.l.google.com
-210.242.127.20 spreadsheets2.google.com #www3.l.google.com
-210.242.127.20 spreadsheets3.google.com #www3.l.google.com
-210.242.127.20 spreadsheets4.google.com #www3.l.google.com
-210.242.127.20 spreadsheets5.google.com #www3.l.google.com
-210.242.127.20 spreadsheets6.google.com #www3.l.google.com
-210.242.127.20 spreadsheets7.google.com #www3.l.google.com
-210.242.127.20 spreadsheets8.google.com #www3.l.google.com
-210.242.127.20 spreadsheets9.google.com #www3.l.google.com
+138.128.212.149 googledrive.com
+114.4.42.121 docs.google.com
+114.4.42.121 drive.google.com
+114.4.42.121 docs0.google.com #www3.l.google.com
+114.4.42.121 docs1.google.com #www3.l.google.com
+114.4.42.121 docs2.google.com #www3.l.google.com
+114.4.42.121 docs3.google.com #www3.l.google.com
+114.4.42.121 docs4.google.com #www3.l.google.com
+114.4.42.121 docs5.google.com #www3.l.google.com
+114.4.42.121 docs6.google.com #www3.l.google.com
+114.4.42.121 docs7.google.com #www3.l.google.com
+114.4.42.121 docs8.google.com #www3.l.google.com
+114.4.42.121 docs9.google.com #www3.l.google.com
+114.4.42.121 writely.google.com #www3.l.google.com
+114.4.42.121 upload.docs.google.com #large-uploads.l.google.com
+114.4.42.121 upload.drive.google.com #large-uploads.l.google.com
+114.4.42.121 *.docs.google.com #browserchannel-docs.l.google.com
+114.4.42.121 *.drive.google.com #browserchannel-docs.l.google.com
+114.4.42.121 0.docs.google.com
+114.4.42.121 1.docs.google.com
+114.4.42.121 2.docs.google.com
+114.4.42.121 3.docs.google.com
+114.4.42.121 4.docs.google.com
+114.4.42.121 5.docs.google.com
+114.4.42.121 6.docs.google.com
+114.4.42.121 7.docs.google.com
+114.4.42.121 8.docs.google.com
+114.4.42.121 9.docs.google.com
+114.4.42.121 10.docs.google.com
+114.4.42.121 11.docs.google.com
+114.4.42.121 12.docs.google.com
+114.4.42.121 13.docs.google.com
+114.4.42.121 14.docs.google.com
+114.4.42.121 15.docs.google.com
+114.4.42.121 16.docs.google.com
+114.4.42.121 0.drive.google.com
+114.4.42.121 1.drive.google.com
+114.4.42.121 2.drive.google.com
+114.4.42.121 3.drive.google.com
+114.4.42.121 4.drive.google.com
+114.4.42.121 5.drive.google.com
+114.4.42.121 6.drive.google.com
+114.4.42.121 7.drive.google.com
+114.4.42.121 8.drive.google.com
+114.4.42.121 9.drive.google.com
+114.4.42.121 10.drive.google.com
+114.4.42.121 11.drive.google.com
+114.4.42.121 12.drive.google.com
+114.4.42.121 13.drive.google.com
+114.4.42.121 14.drive.google.com
+114.4.42.121 15.drive.google.com
+114.4.42.121 16.drive.google.com
+114.4.42.121 spreadsheet.google.com #spreadsheets.l.google.com
+114.4.42.121 spreadsheets.google.com #spreadsheets.l.google.com
+114.4.42.121 spreadsheets0.google.com #www3.l.google.com
+114.4.42.121 spreadsheets1.google.com #www3.l.google.com
+114.4.42.121 spreadsheets2.google.com #www3.l.google.com
+114.4.42.121 spreadsheets3.google.com #www3.l.google.com
+114.4.42.121 spreadsheets4.google.com #www3.l.google.com
+114.4.42.121 spreadsheets5.google.com #www3.l.google.com
+114.4.42.121 spreadsheets6.google.com #www3.l.google.com
+114.4.42.121 spreadsheets7.google.com #www3.l.google.com
+114.4.42.121 spreadsheets8.google.com #www3.l.google.com
+114.4.42.121 spreadsheets9.google.com #www3.l.google.com
 ## Domains
-210.242.127.20 domains.google.com
+114.4.42.121 domains.google.com
 ## Download
-210.242.127.20 dl.google.com #dl.l.google.com
-210.242.127.20 dl-ssl.google.com #dl-ssl.l.google.com
+114.4.42.121 dl.google.com #dl.l.google.com
+114.4.42.121 dl-ssl.google.com #dl-ssl.l.google.com
 ## Google Earth
-210.242.127.20 earth.google.com #www3.l.google.com
-210.242.127.20 auth.keyhole.com #www3.l.google.com
-210.242.127.20 geoauth.google.com #www3.l.google.com
+114.4.42.121 earth.google.com #www3.l.google.com
+114.4.42.121 auth.keyhole.com #www3.l.google.com
+114.4.42.121 geoauth.google.com #www3.l.google.com
 ## Finance
-210.242.127.20 finance.google.com #www3.l.google.com
+114.4.42.121 finance.google.com #www3.l.google.com
 ## Fusion RSS
-210.242.127.20 fusion.google.com #www2.l.google.com
+114.4.42.121 fusion.google.com #www2.l.google.com
 ## Gmail
-210.242.127.20 mail.google.com #googlemail.l.google.com
-210.242.127.20 chatenabled.mail.google.com #b.googlemail.l.google.com
-210.242.127.20 filetransferenabled.mail.google.com #b.googlemail.l.google.com
+114.4.42.121 mail.google.com #googlemail.l.google.com
+114.4.42.121 chatenabled.mail.google.com #b.googlemail.l.google.com
+114.4.42.121 filetransferenabled.mail.google.com #b.googlemail.l.google.com
 #2404:6800:4008:c00::62 talk.gmail.com
-210.242.127.20 gmail.google.com #www3.l.google.com
+114.4.42.121 gmail.google.com #www3.l.google.com
 216.58.221.165 www.gmail.com #googlemail.l.google.com
 216.58.221.165 gmail.com
 216.58.221.165 m.gmail.com #googlemail.l.google.com
@@ -396,314 +396,314 @@
 64.233.189.108 imap.googlemail.com #googlemail-imap.l.google.com
 ## Group
 #2401:3800:c001::68 groups.google.cn
-210.242.127.20 groups.google.com #groups.l.google.com
-210.242.127.20 groups.google.com.hk #groups.l.google.com
-210.242.127.20 groups-beta.google.com #groups.l.google.com
-210.242.127.20 productforums.google.com #groups.l.google.com
-210.242.127.20 *.googlegroups.com #googlegroups.l.googleusercontent.com
-210.242.127.20 blob-s-docs.googlegroups.com #googlegroups.l.googleusercontent.com
+114.4.42.121 groups.google.com #groups.l.google.com
+114.4.42.121 groups.google.com.hk #groups.l.google.com
+114.4.42.121 groups-beta.google.com #groups.l.google.com
+114.4.42.121 productforums.google.com #groups.l.google.com
+114.4.42.121 *.googlegroups.com #googlegroups.l.googleusercontent.com
+114.4.42.121 blob-s-docs.googlegroups.com #googlegroups.l.googleusercontent.com
 ## Health 
-210.242.127.20 health.google.com #www3.l.google.com
-## Images
-210.242.127.20 images.google.com #images.l.google.com
-210.242.127.20 images.google.com.hk #images.l.google.com
-210.242.127.20 tbn0.google.com #tbn.l.google.com
-210.242.127.20 tbn1.google.com #tbn.l.google.com
-210.242.127.20 tbn2.google.com #tbn.l.google.com
-210.242.127.20 tbn3.google.com #tbn.l.google.com
+114.4.42.121 health.google.com #www3.l.google.com
+## Images ͼƬ
+114.4.42.121 images.google.com #images.l.google.com
+114.4.42.121 images.google.com.hk #images.l.google.com
+114.4.42.121 tbn0.google.com #tbn.l.google.com
+114.4.42.121 tbn1.google.com #tbn.l.google.com
+114.4.42.121 tbn2.google.com #tbn.l.google.com
+114.4.42.121 tbn3.google.com #tbn.l.google.com
 #2404:6800:4008:c00::62 tbn4.google.com
 #2404:6800:4008:c00::62 tbn5.google.com
 #2404:6800:4008:c00::62 tbn6.google.com
 ## Inbox
-210.242.127.20 inbox.google.com
+114.4.42.121 inbox.google.com
 ## Input Tools
-210.242.127.20 inputtools.google.com #www4.l.google.com
+114.4.42.121 inputtools.google.com #www4.l.google.com
 ## Knol 
-210.242.127.20 knol.google.com #www3.l.google.com
+114.4.42.121 knol.google.com #www3.l.google.com
 ## Labs
-210.242.127.20 labs.google.cn #www3.l.google.com
-210.242.127.20 labs.google.com #www3.l.google.com
-45.62.110.151 www.googlelabs.com
-45.62.110.151 browsersize.googlelabs.com
-45.62.110.151 bodybrowser.googlelabs.com
-45.62.110.151 citytours.googlelabs.com
-45.62.110.151 correlate.googlelabs.com
-45.62.110.151 datawiki.googlelabs.com
-45.62.110.151 earthengine.googlelabs.com
-45.62.110.151 fastflip.googlelabs.com
-45.62.110.151 followfinder.googlelabs.com
-45.62.110.151 guru.googlelabs.com
-45.62.110.151 image-swirl.googlelabs.com
-45.62.110.151 juliamap.googlelabs.com
-45.62.110.151 listen.googlelabs.com
-45.62.110.151 livingstories.googlelabs.com
-45.62.110.151 newstimeline.googlelabs.com
-45.62.110.151 ngrams.googlelabs.com
-45.62.110.151 pagespeed.googlelabs.com
-45.62.110.151 relatedlinks.googlelabs.com
-45.62.110.151 scribe.googlelabs.com
-45.62.110.151 scriptconv.googlelabs.com
-45.62.110.151 similar-images.googlelabs.com
-45.62.110.151 storegadget.googlelabs.com
-45.62.110.151 swiffy.googlelabs.com
-45.62.110.151 tables.googlelabs.com
+114.4.42.121 labs.google.cn #www3.l.google.com
+114.4.42.121 labs.google.com #www3.l.google.com
+114.4.42.121 www.googlelabs.com
+114.4.42.121 browsersize.googlelabs.com
+114.4.42.121 bodybrowser.googlelabs.com
+114.4.42.121 citytours.googlelabs.com
+114.4.42.121 correlate.googlelabs.com
+114.4.42.121 datawiki.googlelabs.com
+114.4.42.121 earthengine.googlelabs.com
+114.4.42.121 fastflip.googlelabs.com
+114.4.42.121 followfinder.googlelabs.com
+114.4.42.121 guru.googlelabs.com
+114.4.42.121 image-swirl.googlelabs.com
+114.4.42.121 juliamap.googlelabs.com
+114.4.42.121 listen.googlelabs.com
+114.4.42.121 livingstories.googlelabs.com
+114.4.42.121 newstimeline.googlelabs.com
+114.4.42.121 ngrams.googlelabs.com
+114.4.42.121 pagespeed.googlelabs.com
+114.4.42.121 relatedlinks.googlelabs.com
+114.4.42.121 scribe.googlelabs.com
+114.4.42.121 scriptconv.googlelabs.com
+114.4.42.121 similar-images.googlelabs.com
+114.4.42.121 storegadget.googlelabs.com
+114.4.42.121 swiffy.googlelabs.com
+114.4.42.121 tables.googlelabs.com
 ## Google Mars
-210.242.127.20 mars.google.com #www3.l.google.com
+114.4.42.121 mars.google.com #www3.l.google.com
 ## Maps
-210.242.127.20 maps.google.com
-210.242.127.20 maps.google.com.hk #maps-cctld.l.google.com
-210.242.127.20 maps.google.com.tw #maps-cctld.l.google.com
-210.242.127.20 local.google.com #maps.l.google.com
-210.242.127.20 ditu.google.com #maps.l.google.com
-210.242.127.20 maps-api-ssl.google.com #clients.l.google.com
-210.242.127.20 map.google.com #maps.google.com
-210.242.127.20 kh.google.com #keyhole.l.google.com
-210.242.127.20 khmdb.google.com #khmdb.l.google.com
-210.242.127.20 khm.google.com #khm.l.google.com
-210.242.127.20 khm0.google.com #khm.l.google.com
-210.242.127.20 khm1.google.com #khm.l.google.com
-210.242.127.20 khm2.google.com #khm.l.google.com
-210.242.127.20 khm3.google.com #khm.l.google.com
+114.4.42.121 maps.google.com
+114.4.42.121 maps.google.com.hk #maps-cctld.l.google.com
+114.4.42.121 maps.google.com.tw #maps-cctld.l.google.com
+114.4.42.121 local.google.com #maps.l.google.com
+114.4.42.121 ditu.google.com #maps.l.google.com
+114.4.42.121 maps-api-ssl.google.com #clients.l.google.com
+114.4.42.121 map.google.com #maps.google.com
+114.4.42.121 kh.google.com #keyhole.l.google.com
+114.4.42.121 khmdb.google.com #khmdb.l.google.com
+114.4.42.121 khm.google.com #khm.l.google.com
+114.4.42.121 khm0.google.com #khm.l.google.com
+114.4.42.121 khm1.google.com #khm.l.google.com
+114.4.42.121 khm2.google.com #khm.l.google.com
+114.4.42.121 khm3.google.com #khm.l.google.com
 #2404:6800:4008:c00::64 cbk0.google.com #cbk.l.google.com
-210.242.127.20 cbk1.google.com #cbk.l.google.com
-210.242.127.20 cbk2.google.com #cbk.l.google.com
-210.242.127.20 cbk3.google.com #cbk.l.google.com
-210.242.127.20 khms.google.com #khms.l.google.com
-210.242.127.20 khms0.google.com #khms.l.google.com
-210.242.127.20 khms1.google.com #khms.l.google.com
-210.242.127.20 khms2.google.com #khms.l.google.com
-210.242.127.20 khms3.google.com #khms.l.google.com
-210.242.127.20 cbks0.google.com #khms.l.google.com
-210.242.127.20 cbks1.google.com #khms.l.google.com
-210.242.127.20 cbks2.google.com #khms.l.google.com
-210.242.127.20 cbks3.google.com #khms.l.google.com
-210.242.127.20 mw1.google.com #mw-small.l.google.com
-210.242.127.20 mw2.google.com #mw-medium.l.google.com
-210.242.127.20 mt.google.com #mt.l.google.com
-210.242.127.20 mt0.google.com #mt.l.google.com
-210.242.127.20 mt1.google.com #mt.l.google.com
-210.242.127.20 mt2.google.com #mt.l.google.com
-210.242.127.20 mt3.google.com #mt.l.google.com
-210.242.127.20 gg.google.com
-210.242.127.20 gg.google.cn
-210.242.127.20 id.google.com #id.l.google.com
-210.242.127.20 id.google.cn #id.l.google.com
-210.242.127.20 ditu.google.cn
-210.242.127.20 mt.google.cn #ditu.google.cn
-210.242.127.20 mt0.google.cn
-210.242.127.20 mt1.google.cn
-210.242.127.20 mt2.google.cn
-210.242.127.20 mt3.google.cn
-210.242.127.20 mts.google.com #mts.l.google.com
-210.242.127.20 mts0.google.com #mts.l.google.com
-210.242.127.20 mts1.google.com #mts.l.google.com
-210.242.127.20 mts2.google.com #mts.l.google.com
-210.242.127.20 mts3.google.com #mts.l.google.com
-210.242.127.20 maps.gstatic.cn #www.gstatic.cn
-210.242.127.20 mobilemaps.clients.google.com #clients.l.google.com
+114.4.42.121 cbk1.google.com #cbk.l.google.com
+114.4.42.121 cbk2.google.com #cbk.l.google.com
+114.4.42.121 cbk3.google.com #cbk.l.google.com
+114.4.42.121 khms.google.com #khms.l.google.com
+114.4.42.121 khms0.google.com #khms.l.google.com
+114.4.42.121 khms1.google.com #khms.l.google.com
+114.4.42.121 khms2.google.com #khms.l.google.com
+114.4.42.121 khms3.google.com #khms.l.google.com
+114.4.42.121 cbks0.google.com #khms.l.google.com
+114.4.42.121 cbks1.google.com #khms.l.google.com
+114.4.42.121 cbks2.google.com #khms.l.google.com
+114.4.42.121 cbks3.google.com #khms.l.google.com
+114.4.42.121 mw1.google.com #mw-small.l.google.com
+114.4.42.121 mw2.google.com #mw-medium.l.google.com
+114.4.42.121 mt.google.com #mt.l.google.com
+114.4.42.121 mt0.google.com #mt.l.google.com
+114.4.42.121 mt1.google.com #mt.l.google.com
+114.4.42.121 mt2.google.com #mt.l.google.com
+114.4.42.121 mt3.google.com #mt.l.google.com
+114.4.42.121 gg.google.com
+114.4.42.121 gg.google.cn
+114.4.42.121 id.google.com #id.l.google.com
+114.4.42.121 id.google.cn #id.l.google.com
+114.4.42.121 ditu.google.cn
+114.4.42.121 mt.google.cn #ditu.google.cn
+114.4.42.121 mt0.google.cn
+114.4.42.121 mt1.google.cn
+114.4.42.121 mt2.google.cn
+114.4.42.121 mt3.google.cn
+114.4.42.121 mts.google.com #mts.l.google.com
+114.4.42.121 mts0.google.com #mts.l.google.com
+114.4.42.121 mts1.google.com #mts.l.google.com
+114.4.42.121 mts2.google.com #mts.l.google.com
+114.4.42.121 mts3.google.com #mts.l.google.com
+114.4.42.121 maps.gstatic.cn #www.gstatic.cn
+114.4.42.121 mobilemaps.clients.google.com #clients.l.google.com
 ## Music Beta by Google
-210.242.127.20 music.google.com #www3.l.google.com
-210.242.127.20 t.doc-0-0-sj.sj.googleusercontent.com #music-streaming.l.google.com
-45.62.105.62 music.googleusercontent.com #googlehosted.l.googleusercontent.com
-210.242.127.20 uploadsj.clients.google.com #large-uploads.l.google.com
+114.4.42.121 music.google.com #www3.l.google.com
+114.4.42.121 t.doc-0-0-sj.sj.googleusercontent.com #music-streaming.l.google.com
+138.128.212.149 music.googleusercontent.com #googlehosted.l.googleusercontent.com
+114.4.42.121 uploadsj.clients.google.com #large-uploads.l.google.com
 ## News
-210.242.127.20 news.google.com #news.l.google.com
-210.242.127.20 news.google.com.hk #news-cctld.l.google.com
-210.242.127.20 news.google.com.tw #news-cctld.l.google.com
+114.4.42.121 news.google.com #news.l.google.com
+114.4.42.121 news.google.com.hk #news-cctld.l.google.com
+114.4.42.121 news.google.com.tw #news-cctld.l.google.com
 ## Pack
-210.242.127.20 pack.google.com #www2.l.google.com
-210.242.127.20 cache.pack.google.com #redirector.c.pack.google.com
-210.242.127.20 pack.google.cn #www2.l.google.com
+114.4.42.121 pack.google.com #www2.l.google.com
+114.4.42.121 cache.pack.google.com #redirector.c.pack.google.com
+114.4.42.121 pack.google.cn #www2.l.google.com
 ## Photo/Picasa
-210.242.127.20 photos.google.com #picasaweb.l.google.com
-210.242.127.20 picasa.google.com #www2.l.google.com
-210.242.127.20 picasaweb.google.com #picasaweb.l.google.com
-210.242.127.20 lh2.google.com #lh2.l.google.com
-210.242.127.20 lh3.google.com #lh2.l.google.com
-210.242.127.20 lh4.google.com #lh2.l.google.com
-210.242.127.20 lh5.google.com #lh2.l.google.com
-210.242.127.20 lh6.google.com #lh2.l.google.com
-210.242.127.20 upload.photos.google.com #large-uploads.l.google.com
+114.4.42.121 photos.google.com #picasaweb.l.google.com
+114.4.42.121 picasa.google.com #www2.l.google.com
+114.4.42.121 picasaweb.google.com #picasaweb.l.google.com
+114.4.42.121 lh2.google.com #lh2.l.google.com
+114.4.42.121 lh3.google.com #lh2.l.google.com
+114.4.42.121 lh4.google.com #lh2.l.google.com
+114.4.42.121 lh5.google.com #lh2.l.google.com
+114.4.42.121 lh6.google.com #lh2.l.google.com
+114.4.42.121 upload.photos.google.com #large-uploads.l.google.com
 ## Profiles
-210.242.127.20 profiles.google.com
-210.242.127.20 plusone.google.com #plus.l.google.com
-210.242.127.20 plus.google.com
+114.4.42.121 profiles.google.com
+114.4.42.121 plusone.google.com #plus.l.google.com
+114.4.42.121 plus.google.com
 #2404:6800:4008:c00::8a plus.google.com.hk
-210.242.127.20 plus.url.google.com #www3.l.google.com
+114.4.42.121 plus.url.google.com #www3.l.google.com
 #2404:6800:4008:c00::8a plus.url.google.com.hk 
-210.242.127.20 developers.google.com #www3.l.google.com
-210.242.127.20 cloud.google.com
-210.242.127.20 console.developers.google.com
-210.242.127.20 cloudssh.developers.google.com #www3.l.google.com
-210.242.127.20 source.developers.google.com
+114.4.42.121 developers.google.com #www3.l.google.com
+114.4.42.121 cloud.google.com
+114.4.42.121 console.developers.google.com
+114.4.42.121 cloudssh.developers.google.com #www3.l.google.com
+114.4.42.121 source.developers.google.com
 ## Reader
-210.242.127.20 reader.google.com #www2.l.google.com
+114.4.42.121 reader.google.com #www2.l.google.com
 ## Research
-210.242.127.20 research.google.com #www3.l.google.com
+114.4.42.121 research.google.com #www3.l.google.com
 ## SafeBrowing
-210.242.127.20 sb.google.com #sb.l.google.com
-210.242.127.20 sb-ssl.google.com #sb-ssl.l.google.com
-210.242.127.20 safebrowsing.google.com #sb.l.google.com
-210.242.127.20 alt1-safebrowsing.google.com
-210.242.127.20 safebrowsing.clients.google.com #clients.l.google.com
-210.242.127.20 safebrowsing-cache.google.com #safebrowsing.cache.l.google.com
+114.4.42.121 sb.google.com #sb.l.google.com
+114.4.42.121 sb-ssl.google.com #sb-ssl.l.google.com
+114.4.42.121 safebrowsing.google.com #sb.l.google.com
+114.4.42.121 alt1-safebrowsing.google.com
+114.4.42.121 safebrowsing.clients.google.com #clients.l.google.com
+114.4.42.121 safebrowsing-cache.google.com #safebrowsing.cache.l.google.com
 ## Sandbox 
-210.242.127.20 sandbox.google.com #sandbox.l.google.com
+114.4.42.121 sandbox.google.com #sandbox.l.google.com
 ## Scholar
-210.242.127.20 scholar.google.com
-210.242.127.20 scholar.google.com.hk
-210.242.127.20 scholar.google.com.tw
-210.242.127.20 scholar.google.cn #www.google.cn
+114.4.42.121 scholar.google.com
+114.4.42.121 scholar.google.com.hk
+114.4.42.121 scholar.google.com.tw
+114.4.42.121 scholar.google.cn #www.google.cn
 ## Sites
-210.242.127.20 sites.google.com #www3.l.google.com
-210.242.127.20 gsamplemaps.googlepages.com #ghs.googlehosted.com
+114.4.42.121 sites.google.com #www3.l.google.com
+114.4.42.121 gsamplemaps.googlepages.com #ghs.googlehosted.com
 ## SketchUp 3D
 #2404:6800:4008:c00::66 sketchup.google.com
 ## Google Talk/Chat
 64.233.171.188 talk.google.com #talk.l.google.com
 #2404:6800:4008:c00::62 default.talk.google.com
-210.242.127.20 talkgadget.google.com #talkgadget.l.google.com
+114.4.42.121 talkgadget.google.com #talkgadget.l.google.com
 #2404:6800:4008:c00::62 rtmp0.google.com
 #2404:6800:4008:c00::62 users.talk.google.com
 64.233.171.188 mtalk.google.com #mobile-gtalk.l.google.com
 ## Tools
-210.242.127.20 tools.google.com #tools.l.google.com
-210.242.127.20 toolbar.google.com #tools.l.google.com
-210.242.127.20 toolbar.google.com.hk #tools.l.google.com
+114.4.42.121 tools.google.com #tools.l.google.com
+114.4.42.121 toolbar.google.com #tools.l.google.com
+114.4.42.121 toolbar.google.com.hk #tools.l.google.com
 ## Translate
-210.242.127.20 translate.google.com #www3.l.google.com
-210.242.127.20 translate.google.com.hk
-210.242.127.20 translate.google.com.tw
-210.242.127.20 translate.google.cn #www.google.cn
+114.4.42.121 translate.google.com #www3.l.google.com
+114.4.42.121 translate.google.com.hk
+114.4.42.121 translate.google.com.tw
+114.4.42.121 translate.google.cn #www.google.cn
 ## Trends 
-210.242.127.20 trends.google.com #www2.l.google.com
-210.242.127.20 www.gvt0.cn
-210.242.127.20 0.gvt0.cn #www.gvt0.cn
-210.242.127.20 1.gvt0.cn #www.gvt0.cn
-210.242.127.20 2.gvt0.cn #www.gvt0.cn
-210.242.127.20 3.gvt0.cn #www.gvt0.cn
+114.4.42.121 trends.google.com #www2.l.google.com
+114.4.42.121 www.gvt0.cn
+114.4.42.121 0.gvt0.cn #www.gvt0.cn
+114.4.42.121 1.gvt0.cn #www.gvt0.cn
+114.4.42.121 2.gvt0.cn #www.gvt0.cn
+114.4.42.121 3.gvt0.cn #www.gvt0.cn
 ## Wave
-210.242.127.20 wave.google.com #www4.l.google.com
+114.4.42.121 wave.google.com #www4.l.google.com
 #2404:6800:4008:c00::76 wave0.google.com
-210.242.127.20 wave1.google.com #www4.l.google.com
-210.242.127.20 googlewave.com
+114.4.42.121 wave1.google.com #www4.l.google.com
+114.4.42.121 googlewave.com
 ## WiFi
 #2404:6800:4008:c00::7b wifi.google.com
 ## iGoogle Modules iGoogle
-45.62.105.62 www-gmc-opensocial.googleusercontent.com
+138.128.212.149 www-gmc-opensocial.googleusercontent.com
 2607:f8b0:4007:804::1011 gmodules.com
-45.62.105.62 www.gmodules.com #googlehosted.l.googleusercontent.com
-45.62.105.62 www.ig.gmodules.com #googlehosted.l.googleusercontent.com
-45.62.105.62 ig.gmodules.com #googlehosted.l.googleusercontent.com
-45.62.105.62 ads.gmodules.com #googlehosted.l.googleusercontent.com
-45.62.105.62 p.gmodules.com #googlehosted.l.googleusercontent.com
-45.62.105.62 1.ig.gmodules.com #googlehosted.l.googleusercontent.com
-45.62.105.62 2.ig.gmodules.com #googlehosted.l.googleusercontent.com
-45.62.105.62 3.ig.gmodules.com #googlehosted.l.googleusercontent.com
-45.62.105.62 4.ig.gmodules.com #googlehosted.l.googleusercontent.com
-45.62.105.62 5.ig.gmodules.com #googlehosted.l.googleusercontent.com
-45.62.105.62 6.ig.gmodules.com #googlehosted.l.googleusercontent.com
-45.62.105.62 maps.gmodules.com #googlehosted.l.googleusercontent.com
-45.62.105.62 img0.gmodules.com #googlehosted.l.googleusercontent.com
-45.62.105.62 img1.gmodules.com #googlehosted.l.googleusercontent.com
-45.62.105.62 img2.gmodules.com #googlehosted.l.googleusercontent.com
-45.62.105.62 img3.gmodules.com #googlehosted.l.googleusercontent.com
-45.62.105.62 skins.gmodules.com #googlehosted.l.googleusercontent.com
-210.242.127.20 friendconnect.gmodules.com #gadgets.l.googleusercontent.com
-210.242.127.20 0.blogger.gmodules.com #gadgets.l.googleusercontent.com
-210.242.127.20 partnerpage.google.com #www2.l.google.com
-45.62.105.62 *.ig.ig.gmodules.com #googlehosted.l.googleusercontent.com
+138.128.212.149 www.gmodules.com #googlehosted.l.googleusercontent.com
+138.128.212.149 www.ig.gmodules.com #googlehosted.l.googleusercontent.com
+138.128.212.149 ig.gmodules.com #googlehosted.l.googleusercontent.com
+138.128.212.149 ads.gmodules.com #googlehosted.l.googleusercontent.com
+138.128.212.149 p.gmodules.com #googlehosted.l.googleusercontent.com
+138.128.212.149 1.ig.gmodules.com #googlehosted.l.googleusercontent.com
+138.128.212.149 2.ig.gmodules.com #googlehosted.l.googleusercontent.com
+138.128.212.149 3.ig.gmodules.com #googlehosted.l.googleusercontent.com
+138.128.212.149 4.ig.gmodules.com #googlehosted.l.googleusercontent.com
+138.128.212.149 5.ig.gmodules.com #googlehosted.l.googleusercontent.com
+138.128.212.149 6.ig.gmodules.com #googlehosted.l.googleusercontent.com
+138.128.212.149 maps.gmodules.com #googlehosted.l.googleusercontent.com
+138.128.212.149 img0.gmodules.com #googlehosted.l.googleusercontent.com
+138.128.212.149 img1.gmodules.com #googlehosted.l.googleusercontent.com
+138.128.212.149 img2.gmodules.com #googlehosted.l.googleusercontent.com
+138.128.212.149 img3.gmodules.com #googlehosted.l.googleusercontent.com
+138.128.212.149 skins.gmodules.com #googlehosted.l.googleusercontent.com
+114.4.42.121 friendconnect.gmodules.com #gadgets.l.googleusercontent.com
+114.4.42.121 0.blogger.gmodules.com #gadgets.l.googleusercontent.com
+114.4.42.121 partnerpage.google.com #www2.l.google.com
+138.128.212.149 *.ig.ig.gmodules.com #googlehosted.l.googleusercontent.com
 ## GGPht Google
-45.62.105.62 geo0.ggpht.com
-45.62.105.62 geo1.ggpht.com
-45.62.105.62 geo2.ggpht.com
-45.62.105.62 geo3.ggpht.com
-45.62.105.62 gm1.ggpht.com #photos-ugc.l.googleusercontent.com
-45.62.105.62 gm2.ggpht.com #photos-ugc.l.googleusercontent.com
-45.62.105.62 gm3.ggpht.com #photos-ugc.l.googleusercontent.com
-45.62.105.62 gm4.ggpht.com #photos-ugc.l.googleusercontent.com
-45.62.105.62 lh3.ggpht.com #photos-ugc.l.googleusercontent.com
-45.62.105.62 lh4.ggpht.com #photos-ugc.l.googleusercontent.com
-45.62.105.62 lh5.ggpht.com #photos-ugc.l.googleusercontent.com
-45.62.105.62 lh6.ggpht.com #photos-ugc.l.googleusercontent.com
-45.62.105.62 nt0.ggpht.com #photos-ugc.l.googleusercontent.com
-45.62.105.62 nt1.ggpht.com #photos-ugc.l.googleusercontent.com
-45.62.105.62 nt2.ggpht.com #photos-ugc.l.googleusercontent.com
-45.62.105.62 nt3.ggpht.com #photos-ugc.l.googleusercontent.com
+138.128.212.149 geo0.ggpht.com
+138.128.212.149 geo1.ggpht.com
+138.128.212.149 geo2.ggpht.com
+138.128.212.149 geo3.ggpht.com
+138.128.212.149 gm1.ggpht.com #photos-ugc.l.googleusercontent.com
+138.128.212.149 gm2.ggpht.com #photos-ugc.l.googleusercontent.com
+138.128.212.149 gm3.ggpht.com #photos-ugc.l.googleusercontent.com
+138.128.212.149 gm4.ggpht.com #photos-ugc.l.googleusercontent.com
+138.128.212.149 lh3.ggpht.com #photos-ugc.l.googleusercontent.com
+138.128.212.149 lh4.ggpht.com #photos-ugc.l.googleusercontent.com
+138.128.212.149 lh5.ggpht.com #photos-ugc.l.googleusercontent.com
+138.128.212.149 lh6.ggpht.com #photos-ugc.l.googleusercontent.com
+138.128.212.149 nt0.ggpht.com #photos-ugc.l.googleusercontent.com
+138.128.212.149 nt1.ggpht.com #photos-ugc.l.googleusercontent.com
+138.128.212.149 nt2.ggpht.com #photos-ugc.l.googleusercontent.com
+138.128.212.149 nt3.ggpht.com #photos-ugc.l.googleusercontent.com
 #2404:6800:4008:c00::62 nt4.ggpht.com
 #2404:6800:4008:c00::62 nt5.ggpht.com
-45.62.105.62 yt3.ggpht.com #photos-ugc.l.googleusercontent.com
-45.62.105.62 yt4.ggpht.com #photos-ugc.l.googleusercontent.com
-45.62.105.62 gp3.googleusercontent.com #photos-ugc.l.googleusercontent.com
-45.62.105.62 gp4.googleusercontent.com #photos-ugc.l.googleusercontent.com
-45.62.105.62 gp5.googleusercontent.com #photos-ugc.l.googleusercontent.com
-45.62.105.62 gp6.googleusercontent.com #photos-ugc.l.googleusercontent.com
-45.62.105.62 gp.googleusercontent.com #googlehosted.l.googleusercontent.com
+138.128.212.149 yt3.ggpht.com #photos-ugc.l.googleusercontent.com
+138.128.212.149 yt4.ggpht.com #photos-ugc.l.googleusercontent.com
+138.128.212.149 gp3.googleusercontent.com #photos-ugc.l.googleusercontent.com
+138.128.212.149 gp4.googleusercontent.com #photos-ugc.l.googleusercontent.com
+138.128.212.149 gp5.googleusercontent.com #photos-ugc.l.googleusercontent.com
+138.128.212.149 gp6.googleusercontent.com #photos-ugc.l.googleusercontent.com
+138.128.212.149 gp.googleusercontent.com #googlehosted.l.googleusercontent.com
 ## GStatic Google
-210.242.127.20 csi.gstatic.com
-210.242.127.20 fonts.gstatic.com
-210.242.127.20 maps.gstatic.com
-210.242.127.20 ssl.gstatic.com
-210.242.127.20 www.gstatic.com
-210.242.127.20 www.gstatic.cn
-210.242.127.20 encrypted-tbn0.gstatic.com
-210.242.127.20 encrypted-tbn1.gstatic.com
-210.242.127.20 encrypted-tbn2.gstatic.com
-210.242.127.20 encrypted-tbn3.gstatic.com
-210.242.127.20 g0.gstatic.com
-210.242.127.20 g1.gstatic.com
-210.242.127.20 g2.gstatic.com
-210.242.127.20 g3.gstatic.com
-210.242.127.20 mt0.gstatic.com
-210.242.127.20 mt1.gstatic.com
-210.242.127.20 mt2.gstatic.com
-210.242.127.20 mt3.gstatic.com
-210.242.127.20 mt4.gstatic.com
-210.242.127.20 mt5.gstatic.com
-210.242.127.20 mt6.gstatic.com
-210.242.127.20 mt7.gstatic.com
-210.242.127.20 t0.gstatic.com
-210.242.127.20 t1.gstatic.com
-210.242.127.20 t2.gstatic.com
-210.242.127.20 t3.gstatic.com
+114.4.42.121 csi.gstatic.com
+114.4.42.121 fonts.gstatic.com
+114.4.42.121 maps.gstatic.com
+114.4.42.121 ssl.gstatic.com
+114.4.42.121 www.gstatic.com
+114.4.42.121 www.gstatic.cn
+114.4.42.121 encrypted-tbn0.gstatic.com
+114.4.42.121 encrypted-tbn1.gstatic.com
+114.4.42.121 encrypted-tbn2.gstatic.com
+114.4.42.121 encrypted-tbn3.gstatic.com
+114.4.42.121 g0.gstatic.com
+114.4.42.121 g1.gstatic.com
+114.4.42.121 g2.gstatic.com
+114.4.42.121 g3.gstatic.com
+114.4.42.121 mt0.gstatic.com
+114.4.42.121 mt1.gstatic.com
+114.4.42.121 mt2.gstatic.com
+114.4.42.121 mt3.gstatic.com
+114.4.42.121 mt4.gstatic.com
+114.4.42.121 mt5.gstatic.com
+114.4.42.121 mt6.gstatic.com
+114.4.42.121 mt7.gstatic.com
+114.4.42.121 t0.gstatic.com
+114.4.42.121 t1.gstatic.com
+114.4.42.121 t2.gstatic.com
+114.4.42.121 t3.gstatic.com
 ## Google APIs
-210.242.127.20 apis.google.com #plus.l.google.com
-210.242.127.20 chart.apis.google.com #clients.l.google.com
-45.62.97.42 mclients.googleapis.com
-45.62.97.42 googleapis.com
-45.62.97.42 www.googleapis.com #googleapis.l.google.com
-210.242.127.93 *.googleapis.com #googleapis.l.google.com
-210.242.127.93 ajax.googleapis.com #googleapis.l.google.com
-45.62.97.42 android.googleapis.com #googleapis.l.google.com
-210.242.127.93 bigcache.googleapis.com #googleapis.l.google.com
-210.242.127.93 chart.googleapis.com #googleapis.l.google.com
-210.242.127.93 content.googleapis.com #googleapis.l.google.com
-210.242.127.93 fonts.googleapis.com #googleapis.l.google.com
-210.242.127.93 maps.googleapis.com #googleapis.l.google.com
-210.242.127.93 play.googleapis.com #googleapis.l.google.com
-210.242.127.93 plus.googleapis.com #googleapis.l.google.com
-210.242.127.93 redirector-bigcache.googleapis.com #googleapis.l.google.com
-210.242.127.93 translate.googleapis.com #googleapis.l.google.com
-210.242.127.93 youtube.googleapis.com #googleapis.l.google.com
+114.4.42.121 apis.google.com #plus.l.google.com
+114.4.42.121 chart.apis.google.com #clients.l.google.com
+138.128.215.160 mclients.googleapis.com
+138.128.215.160 googleapis.com
+138.128.215.160 www.googleapis.com #googleapis.l.google.com
+114.4.42.121 *.googleapis.com #googleapis.l.google.com
+114.4.42.121 ajax.googleapis.com #googleapis.l.google.com
+138.128.215.160 android.googleapis.com #googleapis.l.google.com
+114.4.42.121 bigcache.googleapis.com #googleapis.l.google.com
+114.4.42.121 chart.googleapis.com #googleapis.l.google.com
+114.4.42.121 content.googleapis.com #googleapis.l.google.com
+114.4.42.121 fonts.googleapis.com #googleapis.l.google.com
+114.4.42.121 maps.googleapis.com #googleapis.l.google.com
+114.4.42.121 play.googleapis.com #googleapis.l.google.com
+114.4.42.121 plus.googleapis.com #googleapis.l.google.com
+114.4.42.121 redirector-bigcache.googleapis.com #googleapis.l.google.com
+114.4.42.121 translate.googleapis.com #googleapis.l.google.com
+114.4.42.121 youtube.googleapis.com #googleapis.l.google.com
 #2404:6800:4008:c00::5f googleapis-ajax.google.com
-210.242.127.20 mt0.googleapis.com #mt.l.google.com
-210.242.127.20 mt1.googleapis.com #mt.l.google.com
-210.242.127.20 mt2.googleapis.com #mt.l.google.com
-210.242.127.20 mt3.googleapis.com #mt.l.google.com
+114.4.42.121 mt0.googleapis.com #mt.l.google.com
+114.4.42.121 mt1.googleapis.com #mt.l.google.com
+114.4.42.121 mt2.googleapis.com #mt.l.google.com
+114.4.42.121 mt3.googleapis.com #mt.l.google.com
 ## Google Hosted 
-45.62.105.62 storage.googleapis.com #storage-ugc.l.googleusercontent.com
-45.62.105.62 commondatastorage.googleapis.com #storage-ugc.l.googleusercontent.com
-45.62.105.62 bucket.commondatastorage.googleapis.com #storage-ugc.l.googleusercontent.com
-45.62.105.62 chromium-browser-symbols.commondatastorage.googleapis.com #storage-ugc.l.googleusercontent.com
-45.62.105.62 c.commondatastorage.googleapis.com #storage.l.googleusercontent.com
-45.62.105.62 www.googlehosted.com #googlehosted.l.googleusercontent.com
-210.242.127.20 base.googlehosted.com #www2.l.google.com
-210.242.127.20 base0.googlehosted.com #www2.l.google.com
-210.242.127.20 base1.googlehosted.com #www2.l.google.com
-210.242.127.20 base2.googlehosted.com #www2.l.google.com
-210.242.127.20 base3.googlehosted.com #www2.l.google.com
-45.62.105.62 base4.googlehosted.com #googlehosted.l.googleusercontent.com
-45.62.105.62 base5.googlehosted.com #googlehosted.l.googleusercontent.com
+138.128.212.149 storage.googleapis.com #storage-ugc.l.googleusercontent.com
+138.128.212.149 commondatastorage.googleapis.com #storage-ugc.l.googleusercontent.com
+138.128.212.149 bucket.commondatastorage.googleapis.com #storage-ugc.l.googleusercontent.com
+138.128.212.149 chromium-browser-symbols.commondatastorage.googleapis.com #storage-ugc.l.googleusercontent.com
+138.128.212.149 c.commondatastorage.googleapis.com #storage.l.googleusercontent.com
+138.128.212.149 www.googlehosted.com #googlehosted.l.googleusercontent.com
+114.4.42.121 base.googlehosted.com #www2.l.google.com
+114.4.42.121 base0.googlehosted.com #www2.l.google.com
+114.4.42.121 base1.googlehosted.com #www2.l.google.com
+114.4.42.121 base2.googlehosted.com #www2.l.google.com
+114.4.42.121 base3.googlehosted.com #www2.l.google.com
+138.128.212.149 base4.googlehosted.com #googlehosted.l.googleusercontent.com
+138.128.212.149 base5.googlehosted.com #googlehosted.l.googleusercontent.com
 ## Google
 ## DoubleClick
 0.0.0.0 ad.doubleclick.net #dart.l.doubleclick.net
@@ -731,339 +731,345 @@
 203.208.37.30 ssl.google-analytics.com #ssl-google-analytics.l.google.com
 #2404:6800:4008:c00::61 *.google-analytics.com
 203.208.37.30 service.urchin.com #www-google-analytics.l.google.com
-210.242.127.20 analytics.google.com #www3.l.google.com
+114.4.42.121 analytics.google.com #www3.l.google.com
 ## Google Art Project
-210.242.127.20 www.googleartproject.com #www3.l.google.com
-45.62.110.151 art-project-media.appspot.com #appspot.l.google.com
+114.4.42.121 www.googleartproject.com #www3.l.google.com
+114.4.42.121 art-project-media.appspot.com #appspot.l.google.com
 ## FeedBurner
-210.242.127.20 feedburner.google.com #www3.l.google.com
-210.242.127.20 www.feedburner.com #www3.l.google.com
-210.242.127.20 feeds.feedburner.com #www4.l.google.com
-210.242.127.20 feeds2.feedburner.com #www4.l.google.com
-210.242.127.20 feedproxy.google.com #www4.l.google.com
+114.4.42.121 feedburner.google.com #www3.l.google.com
+114.4.42.121 www.feedburner.com #www3.l.google.com
+114.4.42.121 feeds.feedburner.com #www4.l.google.com
+114.4.42.121 feeds2.feedburner.com #www4.l.google.com
+114.4.42.121 feedproxy.google.com #www4.l.google.com
 ## The Go Programming Language Go
-45.62.110.151 golang.org
-45.62.110.151 www.golang.org #golang.org
-45.62.110.151 blog.golang.org #golang.org
-45.62.110.151 play.golang.org #golang.org
-45.62.110.151 tip.golang.org #golang.org
-45.62.110.151 tour.golang.org #golang.org
+114.4.42.121 golang.org
+114.4.42.121 www.golang.org #golang.org
+114.4.42.121 blog.golang.org #golang.org
+114.4.42.121 play.golang.org #golang.org
+114.4.42.121 tip.golang.org #golang.org
+114.4.42.121 tour.golang.org #golang.org
 ## Goo.gl Google
-210.242.127.20 goo.gl
-210.242.127.20 g.co
+114.4.42.121 goo.gl
+114.4.42.121 g.co
 ## html5rocks HTML5 
-210.242.127.20 www.html5rocks.com #ghs.l.google.com
-210.242.127.20 slides.html5rocks.com #ghs.l.google.com
-210.242.127.20 playground.html5rocks.com #ghs.l.google.com
-210.242.127.20 studio.html5rocks.com #ghs.l.google.com
+114.4.42.121 www.html5rocks.com #ghs.l.google.com
+114.4.42.121 slides.html5rocks.com #ghs.l.google.com
+114.4.42.121 playground.html5rocks.com #ghs.l.google.com
+114.4.42.121 studio.html5rocks.com #ghs.l.google.com
 ## Google.org Google
-210.242.127.20 blog.google.org #ghs.l.google.com
+114.4.42.121 blog.google.org #ghs.l.google.com
 ## Panoramio
-45.62.110.151 www.panoramio.com #appspot.l.google.com
-210.242.127.20 static.panoramio.com #storage.l.googleusercontent.com
-210.242.127.20 blog.panoramio.com #ghs.l.google.com
+114.4.42.121 www.panoramio.com #appspot.l.google.com
+114.4.42.121 static.panoramio.com #storage.l.googleusercontent.com
+114.4.42.121 blog.panoramio.com #ghs.l.google.com
 ## Recaptcha
-210.242.127.20 www.recaptcha.net #www.l.google.com
-210.242.127.20 api.recaptcha.net #www.l.google.com
-210.242.127.20 api-secure.recaptcha.net #www.l.google.com
-210.242.127.20 mailhide.recaptcha.net #www.l.google.com
+114.4.42.121 www.recaptcha.net #www.l.google.com
+114.4.42.121 api.recaptcha.net #www.l.google.com
+114.4.42.121 api-secure.recaptcha.net #www.l.google.com
+114.4.42.121 mailhide.recaptcha.net #www.l.google.com
 ## Google Wave Federation Protocol
-210.242.127.20 www.waveprotocol.org #ghs.l.google.com
+114.4.42.121 www.waveprotocol.org #ghs.l.google.com
 ## The WebM Project WebM
-210.242.127.20 webmproject.org
-210.242.127.20 www.webmproject.org #www3.l.google.com
-210.242.127.20 lists.webmproject.org #ghs.l.google.com
-210.242.127.20 blog.webmproject.org #ghs.l.google.com
-210.242.127.20 www.webm-ccl.org #ghs.l.google.com
+114.4.42.121 webmproject.org
+114.4.42.121 www.webmproject.org #www3.l.google.com
+114.4.42.121 lists.webmproject.org #ghs.l.google.com
+114.4.42.121 blog.webmproject.org #ghs.l.google.com
+114.4.42.121 www.webm-ccl.org #ghs.l.google.com
 ## Chrome
-210.242.127.20 www.chromercise.com #www3.l.google.com
-210.242.127.20 www.chromeexperiments.com #ghs.l.google.com
-210.242.127.20 www.20thingsilearned.com #ghs.l.google.com
+114.4.42.121 www.chromercise.com #www3.l.google.com
+114.4.42.121 www.chromeexperiments.com #ghs.l.google.com
+114.4.42.121 www.20thingsilearned.com #ghs.l.google.com
 ##
-210.242.127.20 www.creativelab5.com #ghs.google.com
-210.242.127.20 www.data-vocabulary.org #www3.l.google.com
-210.242.127.20 www.googleinsidesearch.com #www3.l.google.com
-210.242.127.20 www.teachparentstech.org #ghs.l.google.com
-210.242.127.20 www.agoogleaday.com #www4.l.google.com
-210.242.127.20 www.gosetsuden.jp #ghs.l.google.com
-210.242.127.20 www.thegooglepuzzle.com #ghs.l.google.com
-210.242.127.20 www.thegobridgeoglepuzzle.com #ghs.l.google.com
-45.62.110.151 www.thinkwithgoogle.com
-210.242.127.20 www.oneworldmanystories.com #www3.l.google.com
-210.242.127.20 www.googlezeitgeist.com #ghs.l.google.com
-210.242.127.20 www.googleinsidesearch.com #www3.l.google.com
+114.4.42.121 www.creativelab5.com #ghs.google.com
+114.4.42.121 www.data-vocabulary.org #www3.l.google.com
+114.4.42.121 www.googleinsidesearch.com #www3.l.google.com
+114.4.42.121 www.teachparentstech.org #ghs.l.google.com
+114.4.42.121 www.agoogleaday.com #www4.l.google.com
+114.4.42.121 www.gosetsuden.jp #ghs.l.google.com
+114.4.42.121 www.thegooglepuzzle.com #ghs.l.google.com
+114.4.42.121 www.thegobridgeoglepuzzle.com #ghs.l.google.com
+114.4.42.121 www.thinkwithgoogle.com
+114.4.42.121 www.oneworldmanystories.com #www3.l.google.com
+114.4.42.121 www.googlezeitgeist.com #ghs.l.google.com
+114.4.42.121 www.googleinsidesearch.com #www3.l.google.com
 #2404:6800:4008:c00::79 www.emailintervention.com #ghs.l.google.com
 #2404:6800:4008:c00::79 www.dartlang.org #ghs.l.google.com
 #2404:6800:4008:c00::79 try.dartlang.org #ghs.l.google.com
-210.242.127.20 news.dartlang.org #ghs.l.google.com
+114.4.42.121 news.dartlang.org #ghs.l.google.com
 ## AdWords/AdSense
 #2404:6800:4008:c00::62 www.googlesyndication.com
 0.0.0.0 www.googleadservices.com #pagead.l.doubleclick.net
 #2404:6800:4008:c00::9a domains.googlesyndication.com #pagead.l.doubleclick.net
 0.0.0.0 pagead2.googlesyndication.com #pagead46.l.doubleclick.net
-210.242.127.20 adwords.google.com #adwords.l.google.com
-210.242.127.20 adwords.google.sk #adwords.l.google.com
+114.4.42.121 adwords.google.com #adwords.l.google.com
+114.4.42.121 adwords.google.sk #adwords.l.google.com
 #2404:6800:4008:c00::9a partner.googleadservices.com #partnerad.l.doubleclick.net
 #2404:6800:4008:c00::62 pagead.google.com
 #2404:6800:4008:c00::9a pagead2.googleadservices.com #pagead.l.doubleclick.net
-210.242.127.20 buttons.googlesyndication.com #www.google.com
+114.4.42.121 buttons.googlesyndication.com #www.google.com
 0.0.0.0 tpc.googlesyndication.com #pagead-googlehosted.l.google.com
 ## Android Google
-210.242.127.20 www.android.com #www3.l.google.com
-210.242.127.20 android.com
-210.242.127.20 developer.android.com #www3.l.google.com
-210.242.127.20 source.android.com #www3.l.google.com
-210.242.127.20 market.android.com #android-market.l.google.com
-210.242.127.20 android.clients.google.com #android.l.google.com
-210.242.127.20 play.google.com #play.l.google.com
+114.4.42.121 www.android.com #www3.l.google.com
+114.4.42.121 android.com
+114.4.42.121 developer.android.com #www3.l.google.com
+114.4.42.121 source.android.com #www3.l.google.com
+114.4.42.121 market.android.com #android-market.l.google.com
+114.4.42.121 android.clients.google.com #android.l.google.com
+114.4.42.121 play.google.com #play.l.google.com
 ## GoogleUserContent
-45.62.105.62 www.googleusercontent.com
-45.62.105.62 www-gmi-opensocial.googleusercontent.com
-45.62.105.62 androidmarket.googleusercontent.com
-45.62.105.62 blogger.googleusercontent.com
-45.62.105.62 blogspot.l.googleusercontent.com
-210.242.127.20 gadgets.l.googleusercontent.com
-45.62.105.62 googlehosted.l.googleusercontent.com
+138.128.212.149 www.googleusercontent.com
+138.128.212.149 www-gmi-opensocial.googleusercontent.com
+138.128.212.149 androidmarket.googleusercontent.com
+138.128.212.149 blogger.googleusercontent.com
+138.128.212.149 blogspot.l.googleusercontent.com
+114.4.42.121 gadgets.l.googleusercontent.com
+138.128.212.149 googlehosted.l.googleusercontent.com
 64.233.160.82 googlecode.l.googleusercontent.com
 64.233.184.137 googlegroups.l.googleusercontent.com
-45.62.105.62 photos-ugc.l.googleusercontent.com
-210.242.127.20 storage.l.googleusercontent.com
-45.62.105.62 storage-ugc.l.googleusercontent.com
-45.62.105.62 www-blogger-opensocial.googleusercontent.com
-45.62.105.62 books.googleusercontent.com
-45.62.105.62 ci1.googleusercontent.com
-45.62.105.62 ci2.googleusercontent.com
-45.62.105.62 ci3.googleusercontent.com
-45.62.105.62 ci4.googleusercontent.com
-45.62.105.62 ci5.googleusercontent.com
-45.62.105.62 ci6.googleusercontent.com
-45.62.105.62 clients1.googleusercontent.com
-45.62.105.62 clients2.googleusercontent.com
-45.62.105.62 clients4.googleusercontent.com
-45.62.105.62 clients5.googleusercontent.com
-45.62.105.62 clients6.googleusercontent.com
-45.62.105.62 code-opensocial.googleusercontent.com
-45.62.105.62 doc-00-1k-docs.googleusercontent.com
-45.62.105.62 doc-00-1o-docs.googleusercontent.com
-45.62.105.62 doc-04-1o-docs.googleusercontent.com
-45.62.105.62 doc-08-1o-docs.googleusercontent.com
-45.62.105.62 doc-0c-1o-docs.googleusercontent.com
-45.62.105.62 doc-0g-1o-docs.googleusercontent.com
-45.62.105.62 doc-0k-1o-docs.googleusercontent.com
-45.62.105.62 doc-0o-1o-docs.googleusercontent.com
-45.62.105.62 doc-0s-1o-docs.googleusercontent.com
-45.62.105.62 doc-10-1o-docs.googleusercontent.com
-45.62.105.62 doc-14-1o-docs.googleusercontent.com
-45.62.105.62 doc-10-2c-docs.googleusercontent.com
-45.62.105.62 doc-0k-38-docs.googleusercontent.com
-45.62.105.62 doc-14-48-docs.googleusercontent.com
-45.62.105.62 doc-00-6c-docs.googleusercontent.com
-45.62.105.62 doc-04-6c-docs.googleusercontent.com
-45.62.105.62 doc-08-6c-docs.googleusercontent.com
-45.62.105.62 doc-0c-6c-docs.googleusercontent.com
-45.62.105.62 doc-0g-6c-docs.googleusercontent.com
-45.62.105.62 doc-0k-6c-docs.googleusercontent.com
-45.62.105.62 doc-0o-6c-docs.googleusercontent.com
-45.62.105.62 doc-0s-6c-docs.googleusercontent.com
-45.62.105.62 doc-10-6c-docs.googleusercontent.com
-45.62.105.62 doc-14-6c-docs.googleusercontent.com
-45.62.105.62 doc-0o-74-docs.googleusercontent.com
-45.62.105.62 doc-14-74-docs.googleusercontent.com
-45.62.105.62 doc-00-7o-docs.googleusercontent.com
-45.62.105.62 doc-04-7o-docs.googleusercontent.com
-45.62.105.62 doc-08-7o-docs.googleusercontent.com
-45.62.105.62 doc-0c-7o-docs.googleusercontent.com
-45.62.105.62 doc-0g-7o-docs.googleusercontent.com
-45.62.105.62 doc-0k-7o-docs.googleusercontent.com
-45.62.105.62 doc-0o-7o-docs.googleusercontent.com
-45.62.105.62 doc-0s-7o-docs.googleusercontent.com
-45.62.105.62 doc-10-7o-docs.googleusercontent.com
-45.62.105.62 doc-14-7o-docs.googleusercontent.com
-45.62.105.62 doc-00-8k-docs.googleusercontent.com
-45.62.105.62 doc-04-8k-docs.googleusercontent.com
-45.62.105.62 doc-08-8k-docs.googleusercontent.com
-45.62.105.62 doc-0c-8k-docs.googleusercontent.com
-45.62.105.62 doc-0g-8k-docs.googleusercontent.com
-45.62.105.62 doc-0k-8k-docs.googleusercontent.com
-45.62.105.62 doc-0o-8k-docs.googleusercontent.com
-45.62.105.62 doc-0s-8k-docs.googleusercontent.com
-45.62.105.62 doc-10-8k-docs.googleusercontent.com
-45.62.105.62 doc-14-8k-docs.googleusercontent.com
-45.62.105.62 doc-00-9k-docs.googleusercontent.com
-45.62.105.62 doc-04-9k-docs.googleusercontent.com
-45.62.105.62 doc-08-9k-docs.googleusercontent.com
-45.62.105.62 doc-0c-9k-docs.googleusercontent.com
-45.62.105.62 doc-0g-9k-docs.googleusercontent.com
-45.62.105.62 doc-0k-9k-docs.googleusercontent.com
-45.62.105.62 doc-0o-9k-docs.googleusercontent.com
-45.62.105.62 doc-0s-9k-docs.googleusercontent.com
-45.62.105.62 doc-10-9k-docs.googleusercontent.com
-45.62.105.62 doc-14-9k-docs.googleusercontent.com
-45.62.105.62 doc-00-as-docs.googleusercontent.com
-45.62.105.62 doc-04-as-docs.googleusercontent.com
-45.62.105.62 doc-08-as-docs.googleusercontent.com
-45.62.105.62 doc-0c-as-docs.googleusercontent.com
-45.62.105.62 doc-0g-as-docs.googleusercontent.com
-45.62.105.62 doc-0k-as-docs.googleusercontent.com
-45.62.105.62 doc-0o-as-docs.googleusercontent.com
-45.62.105.62 doc-0s-as-docs.googleusercontent.com
-45.62.105.62 doc-10-as-docs.googleusercontent.com
-45.62.105.62 doc-14-as-docs.googleusercontent.com
-45.62.105.62 doc-00-bg-docs.googleusercontent.com
-45.62.105.62 doc-00-2g-3dwarehouse.googleusercontent.com
-45.62.105.62 doc-04-2g-3dwarehouse.googleusercontent.com
-45.62.105.62 doc-08-2g-3dwarehouse.googleusercontent.com
-45.62.105.62 doc-0c-2g-3dwarehouse.googleusercontent.com
-45.62.105.62 doc-0g-2g-3dwarehouse.googleusercontent.com
-45.62.105.62 doc-0k-2g-3dwarehouse.googleusercontent.com
-45.62.105.62 doc-0o-2g-3dwarehouse.googleusercontent.com
-45.62.105.62 doc-0s-2g-3dwarehouse.googleusercontent.com
-45.62.105.62 doc-10-2g-3dwarehouse.googleusercontent.com
-45.62.105.62 doc-14-2g-3dwarehouse.googleusercontent.com
-45.62.105.62 feedback.googleusercontent.com
-45.62.105.62 images1-esmobile-opensocial.googleusercontent.com
-45.62.105.62 images2-esmobile-opensocial.googleusercontent.com
-45.62.105.62 images3-esmobile-opensocial.googleusercontent.com
-45.62.105.62 images4-esmobile-opensocial.googleusercontent.com
-45.62.105.62 images5-esmobile-opensocial.googleusercontent.com
-45.62.105.62 images6-esmobile-opensocial.googleusercontent.com
-45.62.105.62 images7-esmobile-opensocial.googleusercontent.com
-45.62.105.62 images8-esmobile-opensocial.googleusercontent.com
-45.62.105.62 images9-esmobile-opensocial.googleusercontent.com
-45.62.105.62 images1-hangout-opensocial.googleusercontent.com
-45.62.105.62 images2-hangout-opensocial.googleusercontent.com
-45.62.105.62 images3-hangout-opensocial.googleusercontent.com
-45.62.105.62 images4-hangout-opensocial.googleusercontent.com
-45.62.105.62 images5-hangout-opensocial.googleusercontent.com
-45.62.105.62 images6-hangout-opensocial.googleusercontent.com
-45.62.105.62 images7-hangout-opensocial.googleusercontent.com
-45.62.105.62 images8-hangout-opensocial.googleusercontent.com
-45.62.105.62 images9-hangout-opensocial.googleusercontent.com
-45.62.105.62 images-docs-opensocial.googleusercontent.com
-45.62.105.62 images-oz-opensocial.googleusercontent.com
-45.62.105.62 images-lso-opensocial.googleusercontent.com
-45.62.105.62 images-blogger-opensocial.googleusercontent.com
-45.62.105.62 images-pos-opensocial.googleusercontent.com
-45.62.105.62 lh0.googleusercontent.com
-45.62.105.62 lh1.googleusercontent.com
-45.62.105.62 lh2.googleusercontent.com
-45.62.105.62 lh3.googleusercontent.com
-45.62.105.62 lh4.googleusercontent.com
-45.62.105.62 lh5.googleusercontent.com
-45.62.105.62 lh6.googleusercontent.com
-45.62.105.62 mail-attachment.googleusercontent.com
-45.62.105.62 music.googleusercontent.com
-45.62.105.62 music-onebox.googleusercontent.com
-45.62.105.62 newsstand.googleusercontent.com
-45.62.105.62 oauth.googleusercontent.com
-45.62.105.62 producer.googleusercontent.com
-45.62.105.62 reader.googleusercontent.com
-45.62.105.62 s1.googleusercontent.com
-45.62.105.62 s2.googleusercontent.com
-45.62.105.62 spreadsheets-opensocial.googleusercontent.com
-45.62.105.62 static.googleusercontent.com
-45.62.105.62 themes.googleusercontent.com
-45.62.105.62 translate.googleusercontent.com
-45.62.105.62 video.googleusercontent.com
-45.62.105.62 wave.googleusercontent.com
-45.62.105.62 webcache.googleusercontent.com
-45.62.105.62 ytimg.googleusercontent.com
-45.62.105.62 www-opensocial.googleusercontent.com
-45.62.105.62 www-gm-opensocial.googleusercontent.com
-45.62.105.62 www-opensocial-sandbox.googleusercontent.com
-45.62.105.62 www-fc-opensocial.googleusercontent.com
-45.62.105.62 *-a-fc-opensocial.googleusercontent.com
-45.62.105.62 4lam9a1ki27mb9p1h5q3furvvf58ss02-a-gm-opensocial.googleusercontent.com
-45.62.105.62 nl3atn8402ncgahndqn8rb6qi2ld2g5a-a-gm-opensocial.googleusercontent.com
-45.62.105.62 8fkcem1ves287v3g5lu9gep1j91p3kk1-a-fc-opensocial.googleusercontent.com
-45.62.105.62 r1rk9np7bpcsfoeekl0khkd2juj27q3o-a-fc-opensocial.googleusercontent.com
-45.62.105.62 www-focus-opensocial.googleusercontent.com
-45.62.105.62 images0-focus-opensocial.googleusercontent.com
-45.62.105.62 images1-focus-opensocial.googleusercontent.com
-45.62.105.62 images2-focus-opensocial.googleusercontent.com
-45.62.105.62 images3-focus-opensocial.googleusercontent.com
-45.62.105.62 images4-focus-opensocial.googleusercontent.com
-45.62.105.62 images5-focus-opensocial.googleusercontent.com
-45.62.105.62 images6-focus-opensocial.googleusercontent.com
-45.62.105.62 images7-focus-opensocial.googleusercontent.com
-45.62.105.62 images8-focus-opensocial.googleusercontent.com
-45.62.105.62 images9-focus-opensocial.googleusercontent.com
-45.62.105.62 images*-focus-opensocial.googleusercontent.com
-45.62.105.62 0-focus-opensocial.googleusercontent.com
-45.62.105.62 1-focus-opensocial.googleusercontent.com
-45.62.105.62 2-focus-opensocial.googleusercontent.com
-45.62.105.62 3-focus-opensocial.googleusercontent.com
-45.62.105.62 www-fusiontables-opensocial.googleusercontent.com
-45.62.105.62 www-kix-opensocial.googleusercontent.com
-45.62.105.62 www-onepick-opensocial.googleusercontent.com
-45.62.105.62 images-onepick-opensocial.googleusercontent.com
-45.62.105.62 www-open-opensocial.googleusercontent.com
-45.62.105.62 *-a-oz-opensocial.googleusercontent.com
-45.62.105.62 0-open-opensocial.googleusercontent.com
-45.62.105.62 1-open-opensocial.googleusercontent.com
-45.62.105.62 2-open-opensocial.googleusercontent.com
-45.62.105.62 3-open-opensocial.googleusercontent.com
-45.62.105.62 www-oz-opensocial.googleusercontent.com
-45.62.105.62 4fjvqid3r3oq66t548clrdj52df15coc-a-oz-opensocial.googleusercontent.com
-45.62.105.62 53rd6p0catml6vat6qra84rs0del836d-a-oz-opensocial.googleusercontent.com
-45.62.105.62 59cbv4l9s05pbaks9v77vc3mengeqors-a-oz-opensocial.googleusercontent.com
-45.62.105.62 8kubpeu8314p2efdd7jlv09an9i2ljdo-a-oz-opensocial.googleusercontent.com
-45.62.105.62 adstvca8k2ooaknjjmv89j22n9t676ve-a-oz-opensocial.googleusercontent.com
-45.62.105.62 bt26mravu2qpe56n8gnmjnpv2inl84bf-a-oz-opensocial.googleusercontent.com
-45.62.105.62 debh8vg7vd93bco3prdajidmm7dhql3f-a-oz-opensocial.googleusercontent.com
-45.62.105.62 hsco54a20sh11q9jkmb51ad2n3hmkmrg-a-oz-opensocial.googleusercontent.com
-45.62.105.62 i8brh95qor6r54nkl52hidj2ggcs4jgm-a-oz-opensocial.googleusercontent.com
-45.62.105.62 k6v18tjr24doa89b55o3na41kn4v73eb-a-oz-opensocial.googleusercontent.com
-45.62.105.62 ob7f2qc0i50kbjnc81vkhgmb5hsv7a8l-a-oz-opensocial.googleusercontent.com
-45.62.105.62 qhie5b8u979rnch1q0hqbrmbkn9estf7-a-oz-opensocial.googleusercontent.com
-45.62.105.62 r70rmsn4s0rhk6cehcbbcbfbs31pu0va-a-oz-opensocial.googleusercontent.com
-45.62.105.62 rbjhe237k979f79d87gmenp3gejfonu9-a-oz-opensocial.googleusercontent.com
-45.62.105.62 u807isd5egseeabjccgcns005p2miucq-a-oz-opensocial.googleusercontent.com
-45.62.105.62 upt14k1i2veesusrda9nfotcrbp9d7p5-a-oz-opensocial.googleusercontent.com
-45.62.105.62 4098j3r7bdqqvlggmhbnlu6u5i8d08jq-a-oz-opensocial.googleusercontent.com
-45.62.105.62 www-trixcopysheet-opensocial.googleusercontent.com
-45.62.105.62 www-wave-opensocial.googleusercontent.com
-45.62.105.62 wave-opensocial.googleusercontent.com
-45.62.105.62 0-wave-opensocial.googleusercontent.com
-45.62.105.62 1-wave-opensocial.googleusercontent.com
-45.62.105.62 2-wave-opensocial.googleusercontent.com
-45.62.105.62 3-wave-opensocial.googleusercontent.com
-45.62.105.62 4-wave-opensocial.googleusercontent.com
-45.62.105.62 5-wave-opensocial.googleusercontent.com
-45.62.105.62 6-wave-opensocial.googleusercontent.com
-45.62.105.62 7-wave-opensocial.googleusercontent.com
-45.62.105.62 8-wave-opensocial.googleusercontent.com
-45.62.105.62 9-wave-opensocial.googleusercontent.com
-45.62.105.62 10-wave-opensocial.googleusercontent.com
-45.62.105.62 11-wave-opensocial.googleusercontent.com
-45.62.105.62 12-wave-opensocial.googleusercontent.com
-45.62.105.62 13-wave-opensocial.googleusercontent.com
-45.62.105.62 14-wave-opensocial.googleusercontent.com
-45.62.105.62 15-wave-opensocial.googleusercontent.com
-45.62.105.62 16-wave-opensocial.googleusercontent.com
-45.62.105.62 17-wave-opensocial.googleusercontent.com
-45.62.105.62 18-wave-opensocial.googleusercontent.com
-45.62.105.62 19-wave-opensocial.googleusercontent.com
-45.62.105.62 20-wave-opensocial.googleusercontent.com
-45.62.105.62 21-wave-opensocial.googleusercontent.com
-45.62.105.62 22-wave-opensocial.googleusercontent.com
-45.62.105.62 23-wave-opensocial.googleusercontent.com
-45.62.105.62 24-wave-opensocial.googleusercontent.com
-45.62.105.62 25-wave-opensocial.googleusercontent.com
-45.62.105.62 26-wave-opensocial.googleusercontent.com
-45.62.105.62 27-wave-opensocial.googleusercontent.com
-45.62.105.62 28-wave-opensocial.googleusercontent.com
-45.62.105.62 29-wave-opensocial.googleusercontent.com
-45.62.105.62 30-wave-opensocial.googleusercontent.com
-45.62.105.62 31-wave-opensocial.googleusercontent.com
-45.62.105.62 32-wave-opensocial.googleusercontent.com
-45.62.105.62 33-wave-opensocial.googleusercontent.com
-45.62.105.62 34-wave-opensocial.googleusercontent.com
-45.62.105.62 35-wave-opensocial.googleusercontent.com
-45.62.105.62 36-wave-opensocial.googleusercontent.com
-45.62.105.62 37-wave-opensocial.googleusercontent.com
-45.62.105.62 38-wave-opensocial.googleusercontent.com
-45.62.105.62 39-wave-opensocial.googleusercontent.com
-45.62.105.62 40-wave-opensocial.googleusercontent.com
+138.128.212.149 photos-ugc.l.googleusercontent.com
+114.4.42.121 storage.l.googleusercontent.com
+138.128.212.149 storage-ugc.l.googleusercontent.com
+138.128.212.149 www-blogger-opensocial.googleusercontent.com
+138.128.212.149 books.googleusercontent.com
+138.128.212.149 ci1.googleusercontent.com
+138.128.212.149 ci2.googleusercontent.com
+138.128.212.149 ci3.googleusercontent.com
+138.128.212.149 ci4.googleusercontent.com
+138.128.212.149 ci5.googleusercontent.com
+138.128.212.149 ci6.googleusercontent.com
+138.128.212.149 clients1.googleusercontent.com
+138.128.212.149 clients2.googleusercontent.com
+138.128.212.149 clients4.googleusercontent.com
+138.128.212.149 clients5.googleusercontent.com
+138.128.212.149 clients6.googleusercontent.com
+138.128.212.149 code-opensocial.googleusercontent.com
+138.128.212.149 doc-00-1k-docs.googleusercontent.com
+138.128.212.149 doc-00-1o-docs.googleusercontent.com
+138.128.212.149 doc-04-1o-docs.googleusercontent.com
+138.128.212.149 doc-08-1o-docs.googleusercontent.com
+138.128.212.149 doc-0c-1o-docs.googleusercontent.com
+138.128.212.149 doc-0g-1o-docs.googleusercontent.com
+138.128.212.149 doc-0k-1o-docs.googleusercontent.com
+138.128.212.149 doc-0o-1o-docs.googleusercontent.com
+138.128.212.149 doc-0s-1o-docs.googleusercontent.com
+138.128.212.149 doc-10-1o-docs.googleusercontent.com
+138.128.212.149 doc-14-1o-docs.googleusercontent.com
+138.128.212.149 doc-10-2c-docs.googleusercontent.com
+138.128.212.149 doc-0k-38-docs.googleusercontent.com
+138.128.212.149 doc-14-48-docs.googleusercontent.com
+138.128.212.149 doc-00-6c-docs.googleusercontent.com
+138.128.212.149 doc-04-6c-docs.googleusercontent.com
+138.128.212.149 doc-08-6c-docs.googleusercontent.com
+138.128.212.149 doc-0c-6c-docs.googleusercontent.com
+138.128.212.149 doc-0g-6c-docs.googleusercontent.com
+138.128.212.149 doc-0k-6c-docs.googleusercontent.com
+138.128.212.149 doc-0o-6c-docs.googleusercontent.com
+138.128.212.149 doc-0s-6c-docs.googleusercontent.com
+138.128.212.149 doc-10-6c-docs.googleusercontent.com
+138.128.212.149 doc-14-6c-docs.googleusercontent.com
+138.128.212.149 doc-0o-74-docs.googleusercontent.com
+138.128.212.149 doc-14-74-docs.googleusercontent.com
+138.128.212.149 doc-00-7o-docs.googleusercontent.com
+138.128.212.149 doc-04-7o-docs.googleusercontent.com
+138.128.212.149 doc-08-7o-docs.googleusercontent.com
+138.128.212.149 doc-0c-7o-docs.googleusercontent.com
+138.128.212.149 doc-0g-7o-docs.googleusercontent.com
+138.128.212.149 doc-0k-7o-docs.googleusercontent.com
+138.128.212.149 doc-0o-7o-docs.googleusercontent.com
+138.128.212.149 doc-0s-7o-docs.googleusercontent.com
+138.128.212.149 doc-10-7o-docs.googleusercontent.com
+138.128.212.149 doc-14-7o-docs.googleusercontent.com
+138.128.212.149 doc-00-8k-docs.googleusercontent.com
+138.128.212.149 doc-04-8k-docs.googleusercontent.com
+138.128.212.149 doc-08-8k-docs.googleusercontent.com
+138.128.212.149 doc-0c-8k-docs.googleusercontent.com
+138.128.212.149 doc-0g-8k-docs.googleusercontent.com
+138.128.212.149 doc-0k-8k-docs.googleusercontent.com
+138.128.212.149 doc-0o-8k-docs.googleusercontent.com
+138.128.212.149 doc-0s-8k-docs.googleusercontent.com
+138.128.212.149 doc-10-8k-docs.googleusercontent.com
+138.128.212.149 doc-14-8k-docs.googleusercontent.com
+138.128.212.149 doc-00-9k-docs.googleusercontent.com
+138.128.212.149 doc-04-9k-docs.googleusercontent.com
+138.128.212.149 doc-08-9k-docs.googleusercontent.com
+138.128.212.149 doc-0c-9k-docs.googleusercontent.com
+138.128.212.149 doc-0g-9k-docs.googleusercontent.com
+138.128.212.149 doc-0k-9k-docs.googleusercontent.com
+138.128.212.149 doc-0o-9k-docs.googleusercontent.com
+138.128.212.149 doc-0s-9k-docs.googleusercontent.com
+138.128.212.149 doc-10-9k-docs.googleusercontent.com
+138.128.212.149 doc-14-9k-docs.googleusercontent.com
+138.128.212.149 doc-00-as-docs.googleusercontent.com
+138.128.212.149 doc-04-as-docs.googleusercontent.com
+138.128.212.149 doc-08-as-docs.googleusercontent.com
+138.128.212.149 doc-0c-as-docs.googleusercontent.com
+138.128.212.149 doc-0g-as-docs.googleusercontent.com
+138.128.212.149 doc-0k-as-docs.googleusercontent.com
+138.128.212.149 doc-0o-as-docs.googleusercontent.com
+138.128.212.149 doc-0s-as-docs.googleusercontent.com
+138.128.212.149 doc-10-as-docs.googleusercontent.com
+138.128.212.149 doc-14-as-docs.googleusercontent.com
+138.128.212.149 doc-00-bg-docs.googleusercontent.com
+138.128.212.149 doc-00-2g-3dwarehouse.googleusercontent.com
+138.128.212.149 doc-04-2g-3dwarehouse.googleusercontent.com
+138.128.212.149 doc-08-2g-3dwarehouse.googleusercontent.com
+138.128.212.149 doc-0c-2g-3dwarehouse.googleusercontent.com
+138.128.212.149 doc-0g-2g-3dwarehouse.googleusercontent.com
+138.128.212.149 doc-0k-2g-3dwarehouse.googleusercontent.com
+138.128.212.149 doc-0o-2g-3dwarehouse.googleusercontent.com
+138.128.212.149 doc-0s-2g-3dwarehouse.googleusercontent.com
+138.128.212.149 doc-10-2g-3dwarehouse.googleusercontent.com
+138.128.212.149 doc-14-2g-3dwarehouse.googleusercontent.com
+138.128.212.149 feedback.googleusercontent.com
+138.128.212.149 images1-esmobile-opensocial.googleusercontent.com
+138.128.212.149 images2-esmobile-opensocial.googleusercontent.com
+138.128.212.149 images3-esmobile-opensocial.googleusercontent.com
+138.128.212.149 images4-esmobile-opensocial.googleusercontent.com
+138.128.212.149 images5-esmobile-opensocial.googleusercontent.com
+138.128.212.149 images6-esmobile-opensocial.googleusercontent.com
+138.128.212.149 images7-esmobile-opensocial.googleusercontent.com
+138.128.212.149 images8-esmobile-opensocial.googleusercontent.com
+138.128.212.149 images9-esmobile-opensocial.googleusercontent.com
+138.128.212.149 images1-hangout-opensocial.googleusercontent.com
+138.128.212.149 images2-hangout-opensocial.googleusercontent.com
+138.128.212.149 images3-hangout-opensocial.googleusercontent.com
+138.128.212.149 images4-hangout-opensocial.googleusercontent.com
+138.128.212.149 images5-hangout-opensocial.googleusercontent.com
+138.128.212.149 images6-hangout-opensocial.googleusercontent.com
+138.128.212.149 images7-hangout-opensocial.googleusercontent.com
+138.128.212.149 images8-hangout-opensocial.googleusercontent.com
+138.128.212.149 images9-hangout-opensocial.googleusercontent.com
+138.128.212.149 images-docs-opensocial.googleusercontent.com
+138.128.212.149 images-oz-opensocial.googleusercontent.com
+138.128.212.149 images-lso-opensocial.googleusercontent.com
+138.128.212.149 images-blogger-opensocial.googleusercontent.com
+138.128.212.149 images-pos-opensocial.googleusercontent.com
+138.128.212.149 lh0.googleusercontent.com
+138.128.212.149 lh1.googleusercontent.com
+138.128.212.149 lh2.googleusercontent.com
+138.128.212.149 lh3.googleusercontent.com
+138.128.212.149 lh4.googleusercontent.com
+138.128.212.149 lh5.googleusercontent.com
+138.128.212.149 lh6.googleusercontent.com
+138.128.212.149 mail-attachment.googleusercontent.com
+138.128.212.149 music.googleusercontent.com
+138.128.212.149 music-onebox.googleusercontent.com
+138.128.212.149 newsstand.googleusercontent.com
+138.128.212.149 oauth.googleusercontent.com
+138.128.212.149 producer.googleusercontent.com
+138.128.212.149 reader.googleusercontent.com
+138.128.212.149 s1.googleusercontent.com
+138.128.212.149 s2.googleusercontent.com
+138.128.212.149 spreadsheets-opensocial.googleusercontent.com
+138.128.212.149 static.googleusercontent.com
+138.128.212.149 themes.googleusercontent.com
+138.128.212.149 translate.googleusercontent.com
+138.128.212.149 video.googleusercontent.com
+138.128.212.149 wave.googleusercontent.com
+138.128.212.149 webcache.googleusercontent.com
+138.128.212.149 ytimg.googleusercontent.com
+138.128.212.149 www-opensocial.googleusercontent.com
+138.128.212.149 www-gm-opensocial.googleusercontent.com
+138.128.212.149 www-opensocial-sandbox.googleusercontent.com
+138.128.212.149 www-fc-opensocial.googleusercontent.com
+138.128.212.149 *-a-fc-opensocial.googleusercontent.com
+138.128.212.149 4lam9a1ki27mb9p1h5q3furvvf58ss02-a-gm-opensocial.googleusercontent.com
+138.128.212.149 nl3atn8402ncgahndqn8rb6qi2ld2g5a-a-gm-opensocial.googleusercontent.com
+138.128.212.149 8fkcem1ves287v3g5lu9gep1j91p3kk1-a-fc-opensocial.googleusercontent.com
+138.128.212.149 r1rk9np7bpcsfoeekl0khkd2juj27q3o-a-fc-opensocial.googleusercontent.com
+138.128.212.149 www-focus-opensocial.googleusercontent.com
+138.128.212.149 images0-focus-opensocial.googleusercontent.com
+138.128.212.149 images1-focus-opensocial.googleusercontent.com
+138.128.212.149 images2-focus-opensocial.googleusercontent.com
+138.128.212.149 images3-focus-opensocial.googleusercontent.com
+138.128.212.149 images4-focus-opensocial.googleusercontent.com
+138.128.212.149 images5-focus-opensocial.googleusercontent.com
+138.128.212.149 images6-focus-opensocial.googleusercontent.com
+138.128.212.149 images7-focus-opensocial.googleusercontent.com
+138.128.212.149 images8-focus-opensocial.googleusercontent.com
+138.128.212.149 images9-focus-opensocial.googleusercontent.com
+138.128.212.149 images*-focus-opensocial.googleusercontent.com
+138.128.212.149 0-focus-opensocial.googleusercontent.com
+138.128.212.149 1-focus-opensocial.googleusercontent.com
+138.128.212.149 2-focus-opensocial.googleusercontent.com
+138.128.212.149 3-focus-opensocial.googleusercontent.com
+138.128.212.149 www-fusiontables-opensocial.googleusercontent.com
+138.128.212.149 www-kix-opensocial.googleusercontent.com
+138.128.212.149 www-onepick-opensocial.googleusercontent.com
+138.128.212.149 images-onepick-opensocial.googleusercontent.com
+138.128.212.149 www-open-opensocial.googleusercontent.com
+138.128.212.149 *-a-oz-opensocial.googleusercontent.com
+138.128.212.149 0-open-opensocial.googleusercontent.com
+138.128.212.149 1-open-opensocial.googleusercontent.com
+138.128.212.149 2-open-opensocial.googleusercontent.com
+138.128.212.149 3-open-opensocial.googleusercontent.com
+138.128.212.149 www-oz-opensocial.googleusercontent.com
+138.128.212.149 4fjvqid3r3oq66t548clrdj52df15coc-a-oz-opensocial.googleusercontent.com
+138.128.212.149 53rd6p0catml6vat6qra84rs0del836d-a-oz-opensocial.googleusercontent.com
+138.128.212.149 59cbv4l9s05pbaks9v77vc3mengeqors-a-oz-opensocial.googleusercontent.com
+138.128.212.149 8kubpeu8314p2efdd7jlv09an9i2ljdo-a-oz-opensocial.googleusercontent.com
+138.128.212.149 adstvca8k2ooaknjjmv89j22n9t676ve-a-oz-opensocial.googleusercontent.com
+138.128.212.149 bt26mravu2qpe56n8gnmjnpv2inl84bf-a-oz-opensocial.googleusercontent.com
+138.128.212.149 debh8vg7vd93bco3prdajidmm7dhql3f-a-oz-opensocial.googleusercontent.com
+138.128.212.149 hsco54a20sh11q9jkmb51ad2n3hmkmrg-a-oz-opensocial.googleusercontent.com
+138.128.212.149 i8brh95qor6r54nkl52hidj2ggcs4jgm-a-oz-opensocial.googleusercontent.com
+138.128.212.149 k6v18tjr24doa89b55o3na41kn4v73eb-a-oz-opensocial.googleusercontent.com
+138.128.212.149 ob7f2qc0i50kbjnc81vkhgmb5hsv7a8l-a-oz-opensocial.googleusercontent.com
+138.128.212.149 qhie5b8u979rnch1q0hqbrmbkn9estf7-a-oz-opensocial.googleusercontent.com
+138.128.212.149 r70rmsn4s0rhk6cehcbbcbfbs31pu0va-a-oz-opensocial.googleusercontent.com
+138.128.212.149 rbjhe237k979f79d87gmenp3gejfonu9-a-oz-opensocial.googleusercontent.com
+138.128.212.149 u807isd5egseeabjccgcns005p2miucq-a-oz-opensocial.googleusercontent.com
+138.128.212.149 upt14k1i2veesusrda9nfotcrbp9d7p5-a-oz-opensocial.googleusercontent.com
+138.128.212.149 4098j3r7bdqqvlggmhbnlu6u5i8d08jq-a-oz-opensocial.googleusercontent.com
+138.128.212.149 www-trixcopysheet-opensocial.googleusercontent.com
+138.128.212.149 www-wave-opensocial.googleusercontent.com
+138.128.212.149 wave-opensocial.googleusercontent.com
+138.128.212.149 0-wave-opensocial.googleusercontent.com
+138.128.212.149 1-wave-opensocial.googleusercontent.com
+138.128.212.149 2-wave-opensocial.googleusercontent.com
+138.128.212.149 3-wave-opensocial.googleusercontent.com
+138.128.212.149 4-wave-opensocial.googleusercontent.com
+138.128.212.149 5-wave-opensocial.googleusercontent.com
+138.128.212.149 6-wave-opensocial.googleusercontent.com
+138.128.212.149 7-wave-opensocial.googleusercontent.com
+138.128.212.149 8-wave-opensocial.googleusercontent.com
+138.128.212.149 9-wave-opensocial.googleusercontent.com
+138.128.212.149 10-wave-opensocial.googleusercontent.com
+138.128.212.149 11-wave-opensocial.googleusercontent.com
+138.128.212.149 12-wave-opensocial.googleusercontent.com
+138.128.212.149 13-wave-opensocial.googleusercontent.com
+138.128.212.149 14-wave-opensocial.googleusercontent.com
+138.128.212.149 15-wave-opensocial.googleusercontent.com
+138.128.212.149 16-wave-opensocial.googleusercontent.com
+138.128.212.149 17-wave-opensocial.googleusercontent.com
+138.128.212.149 18-wave-opensocial.googleusercontent.com
+138.128.212.149 19-wave-opensocial.googleusercontent.com
+138.128.212.149 20-wave-opensocial.googleusercontent.com
+138.128.212.149 21-wave-opensocial.googleusercontent.com
+138.128.212.149 22-wave-opensocial.googleusercontent.com
+138.128.212.149 23-wave-opensocial.googleusercontent.com
+138.128.212.149 24-wave-opensocial.googleusercontent.com
+138.128.212.149 25-wave-opensocial.googleusercontent.com
+138.128.212.149 26-wave-opensocial.googleusercontent.com
+138.128.212.149 27-wave-opensocial.googleusercontent.com
+138.128.212.149 28-wave-opensocial.googleusercontent.com
+138.128.212.149 29-wave-opensocial.googleusercontent.com
+138.128.212.149 30-wave-opensocial.googleusercontent.com
+138.128.212.149 31-wave-opensocial.googleusercontent.com
+138.128.212.149 32-wave-opensocial.googleusercontent.com
+138.128.212.149 33-wave-opensocial.googleusercontent.com
+138.128.212.149 34-wave-opensocial.googleusercontent.com
+138.128.212.149 35-wave-opensocial.googleusercontent.com
+138.128.212.149 36-wave-opensocial.googleusercontent.com
+138.128.212.149 37-wave-opensocial.googleusercontent.com
+138.128.212.149 38-wave-opensocial.googleusercontent.com
+138.128.212.149 39-wave-opensocial.googleusercontent.com
+138.128.212.149 40-wave-opensocial.googleusercontent.com
+202.112.29.82 2.android.pool.ntp.org
+173.255.117.195 account.cyanogenmod.org
+54.230.34.172 xtra3.gpsonextra.net
+54.230.35.90 xtra4.gpsonextra.net
+54.230.32.74 xtra2.gpsonextra.net
+65.39.128.135 xtra1.gpsonextra.net
 
 
