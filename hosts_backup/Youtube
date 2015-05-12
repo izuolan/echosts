@@ -1,43 +1,43 @@
-## YouTube
+﻿#https://github.com/catbb49294929/samecho_hosts
+#Hosts更新QQ群:162157583|资源分享
+
+
+# YouTube
 69.85.93.64 youtube.com
 69.85.93.64 www.youtube.com #youtube-ui.l.google.com
-0.0.0.0 ads.youtube.com #www3.l.google.com
 69.85.93.64 www.youtube-nocookie.com #youtube-ui.l.google.com
 69.85.93.64 m.youtube.com
-114.4.42.121 youtu.be
-114.4.42.121 gdata.youtube.com
-114.4.42.121 stage.gdata.youtube.com
-114.4.42.121 s.youtube.com #video-stats.l.google.com
-#2607:f8b0:4007:805::100e s2.youtube.com
-114.4.42.121 accounts.youtube.com #www3.l.google.com
-114.4.42.121 img.youtube.com #ytimg.l.google.com
-114.4.42.121 help.youtube.com
-114.4.42.121 upload.youtube.com #yt-video-upload.l.google.com
-114.4.42.121 uploads.stage.gdata.youtube.com #yt-video-upload.l.google.com
-114.4.42.121 insight.youtube.com #video-analytics.l.google.com
-114.4.42.121 apiblog.youtube.com #ghs.l.google.com
-#2404:6800:4008:c00::64 clients1.youtube.com
-114.4.42.121 i.ytimg.com #ytimg.l.google.com
-114.4.42.121 i1.ytimg.com #ytimg.l.google.com
-114.4.42.121 i2.ytimg.com #ytimg.l.google.com
-114.4.42.121 i3.ytimg.com #ytimg.l.google.com
-114.4.42.121 i4.ytimg.com #ytimg.l.google.com
-114.4.42.121 s.ytimg.com #ytstatic.l.google.com
+210.242.127.21 youtu.be
+210.242.127.21 gdata.youtube.com
+210.242.127.21 stage.gdata.youtube.com
+210.242.127.21 s.youtube.com #video-stats.l.google.com
+210.242.127.21 accounts.youtube.com #www3.l.google.com
+210.242.127.21 img.youtube.com #ytimg.l.google.com
+210.242.127.21 help.youtube.com
+210.242.127.21 upload.youtube.com #yt-video-upload.l.google.com
+210.242.127.21 uploads.stage.gdata.youtube.com #yt-video-upload.l.google.com
+210.242.127.21 insight.youtube.com #video-analytics.l.google.com
+210.242.127.21 apiblog.youtube.com #ghs.l.google.com
+210.242.127.21 i.ytimg.com #ytimg.l.google.com
+210.242.127.21 i1.ytimg.com #ytimg.l.google.com
+210.242.127.21 i2.ytimg.com #ytimg.l.google.com
+210.242.127.21 i3.ytimg.com #ytimg.l.google.com
+210.242.127.21 i4.ytimg.com #ytimg.l.google.com
+210.242.127.21 s.ytimg.com #ytstatic.l.google.com
 ## Google Video
-2404:6800:4005:807::1009 redirector.c.youtube.com
-114.4.42.121 video.google.com #video.l.google.com
-114.4.42.121 video.google.com.hk #video.l.google.com
-114.4.42.121 video.google.com.tw #video.l.google.com
-114.4.42.121 0.gvt0.com #video-thumbnails.l.google.com
-114.4.42.121 1.gvt0.com #video-thumbnails.l.google.com
-114.4.42.121 2.gvt0.com #video-thumbnails.l.google.com
-114.4.42.121 3.gvt0.com #video-thumbnails.l.google.com
-114.4.42.121 4.gvt0.com #video-thumbnails.l.google.com
-114.4.42.121 5.gvt0.com #video-thumbnails.l.google.com
-114.4.42.121 upload.video.google.com #sslvideo-upload.l.google.com
-114.4.42.121 video-stats.video.google.com #video-stats.l.google.com
+210.242.127.21 video.google.com #video.l.google.com
+210.242.127.21 video.google.com.hk #video.l.google.com
+210.242.127.21 video.google.com.tw #video.l.google.com
+210.242.127.21 0.gvt0.com #video-thumbnails.l.google.com
+210.242.127.21 1.gvt0.com #video-thumbnails.l.google.com
+210.242.127.21 2.gvt0.com #video-thumbnails.l.google.com
+210.242.127.21 3.gvt0.com #video-thumbnails.l.google.com
+210.242.127.21 4.gvt0.com #video-thumbnails.l.google.com
+210.242.127.21 5.gvt0.com #video-thumbnails.l.google.com
+210.242.127.21 upload.video.google.com #sslvideo-upload.l.google.com
+210.242.127.21 video-stats.video.google.com #video-stats.l.google.com
 69.85.93.64 manifest.googlevideo.com
-114.4.42.121 redirector.googlevideo.com
+210.242.127.21 redirector.googlevideo.com
 
 
 #YouTube
@@ -19445,3 +19445,5 @@
 69.85.93.64 r20---sn-i3b7kn7r.gvt1.com
 69.85.93.64 r20---sn-i3b7kn7s.gvt1.com
 69.85.93.64 r20---sn-i3b7kn7z.gvt1.com
+
+

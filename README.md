@@ -43,3 +43,7 @@ If you change the hosts remains inaccessible, can force the browser to use `http
 [Awolau](http://www.awolau.com/hosts/google-hosts.html)
 
 [Lennylxx](https://raw.githubusercontent.com/lennylxx/ipv6-hosts/master/hosts)
+
+
+#Thanks
+lennylxx-ipv6hosts
