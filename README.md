@@ -44,6 +44,7 @@ If you change the hosts remains inaccessible, can force the browser to use `http
 
 [Lennylxx](https://raw.githubusercontent.com/lennylxx/ipv6-hosts/master/hosts)
 
+[Racaljk hosts](https://github.com/racaljk/hosts)
 
 #Thanks
 lennylxx-ipv6hosts
