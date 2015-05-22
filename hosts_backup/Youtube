@@ -2,44 +2,6 @@
 #Hosts更新QQ群:162157583|资源分享
 
 
-# YouTube
-69.85.93.64 youtube.com
-69.85.93.64 www.youtube.com #youtube-ui.l.google.com
-69.85.93.64 www.youtube-nocookie.com #youtube-ui.l.google.com
-69.85.93.64 m.youtube.com
-210.242.127.21 youtu.be
-210.242.127.21 gdata.youtube.com
-210.242.127.21 stage.gdata.youtube.com
-210.242.127.21 s.youtube.com #video-stats.l.google.com
-210.242.127.21 accounts.youtube.com #www3.l.google.com
-210.242.127.21 img.youtube.com #ytimg.l.google.com
-210.242.127.21 help.youtube.com
-210.242.127.21 upload.youtube.com #yt-video-upload.l.google.com
-210.242.127.21 uploads.stage.gdata.youtube.com #yt-video-upload.l.google.com
-210.242.127.21 insight.youtube.com #video-analytics.l.google.com
-210.242.127.21 apiblog.youtube.com #ghs.l.google.com
-210.242.127.21 i.ytimg.com #ytimg.l.google.com
-210.242.127.21 i1.ytimg.com #ytimg.l.google.com
-210.242.127.21 i2.ytimg.com #ytimg.l.google.com
-210.242.127.21 i3.ytimg.com #ytimg.l.google.com
-210.242.127.21 i4.ytimg.com #ytimg.l.google.com
-210.242.127.21 s.ytimg.com #ytstatic.l.google.com
-## Google Video
-210.242.127.21 video.google.com #video.l.google.com
-210.242.127.21 video.google.com.hk #video.l.google.com
-210.242.127.21 video.google.com.tw #video.l.google.com
-210.242.127.21 0.gvt0.com #video-thumbnails.l.google.com
-210.242.127.21 1.gvt0.com #video-thumbnails.l.google.com
-210.242.127.21 2.gvt0.com #video-thumbnails.l.google.com
-210.242.127.21 3.gvt0.com #video-thumbnails.l.google.com
-210.242.127.21 4.gvt0.com #video-thumbnails.l.google.com
-210.242.127.21 5.gvt0.com #video-thumbnails.l.google.com
-210.242.127.21 upload.video.google.com #sslvideo-upload.l.google.com
-210.242.127.21 video-stats.video.google.com #video-stats.l.google.com
-69.85.93.64 manifest.googlevideo.com
-210.242.127.21 redirector.googlevideo.com
-
-
 #YouTube
 203.208.40.16 r1---sn-ni57dn7e.googlevideo.com
 203.208.40.17 r2---sn-ni57dn7e.googlevideo.com

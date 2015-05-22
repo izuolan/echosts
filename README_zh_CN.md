@@ -1,5 +1,5 @@
 ##关于 Samecho_hosts
-Google、Youtube、XDA、Wikipedia、Facebook、Instagram、Twitter、<s>**Flickr**</s>、<s>**Dropbox**</s>、Vimeo、Onedrive、Mozilla、Yahoo、500px、Tumblr、Gravatar、Deviantart、<s>**WordPress.com**</s>、Live.com、Soundcloud、Box.com、Amazonaws、Feedly、FlipBoard、Imgur、DuckDuckGo、Ixquick、<s>**Page**</s>、Typekit、Edgecast、V2ex、Anzhi、More CDN....
+Google、Youtube、XDA、Wikipedia、Facebook、Instagram、Twitter、Flickr、<s>**Dropbox**</s>、Vimeo、Onedrive、Mozilla、Yahoo、500px、Tumblr、Gravatar、Deviantart、WordPress.com、Live.com、Soundcloud、Box.com、Amazonaws、Feedly、FlipBoard、Imgur、DuckDuckGo、Ixquick、<s>**Page**</s>、Typekit、Edgecast、V2ex、Anzhi、More CDN....
 
 [下载](https://github.com/catbb49294929/samecho_hosts/archive/master.zip)
 
