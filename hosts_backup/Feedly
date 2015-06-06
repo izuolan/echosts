@@ -3,8 +3,12 @@
 
 
 #Feedly 
-162.159.252.5 www.feedly.com
-162.159.252.5 feedly.com
-173.194.194.121 s3.feedly.com
+162.159.252.5	www.feedly.com
+198.41.247.156	www.feedly.com
+162.159.252.5 	feedly.com
+198.41.247.156	feedly.com
+173.194.194.121	s3.feedly.com
+162.159.255.4	s3.feedly.com
+64.233.184.141	feedly-beta.appspot.com
 
 
