@@ -2,6 +2,8 @@
 #Hosts更新QQ群:162157583|资源分享
 
 
+# Google
+
 # g-Alternative-IP
 # 203.133.8.246
 # 203.133.8.246
@@ -550,6 +552,7 @@
 203.133.8.246    accounts.google.cat
 
 # g-Global-etc
+203.133.8.246    privacy.google.com
 203.133.8.246    accounts.blogger.com
 203.133.8.246    admob.com
 203.133.8.246    www.admob.com
@@ -3531,5 +3534,6 @@
 203.133.8.246    www.golang.org
 203.133.8.246    blog.golang.org
 203.133.8.246    play.golang.org
+203.133.8.246    tour.golang.org
 
 
