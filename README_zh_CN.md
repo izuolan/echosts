@@ -1,7 +1,7 @@
-##关于 Samecho_hosts
+##关于 Echosts
 Google、Youtube、XDA、Wikipedia、Facebook、Instagram、Twitter、Flickr、Dropbox、Vimeo、Onedrive、Mozilla、Yahoo、500px、Tumblr、Gravatar、Deviantart、WordPress.com、Live.com、Soundcloud、Box.com、Amazonaws、Feedly、FlipBoard、Imgur、DuckDuckGo、Ixquick、Page、Typekit、Edgecast、V2ex、Anzhi、More CDN....
 
-[下载](https://github.com/catbb49294929/samecho_hosts/archive/master.zip)
+[下载](https://github.com/izuolan/echosts/archive/master.zip)
 
 
 ##更新说明
