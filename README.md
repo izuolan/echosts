@@ -33,19 +33,12 @@ If in this list does not have the websites that you need, you can add the Q grou
 If you change the hosts remains inaccessible, can force the browser to use `https://` access , rookie can use the chrome plugin : [KB SSL Enforcer](https://chrome.google.com/webstore/detail/kb-ssl-enforcer/flcpelgcagfhfoegekianiofphddckof)。
 
 
-#More hosts
-[360KB](http://www.360kb.com/kb/2_122.html)
-
-[Netsh](http://serve.netsh.org/pub/ipv4-hosts/)
-
-[Yadgen](http://blog.yadgen.com/?page_id=585)
-
-[Awolau](http://www.awolau.com/hosts/google-hosts.html)
-
-[Lennylxx](https://raw.githubusercontent.com/lennylxx/ipv6-hosts/master/hosts)
-
-[Racaljk hosts](https://github.com/racaljk/hosts)
-
 #Thanks
 * lennylxx-ipv6hosts
 * Don't Panic Group
+* [360KB](http://www.360kb.com/kb/2_122.html)
+* [Netsh](http://serve.netsh.org/pub/ipv4-hosts/)
+* [Yadgen](http://blog.yadgen.com/?page_id=585)
+* [Awolau](http://www.awolau.com/hosts/google-hosts.html)
+* [Lennylxx](https://raw.githubusercontent.com/lennylxx/ipv6-hosts/master/hosts)
+* [Racaljk hosts](https://github.com/racaljk/hosts)
