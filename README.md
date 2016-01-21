@@ -15,11 +15,11 @@ Delete the line means the web site has not yet been restored
 
 Windows：`C:WINDOWS/system32/drivers/etc/hosts`
 
+OSX：`/etc/hosts`
 
 Android：`root/system/etc/hosts`
 
-
-Linux（Ubuntu）：`/etc/hosts`
+Linux：`/etc/hosts`
 
 
 > Youtube can direct connection video.
@@ -39,5 +39,6 @@ If you change the hosts remains inaccessible, can force the browser to use `http
 * [Yadgen](http://blog.yadgen.com/?page_id=585)
 * ~~[Awolau](http://www.awolau.com/hosts/google-hosts.html)~~
 * [Lennylxx](https://raw.githubusercontent.com/lennylxx/ipv6-hosts/master/hosts)
+* [Liuker](https://github.com/liuker0x007/hosts)
 * [Racaljk hosts](https://github.com/racaljk/hosts)
 * [Laod](http://laod.cn/hosts/2015-google-hosts.html)
