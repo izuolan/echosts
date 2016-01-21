@@ -15,9 +15,9 @@ Delete the line means the web site has not yet been restored
 
 Windows：`C:WINDOWS/system32/drivers/etc/hosts`
 
-
 Android：`root/system/etc/hosts`
 
+OSX：`/etc/hosts`
 
 Linux（Ubuntu）：`/etc/hosts`
 
