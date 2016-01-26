@@ -40,5 +40,5 @@ If you change the hosts remains inaccessible, can force the browser to use `http
 * ~~[Awolau](http://www.awolau.com/hosts/google-hosts.html)~~
 * [Lennylxx](https://raw.githubusercontent.com/lennylxx/ipv6-hosts/master/hosts)
 * [Racaljk hosts](https://github.com/racaljk/hosts)
-* [Laod](http://laod.cn/hosts/2015-google-hosts.html)
+* [Laod](http://laod.cn/hosts/2016-google-hosts.html)
 * [Liuker](https://github.com/liuker0x007/hosts)
