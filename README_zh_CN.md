@@ -19,4 +19,3 @@ Android：`/system/etc/hosts`
 Linux（Ubuntu）：`/etc/hosts`
 
 > 解压文件中有一个hosts文件夹，里面分类存放了各网站的hosts，其中Youtube的hosts可以直接连接视频（samecho_hosts没有添加Youtube视频的相关hosts，需要的话自己添加）。
-
