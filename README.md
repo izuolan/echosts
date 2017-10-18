@@ -1,4 +1,4 @@
-##About Echosts
+## About Echosts
 Google、Youtube、XDA、Wikipedia、Facebook、Instagram、Twitter、Flickr、Dropbox、Vimeo、Onedrive、Mozilla、Yahoo、500px、Tumblr、Gravatar、Deviantart、WordPress.com、Live.com、Soundcloud、Box.com、Amazonaws、Feedly、FlipBoard、Imgur、DuckDuckGo、Ixquick、Page、Typekit、Edgecast、V2ex、Anzhi、More CDN....
 
 [Download](https://raw.githubusercontent.com/izuolan/echosts/master/hosts)
@@ -6,11 +6,11 @@ Google、Youtube、XDA、Wikipedia、Facebook、Instagram、Twitter、Flickr、D
 
 [中文说明](https://github.com/izuolan/echosts/blob/master/README_zh_CN.md)
 
-##Update Explain
+## Update Explain
 Delete the line means the web site has not yet been restored
 
 
-##Usage
+## Usage
 
 
 Windows：`C:WINDOWS/system32/drivers/etc/hosts`
@@ -25,15 +25,15 @@ Linux（Ubuntu）：`/etc/hosts`
 > Youtube can direct connection video.
 
 
-##Feedback
+## Feedback
 If in this list does not have the websites that you need, you can add the Q group feedback. QQ group：162157583
 
 
-##Problem
+## Problem
 If you change the hosts remains inaccessible, can force the browser to use `https://` access , rookie can use the chrome plugin : [KB SSL Enforcer](https://chrome.google.com/webstore/detail/kb-ssl-enforcer/flcpelgcagfhfoegekianiofphddckof)。
 
 
-#Thanks
+# Thanks
 * [360KB](http://www.360kb.com/kb/2_122.html)
 * [Netsh](http://serve.netsh.org/pub/ipv4-hosts/)
 * [Yadgen](http://blog.yadgen.com/?page_id=585)
